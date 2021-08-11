@@ -14,7 +14,7 @@ lua # run lua
 require("mw")
 show=require("Module:zh-see").show
 f1=mw.getCurrentFrame()
-f2=f1:newChild({title="装13",args={["1"]="裝13"}})
+f2=f1:newChild({title="装13",args={"裝13"}})
 f3=f2:newChild({title="Template:zh-see"})
 mw.title.setCurrent("装13")
 print(show(f3))
@@ -51,6 +51,7 @@ show_kango=require("Module:ja-see").show_kango
 f1=mw.getCurrentFrame()
 f2=f1:newChild({title="あい",args={"哀","愛","隘","埃","娃","靄",}})
 f3=f2:newChild({title="Template:ja-see-kango"})
+mw.title.setCurrent("あい")
 print(show_kango(f3))
 ```
 will produce:
@@ -106,6 +107,3 @@ will produce:
 | (This term, <span lang="ja" class="Jpan">あい</span>, is an alternative spelling of the above Sino-Japanese terms.)
 |}
 ```
-
-
-
