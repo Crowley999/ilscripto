@@ -1,0 +1,17 @@
+{{also|装13}}
+==Chinese==
+{{zh-forms|s=装13}}
+
+===Etymology===
+Constructed from {{zh-l|裝B}} by disassembling {{zh-l|B}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhuāngshísān,zhuāngbī
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{zh-alt-form|裝屄}}

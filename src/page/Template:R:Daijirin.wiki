@@ -1,0 +1,6 @@
+<span class="book">'''2006''', <cite>{{lang|ja|大辞林}} (''[[w:Daijirin|Daijirin]]'')</cite>, Third Edition (in Japanese), [[w:Tōkyō|Tōkyō]]: [[w:Sanseidō|Sanseidō]], {{ISBN|4-385-13905-9}}</span><noinclude>
+{{shortcut|Template:R:ja:DJR}}
+[[Category:Japanese reference templates|Daijirin]]
+
+[[ko:틀:다이지린]]
+</noinclude>

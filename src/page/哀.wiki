@@ -1,0 +1,102 @@
+{{character info}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=06|sn=9|four=00732|canj=YRHV|ids=⿳亠口𧘇}}
+
+====References====
+* {{Han ref|kx=0188.110|dkj=03580|dj=0407.110|hdz=10620.100|uh=54C0|ud=21696|bh=AB73|bd=43891}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|ls=psc|衣|口|c1=p|c2=s|t2=mouth}}.
+
+===Pronunciation===
+{{zh-pron
+|m=āi
+|m-s=
+|c=oi1
+|c-t=
+|g=
+|h=pfs=ôi;gd=oi1
+|j=ghai1
+|mb=uói
+|md=ăi
+|mn=ai
+|mn-t=ai1
+|w=1e
+|x=
+|mc=y
+|oc=y
+|cat=v,a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[lament]]; to [[mourn]]
+#: {{zh-x|哀悼|to lament, to mourn}}
+#: {{zh-x|哀求|to beg, to implore}}
+# [[sad]], [[mournful]], [[pitiful]], [[sorrowful]]
+# [[pity]]; [[grief]]
+#: {{zh-x|哀痛|to grieve, grief}}
+
+===Compounds===
+{{zh-der|哀傷|哀哭|哀歌:elegy|七哀|乞哀告憐|可哀|哀兵|哀兵必勝|哀冊|哀厲|哀吟|哀告|哀哀|哀哀欲絕|哀哉|哀子|哀家|哀弔|哀思|哀怨|哀恫|哀悼|哀悽|哀愁|哀愍|哀感頑豔|哀慟|哀憐|哀懇|哀戚|哀啟|哀杖|哀榮|哀樂|哀歎|哀毀骨立|哀求|哀江南賦|哀江頭|哀泣|哀王孫|哀痛|哀矜|哀素|哀絲豪竹|哀而不傷|哀腸百轉|哀號|哀訴|哀詔|哀誄|哀豔|哀輓|哀辭|哀音|哀鳴|哀鴻|哀鴻遍地|哀鴻遍野|喜怒哀樂|嗚呼哀哉|孤哀子|息哀|悲哀|憂國哀民|於呼哀哉|獨弦哀歌|生榮死哀|矜哀|節哀|節哀順變|羊角哀|致哀|舉哀|苦苦哀求|莫里哀|誌哀|銜哀致誠|鴻雁哀鳴|默哀}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=口06}}
+
+# [[pathetic]]
+# [[grief]]
+# [[sorrow]]
+
+====Readings====
+{{ja-readings
+|goon=あい, お
+|kanon=あい
+|kun=あわ-れ, あわ-れむ, かな-し.い
+}}
+
+===Etymology===
+{{ja-kanjitab|あい|yomi=o}}
+From {{der|ja|ltc|sort=あい|-}} {{ltc-l|哀}}.
+
+===Noun===
+{{ja-noun|あい}}
+
+# [[grief]]; [[sorrow]]; [[sadness]]; [[lamentation]]
+#: {{ja-usex-inline|'''哀'''を思う|'''あい''' を おも.う|to feel grief; to grieve; to mourn; lament}}
+# [[pity]]; [[sympathy]]
+
+====Synonyms====
+* {{ja-r|悲しみ|かなしみ}}
+* {{ja-r|嘆き|なげき}}
+* {{ja-r|憂い|うれい}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=애|mr=ae}}
+
+# {{rfdef|ko|sort=口06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|reading=ai|rs=口06}}
+
+# {{rfdef|vi|sort=口06}}

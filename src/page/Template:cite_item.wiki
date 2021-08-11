@@ -1,0 +1,1 @@
+<includeonly>{{#invoke:Cite item|cite|item={{{1|}}}|lang={{{lang|}}}|page={{{page|}}}}}</includeonly><noinclude>[[Category:Sandbox templates]]</noinclude>

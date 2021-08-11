@@ -1,0 +1,1 @@
+{{#invoke:ja-kanjitab|show}}<noinclude>{{documentation}}</noinclude>

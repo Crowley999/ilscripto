@@ -1,0 +1,60 @@
+<!--
+This is a list of entries that won't be checked for redlinks. Usually, they are large entries, where redlink checking can cause module errors.
+-->{{#switch:{{PAGENAME}}<!--
+-->|-ere|A|a|Albania|all|ama|an|and|animal|answer<!--
+-->|arma|Armenia|as|Asia|ash|Australia<!--
+-->|B|b|baba|back|bank|bar|bat|be|bed|bee|beer<!--
+-->|big|bird|black|blue|body|bone|book|box|bow|boy<!--
+-->|brain|bridge|brown|bus|butterfly<!--
+-->|C|c|car|cheese|chicken|child|China|church|clock<!--
+-->|coffee|cold|color|come|copper|corpse|country<!--
+-->|da|de|death|do|drink|drop|duck<!--
+-->|e|ear|earth|east|eat|eight|en|English|et<!--
+-->|face|family|fan|far|fat|father|fear<!--
+-->|first|fish|five|flag|flower|fly<!--
+-->|foot|four|fog|for|fox|friend|fruit<!--
+-->|German|girl|glass|God|gold|good|grass|grave|green<!--
+-->|H|hair|hammer|hat|he|heart|hello|here|hit|home|hot|house<!--
+-->|I|i|ice|in|India|iron|is|it<!--
+-->|key|kill|king|knife|know<!--
+-->|la|lake|lama|land|language|leaf|leg<!--
+-->|life|light|listen|little|live|liver<!--
+-->|lo|London|long|love<!--
+-->|ma|mal|mama|man|mare|me|meat|mi|mies|money|mouse|mouth<!--
+-->|N|n|na|name|neck|nest|net|new|ni|night|nine|no|number<!--
+-->|o|oil|old|on|one|open|orange<!--
+-->|papa|paper|Paris|penis|people<!--
+-->|pig|plant|play|po|port|Portugal|queen<!--
+-->|rainbow|rat|red|rice|right|ring|river|root|rose|run<!--
+-->|salt|say|se|sea|second|see|seven|sex|shadow<!--
+-->|si|silver|sin|sister|sit|six|skin|sky|smoke<!--
+-->|snake|snow|sol|speak|spring|stand|stone|strong|sugar|sweet<!--
+-->|ta|tail|table|take|te|tea|ten|think|three|ti|time<!--
+-->|to|tongue|tree|tu|two|työ|U|u|ver<!--
+-->|walk|war|water|west|what|when|white<!--
+-->|wind|winter|wolf|woman|wood|word<!--
+-->|year|yellow|yes<!--
+-->|brother/translations|cat/translations|dog/translations|eye/translations<!--
+-->|fire/translations|hand/translations|man/translations|sun/translations<!--
+-->|βάρβαρος|ποικίλος<!--
+-->|一|三|上|世|中|九|事|二|交|人|今|仔|仙|代|令|伯|何|作|來|個<!-- Radical 10
+-->|元|刀|分|北|南|口|吃|和|地|場|塊|夜|夢|大|女|好|子|學|對|山|常<!-- Radical 50
+-->|幾|彼|心|愛|我|手|數|新|方|日|星|月|望|木|本|朝|東|歌|母<!-- Radical 80
+-->|比|水|河|海|清|火|父|生|白|百|的|目|真|種|空|箸|紅|米|色|花|茶|著<!-- Radical 140
+-->|蛇|行|見|話|車|過|都|酒|金|長|開|零|青|頭|風|馬|高|魚|點|龍<!--
+-->|Cardinal numbers 0 to 9|Spanish diminutives of given names|Common Russian verbs|Ancient Greek Swadesh list|Frequency dictionary of the modern Russian language (the Russian National Corpus)/1|Frequency dictionary of the modern Russian language (the Russian National Corpus)/8|List of German cognates with English|=|<!--
+
+The last five refer to Appendix:Spanish diminutives of given names, Appendix:Common Russian verbs, Appendix:Frequency dictionary of the modern Russian language (the Russian National Corpus)/1, Appendix:Frequency dictionary of the modern Russian language (the Russian National Corpus)/8; the namespace has been stripped.
+
+    -->{{#switch:{{NAMESPACE}}||Reconstruction|Appendix=<!--
+
+        This is the list of languages with redlink checking enabled.
+        -->{{#switch:{{{1}}}|afa-pro|ang|ar|ary|cel-pro|cel-gau|da|egy|es|fi|gem-pro|gml|got|grc|iir-pro|ine-pro|it|itc-pro|map-pro|mt|non|ota|poz-pro|poz-pol-pro|pt|ru|sem-pro|sit-pro|sla-pro|te|zh|cmn|yue|nan|hak=<!-- testing
+            -->{{#ifeq:{{isValidPageName|{{{2|}}}}}|valid|<!--
+                -->{{#invoke:redlink category|cat|1={{{1}}}|2={{{2}}}|template={{{template|-}}}}}<!--
+            -->}}<!--
+        -->}}<!--
+    -->}}<!--
+-->}}<!--
+
+--><noinclude>{{documentation}}</noinclude>

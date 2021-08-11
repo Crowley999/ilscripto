@@ -1,0 +1,1 @@
+{{#invoke:qualifier|sense_t}}<noinclude>{{documentation}}</noinclude>

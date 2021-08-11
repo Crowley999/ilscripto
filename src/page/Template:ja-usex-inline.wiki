@@ -1,0 +1,9 @@
+<!--
+-->{{#if:{{{3|}}}<!--
+-->|<!--
+  -->{{ux|ja|sc=None|2={{furigana|{{{1}}}|{{{2}}}}}|tr={{{rom|{{#invoke:ja|kana_to_romaji|{{{2}}}}}}}}|3={{{3}}}|lit={{{lit|}}}|inline=1}}<!--
+-->|<!--
+  -->{{ux|ja|sc=None|2={{furigana|{{{1}}}}}|tr={{{rom|{{#invoke:ja|kana_to_romaji|{{{1}}}}}}}}|3={{{2}}}|lit={{{lit|}}}|inline=1}}<!--
+-->}}<!--
+
+--><noinclude>{{documentation}}</noinclude>

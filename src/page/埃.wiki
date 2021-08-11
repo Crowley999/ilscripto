@@ -1,0 +1,120 @@
+{{character info}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=07|sn=10|four=43134|canj=GIOK|ids=⿰土矣}}
+
+====Derived characters====
+* [[𤠱]] [[𣘂]]
+
+====See also====
+* ''Chinese Numeral'' '''埃'''
+** '''Next:''' [[渺]]
+** '''Last:''' [[塵]]
+
+===Further reading===
+* {{Han ref|kx=0229.190|dkj=05107|dj=0465.090|hdz=10447.150|uh=57C3|ud=22467|bh=AE4A|bd=44618}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|土|矣|ls=psc|c1=s|c2=p|t1=earth; soil}}.
+
+===Pronunciation===
+{{zh-pron
+|m=āi
+|m-s=
+|c=oi1,aai1
+|c-t=
+|g=
+|h=pfs=âi
+|j=
+|mb=ái
+|md=ăi
+|mn=ai/ia
+|mn_note=ai - literary; ia - vernacular
+|mn-t=
+|w=2e,2i
+|w_note=2e - usual pronunciation; 2i - in {{zh-l|*埃及}}
+|x=
+|mc=y
+|oc=y
+|ma=
+|cat=n,num,pn
+}}
+
+===Definitions===
+{{head|zh|Han character}}
+
+# [[fine]] [[dust]], [[dirt]]
+#: {{zh-x|塵埃|dust}}
+# [[angstrom]]
+# one ten-[[billionth]], the number 10<sup>-10</sup>
+# (''a phonetic component'')
+#: {{zh-x|^埃及|Egypt}}
+#: {{zh-x|^埃塞俄比亞|Abyssinia}}
+#: {{zh-x|蘇維埃|soviet}}
+# {{zh-abbrev|埃及|Egypt}}
+
+===Compounds===
+{{zh-der|埃及|埃及曆|埃塵|埃滅|塵埃|塵埃傳染|塵埃落定|星際塵埃|涓埃|蘇維埃|雰埃}}
+
+{{cln|zh|numeral symbols|numerals}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=土07}}
+
+====Readings====
+{{ja-readings
+|goon=あい
+|kanon=あい
+|kun=ちり-,ほこり-
+}}
+
+===Noun===
+{{ja-kanjitab|y=on}}
+{{ja-noun|あい}}
+
+# one ten-[[billionth]]
+
+===Noun===
+{{ja-kanjitab|ほこり|y=k}}
+{{ja-noun|ほこり}}
+
+# [[dust]]
+
+[[Category:Japanese numeral symbols|あい]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|티끌|애}}
+
+# [[fine]] [[dust]], [[dirt]]
+
+===References===
+* [https://hanja.dict.naver.com/hanja?q=埃 Naver Hanja Dictionary: 埃]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|hanviet=ai|nom=ai}}
+
+# {{rfdef|vi|sort=土07}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=57C3 Nom Foundation]
+
+[[Category:Kennybot testing category]]

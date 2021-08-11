@@ -1,0 +1,1 @@
+<includeonly>[[Special:BookSources/{{{1}}}|→ISBN]]{{#invoke:check isxn|check_isbn|{{{1}}}|error=&nbsp;<span class="error" style="font-size:88%">Invalid&nbsp;ISBN</span>[[Category:Pages with ISBN errors]]}}</includeonly><noinclude>{{documentation}}</noinclude>

@@ -1,0 +1,1 @@
+<includeonly>{{#invoke:ja-see|show_kango}}</includeonly><noinclude>{{documentation}}</noinclude>

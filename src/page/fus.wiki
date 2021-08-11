@@ -1,0 +1,300 @@
+{{also|fús|fûs|füs|FUs|fuŝ-}}
+==Albanian==
+
+===Alternative forms===
+
+* {{l|sq|fut}}
+
+===Etymology===
+From {{der|sq|sqj-pro|*sputja}}, from {{der|sq|ine-pro|*pHu-tó-}} (compare {{cog|sh|pítati||to ask}}, {{cog|txb|putk-||to divide, share}}, {{cog|la|puto|putāre|to prune}}).
+
+===Verb===
+{{sq-verb|futa|futur}}
+
+# I [[insert]], I [[put]] (something) in
+# [[I]] [[fuck]] {{q|vulgar, slang}}
+#: '''''Futja''' (karin) morë.''
+#:: '''''Fuck it''' man''.
+
+----
+
+==Aromanian==
+
+===Alternative forms===
+* {{l|rup|fusu}}
+
+===Etymology===
+From {{inh|rup|la|fūsus}}. Compare {{cog|ro|fus}}.
+
+===Noun===
+{{head|rup|noun|g=n}} (''plural'' '''[[fusi]]''' / '''[[fuse]]''' or '''[[fusuri]]''')
+
+# [[spindle]]
+
+====Related terms====
+* {{l|rup|fusar}}
+
+----
+
+==Catalan==
+
+===Etymology===
+From {{inh|ca|la|fūsus}}.
+
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|ca|us}}
+
+===Noun===
+{{ca-noun|m}}
+
+# [[spindle]]
+
+====Derived terms====
+* {{l|ca|fus horari}}
+
+----
+
+==French==
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-Lyokoï-fus.wav|Audio}}
+
+===Verb===
+{{head|fr|verb form}}
+
+# {{inflection of|fr|être||1|s|phis}}
+# {{inflection of|fr|être||2|s|phis}}
+
+----
+
+==Maltese==
+
+===Etymology===
+Probably from {{bor|mt|scn|fusu}}, from {{der|mt|la|fusus|t=spindle}}; but perhaps merged with {{der|mt|ar|فُؤُوس}}, plural of {{m|ar|فَأْس|lit=axe}}, which is used figuratively for different kinds of protrusions (or is it conceivable that this Arabic use is itself influenced by the Latin?). The plural in {{m|mt|-ien}} at any rate speaks in favour of an early borrowing.
+
+===Pronunciation===
+* {{IPA|mt|/fuːs/}}
+
+===Noun===
+{{mt-noun|g=m|p=fusien}}
+
+# [[axle]], [[axis]] 
+
+----
+
+==Middle English==
+
+===Alternative forms===
+* {{l|enm|fous}}
+
+===Etymology===
+From {{der|enm|ang|fūs}}, see below
+
+===Pronunciation===
+* {{IPA|enm|/fuːs/}}
+
+===Adjective===
+{{enm-adj}}
+
+# [[ready]], [[eager]], striving forward, [[inclined]] to, [[willing]], [[prompt]]
+#: ''Of vr saul to be ai '''fus''' Again þe com, þat es sa crus.'' &mdash; ''Cursor Mundi'', 1400
+# [[ardent]], [[zealous]], [[passionate]], [[expectant]], [[brave]], [[noble]]: ready to depart, die; [[dying]]
+#: ''Þaa foles feluns þat war '''fuus''' All vmlapped loth huse.'' &mdash; ''Cursor Mundi'', 1400
+
+====Related terms====
+* {{l|enm|fusen}} &mdash; to urge on or exhort
+
+====Descendants====
+* [[fouse]]
+
+----
+
+==Norman==
+
+===Verb===
+{{nrf-verb-form}}
+
+# {{inflection of|nrf|êt'||1|s|pret}}
+
+----
+
+==Norwegian Bokmål==
+
+===Etymology===
+From {{inh|nb|non|fúss}}, from {{inh|nb|gem-pro|*funsaz}}, from {{inh|nb|ine-pro|*pn̥tstós}}. Ultimately from the {{der|nb|ine-pro|-}} root {{m|ine-pro|*pent-||to tread, go}}. The origin of the noun is uncertain, but is possibly related.
+
+===Adjective===
+{{nb-adj-1}}
+
+# [[eager]]
+
+===Noun===
+{{nb-noun-m1}}
+
+# the [[first]] one when playing a [[game]]
+
+===References===
+* {{R:The Bokmål Dictionary}}
+
+----
+
+==Norwegian Nynorsk==
+
+===Etymology===
+{{root|nn|ine-pro|*pent-}}
+From {{inh|nn|non|fúss}}, from {{inh|nn|gem-pro|*funsaz}}, from {{inh|nn|ine-pro|*pn̥tstós}}. Ultimately from the {{der|nn|ine-pro|-}} root {{m|ine-pro|*pent-||to tread, go}}. The origin of the noun is uncertain, but is possibly related.
+
+===Adjective===
+{{nn-adj-1}}
+
+# [[eager]]
+
+===Noun===
+{{nn-noun-m1}}
+
+# the [[first]] one when playing a [[game]]
+
+===References===
+* {{R:The Nynorsk Dictionary}}
+
+----
+
+==Old Dutch==
+
+===Etymology===
+From {{inh|odt|gem-pro|*fuhsaz}}.
+
+===Noun===
+{{odt-noun|m}}
+
+# {{topics|odt|Animals}} [[fox]]
+
+====Alternative forms====
+* {{l|odt|vus}}
+
+====Descendants====
+* {{desctree|dum|vos}}
+
+====Further reading====
+* {{R:ONW|360}}
+
+----
+
+==Old English==
+
+===Etymology===
+From {{inh|ang|gem-pro|*funsaz||ready, willing}}. Cognate with {{cog|osx|fūs}}, {{cog|goh|funs}}, {{cog|non|fúss}}.
+
+===Pronunciation===
+* {{ang-IPA|fūs}}
+
+===Noun===
+{{ang-noun|n|head=fūs}}
+
+# a hastening, progress <!-- from B-T -->
+#: {{quotei|ang|Se þe leófra manna fús feor wlátode.|He who beheld afar the dear men's progress.}}
+
+====Declension====
+{{ang-decl-noun-a-n|fūs}}{{attention|ang|Not sure about the declen. of the noun}}
+
+===Adjective===
+{{ang-adj|fūs}}
+
+# [[ready]], [[eager]], striving forward, [[inclined]] to, [[willing]], [[prompt]]
+#: {{quotei|ang|Se ðe stód '''fús''' on faroþe.|He who stood ready on the beach.}}
+#: {{quotei|ang|Hwæðere þær '''fuse''' / feorran cwoman / to þam æðelinge.|Nevertheless the eager ones came from afar to the lord. (The Dream of the Rood)}}
+# [[expectant]], [[brave]], [[noble]]: ready to depart, die; [[dying]]
+
+====Declension====
+{{ang-adecl|fūs}}
+
+====Derived terms====
+* {{l|ang|fūse}}, {{l|ang|fūslīċe||[[readily]], [[gladly]]}}
+* {{l|ang|utfus||[[out-eagerː eager to sail]]}}
+* {{l|ang|fūslēoþ||death-song, [[dirge]]}}
+* {{l|ang|fūslīċ||ready to start: [[excellent]]}}
+* {{l|ang|fūsnes||[[quickness]]}}
+
+====Related terms====
+* {{l|ang|fȳsan||to send forth, impel, stimulate: drive away, put to flight, banish: (usu. reflex.) hasten, prepare oneself}}
+* {{l|ang|fȳsian}}, {{l|ang|fēsian||to drive away}}
+
+====Descendants====
+* {{desc|en|fouse}}
+
+----
+
+==Polish==
+
+===Pronunciation===
+* {{pl-IPA}}
+
+===Etymology 1===
+From {{bor|pl|cs|fous}}, from {{der|pl|sla-pro|*ǫsъ}}.
+
+====Noun====
+{{pl-noun|m-in}}
+
+# {{lb|pl|Cieszyn Silesia}} {{alternative form of|pl|wąs}}.
+
+===Etymology 2===
+
+====Noun====
+{{pl-noun|m-an}}
+
+# {{lb|pl|Masovia}} {{l|en|boar}} (male pig)
+
+=====Declension=====
+{{pl-decl-noun-m-an}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:PWN}}
+
+[[Category:Masovian Polish]]
+
+{{c|pl|Face|Hair|Male animals|Pigs}}
+
+----
+
+==Romanian==
+
+===Etymology===
+From {{inh|ro|la|fūsus}}.
+
+===Noun===
+{{ro-noun|n|fuse}}
+
+# [[spindle]]
+# [[shaft]]
+
+====Declension====
+{{ro-noun-n|pl=fuse|def=fusul}}
+
+====Related terms====
+* {{l|ro|fusar}}
+
+----
+
+==Westrobothnian==
+
+===Etymology===
+From {{inh|gmq-bot|non|fúss}}, from {{inh|gmq-bot|gem-pro|*funsaz}}. Compare {{m|gmq-bot|foss}}.
+
+===Adjective===
+{{head|gmq-bot|adjective}}
+
+# [[eager]]
+
+====Derived terms====
+* {{l|gmq-bot|foss}}
+* {{l|gmq-bot|frammfos}} (Swedish: [[framfusig#Swedish|framfusig]])
+* {{l|gmq-bot|frammfus}}
+* {{l|gmq-bot|frammfusing}}
+* {{l|gmq-bot|frammfusn}}
+* {{l|gmq-bot|fälfus}}
+
+===References===
+* [[w:sv:Ernst Rietz|Rietz, Johan Ernst]], “[http://runeberg.org/dialektl/0202.html FUS]”, in ''Svenskt dialektlexikon: ordbok öfver svenska allmogespråket'' [''Swedish dialectal lexicon: a dictionary for the Swedish lects''] (in Swedish), 1962 edition, Lund: C. W. K. Gleerups Förlag, published 1862–1867, page 172

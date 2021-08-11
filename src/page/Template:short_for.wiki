@@ -1,0 +1,7 @@
+{{check deprecated lang param usage|lang={{{lang|}}}|<!--
+
+-->{{#invoke:form of/templates|form_of_t|short for|cat=short forms|withcap=1|withdot=1}}<!--
+
+-->}}<!--
+
+--><noinclude>{{documentation}}</noinclude>

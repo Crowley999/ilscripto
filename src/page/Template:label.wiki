@@ -1,0 +1,3 @@
+{{#invoke:labels/templates|show}}<!--
+
+--><noinclude>{{documentation}}</noinclude>

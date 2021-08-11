@@ -1,0 +1,3 @@
+{{#invoke:gem-headword|show|nouns}}<!--
+
+--><noinclude>{{documentation}}</noinclude>

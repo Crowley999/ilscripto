@@ -1,0 +1,3 @@
+<span class="book">'''1998''', <cite>{{lang|ja|NHK日本語発音アクセント辞典}} (''[[w:NHK|NHK]] Japanese Pronunciation Accent Dictionary'')</cite> (in Japanese), [[w:Tōkyō|Tōkyō]]: [[w:NHK|NHK]], {{ISBN|978-4-14-011112-3}}</span><noinclude>
+[[Category:Japanese reference templates|NHK Japanese Pronunciation Accent Dictionary]]
+</noinclude>

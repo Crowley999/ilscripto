@@ -1,0 +1,1 @@
+<includeonly>{{#invoke:ja-headword|show|nouns}}</includeonly><noinclude>{{documentation}}</noinclude>

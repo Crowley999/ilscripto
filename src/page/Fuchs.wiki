@@ -1,0 +1,201 @@
+==English==
+
+===Etymology===
+From {{etyl|de|en}} {{m|de|Fuchs}}. {{doublet|en|Fox}}.
+
+===Pronunciation===
+* {{IPA|en|/fjuːks/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-Fuchs.wav|Audio (UK)}}
+
+===Proper noun===
+{{en-proper noun}}
+
+# {{surname|en|from=German}}
+
+====Derived terms====
+* {{l|en|fuchsia}}
+* {{l|en|Fuchsian group}}
+
+===Statistics===
+* According to the 2010 United States Census, ''Fuchs'' is the 2,784<sup>th</sup> most common surname in the United States, belonging to 12,958 individuals. ''Fuchs'' is most common among White (95.03%) individuals.
+
+----
+
+==Alemannic German==
+
+===Alternative forms===
+* {{alter|gsw|Fugs|fuks|fuksch|fòcks|vucks}}
+
+===Etymology===
+From {{inh|gsw|goh|fuhs}}, from {{inh|gsw|gmw-pro|*fuhs}}, from {{inh|gsw|gem-pro|*fuhsaz}}, from {{inh|gsw|ine-pro|*púḱsos||the tailed one}}. Cognate with {{cog|de|Fuchs}}, {{cog|nl|vos}}, {{cog|en|fox}}, also {{cog|sa|पुच्छ||tail}}, {{cog|txb|päkā||tail, chowry}}.
+
+===Pronunciation===
+* {{a|Zurich}} {{IPA|gsw|/fuxs/}}
+
+===Noun===
+{{head|gsw|noun|g=m|plural|Füchs|diminutive|Füchsli}}
+
+# [[fox]]
+
+{{topics|gsw|Canids|Foxes}}
+
+----
+
+==German==
+
+===Pronunciation===
+* {{IPA|de|/fʊks/}}
+* {{audio|de|De-Fuchs.ogg|audio}}
+* {{rhymes|de|ʊks}}
+
+===Etymology 1===
+From {{inh|de|gmh|vuhs}}, from {{inh|de|goh|fuhs}}, from {{inh|de|gmw-pro|*fuhs}}, from {{inh|de|gem-pro|*fuhsaz}}, from {{inh|de|ine-pro|*púḱsos||the tailed one}}, from {{m|ine-pro|*puḱ-||tail}}. Cognate with {{cog|en|fox}}, {{cog|sa|पुच्छ|tr=púccha}}.
+
+====Noun====
+{{de-noun|m|Fuchses|Füchse|Füchslein|dim2=Füchschen|f=Füchsin}}
+
+# [[fox]] {{gloss|animal}}
+#: {{ux|de|'''Fuchs''', du hast die Gans gestohlen. Gib sie wieder her!|'''Fox''', you stole the goose. Bring it back again!|footer=''(line from a popular children’s song'')}}
+# {{lb|de|informal}} a [[clever]] or [[cunning]] person
+#: {{ux|de|Er ist ein ganz schöner '''Fuchs'''.|He is a really handsome '''fox'''.}}
+# {{lb|de|informal}} a [[red-haired]] person or [[horse]].
+#: {{ux|de|Unser Paul ist ja ein kleiner '''Fuchs'''.|Our Paul is a little '''redhead'''.}}
+# {{lb|de|card games}} In {{m|de|Doppelkopf}}, the ace of diamonds, which earns a side of players an extra point if they win it from the other side
+#: {{ux|de|Ich hatte nur vier Trümpfe und darunter beide '''Füchse'''.|I had only four trumps and among them were both '''aces of diamonds'''.}}
+# {{c|de|Military vehicles}} {{lb|de|military}} a tank {{w|TPz Fuchs|lang=de|Transportpanzer Fuchs}}
+# {{c|de|Plant diseases}}{{lb|de|archaic}} A form of [[sunscald]] on [[hop]]s.
+#: {{syn|de|Röte|rote Lohe|Sommerbrand}}
+# a [[fox]] in [[radiosport]] [[foxhunt]]
+# {{lb|de|obsolete}}{{c|de|Coins}} any [[gold]] [[coin]]
+
+=====Declension=====
+{{de-decl-noun-m|es|pl=Füchse}}
+
+=====Coordinate terms=====
+{{Template:list:canids/de}}
+
+=====Hyponyms=====
+{{col4|de
+|Afghanfuchs
+|Andenfuchs
+|Azarafuchs
+|Bengalfuchs
+|Blassfuchs
+|Blaufuchs
+|Canafuchs
+|Chama-Fuchs
+|Culpeofuchs
+|Darwin-Fuchs
+|Eisfuchs
+|Festland-Graufuchs
+|Feuerlandfuchs
+|Fuchsbaby
+|Füchsin
+|Fuchsjunges
+|Fuchsmännchen
+|Fuchsrüde
+|Fuchsweibchen
+|Fuchswelpe
+|Fuchswelpin
+|Graufuchs
+|Großohr-Kitfuchs
+|Großohrfuchs
+|Insel-Graufuchs
+|Jungfuchs
+|Kama-Fuchs
+|Kapfuchs
+|Kitfuchs
+|Kurzohrfuchs
+|Löffelfuchs
+|Magellanfuchs
+|Pampasfuchs
+|Polarfuchs
+|Rotfuchs
+|Rüppellfuchs
+|Sandfuchs
+|Savannenfuchs
+|Sechurafuchs
+|Sechuran-Fuchs
+|Silberfuchs
+|Silberrückenfuchs
+|Steinfuchs
+|Steppenfuchs
+|Swiftfuchs
+|Swift-Fuchs
+|Tibetfuchs
+|Waldfuchs
+|Weißfuchs
+|Wüstenfuchs
+}}
+
+=====Derived terms=====
+* {{l|de|fuchsig}}
+* {{l|de|fuchsartig}}
+* {{l|de|fuchsen}}
+* {{l|de|fuchsteufelswild}}
+
+=====Related terms=====
+{{rel4|de
+|Bastard-Fuchs
+|Brandfuchs
+|Falklandfuchs
+|Feuerfuchs
+|Mauerfuchs
+|Obstfuchs
+|Seefuchs
+|Sparfuchs
+|Taktikfuchs
+|Fuchsammer
+|Fuchsart
+|Fuchsauge
+|Fuchsbandwurm
+|Fuchsbau
+|Fuchsjagd
+|Fuchspelz
+|fuchsrot
+|Fuchsschwanz
+|Fuchsstute
+}}
+
+====Proper noun====
+{{de-proper noun|m|g2=f|Fuchs'|gen2=Fuchsens}}
+
+# {{surname|de|common|from=nicknames|nodot=1}} originating as a nickname.
+# {{surname|de|German [[Jewish]]}}
+
+===Etymology 2===
+Probably from an alteration of archaic {{m|de|Feist|t=fart}}. Compare the older variants {{m|de|Feix}}, {{m|de|Feits}}.
+
+====Alternative forms====
+* {{alter|de|Fux|Fucks}}
+
+====Noun====
+{{de-noun|m|Fuchses|Füchse}}
+
+# {{senseid|de|student}} a member of a student [[fraternity]] in his first year
+#* {{quote-journal
+|de
+|year=1870
+|issue=1
+|page=16
+|work=Die Gartenlaube
+|title=Der Student auf Ferien
+|url={{fullurl:s:de:Der Student auf Ferien}}
+|passage=Und es werden wohl die ersten Ferien sein, die der '''Fuchs''' im Elternhause zubringt, denn Hund und Pfeife, Wasserstiefel und Verbindungsband stehen dem sammetröckigen Bruder Studio noch so neu, es sieht Alles noch so wohlgehalten aus, wie bemoostere Häupter es nicht zur Schau tragen können.}}
+#* {{RQ:Mann Untertan|page=31|passage=Ein Drama entstand, wenn ein junger '''Fuchs''' sich den Scherz machte, ihm das Bierglas wegzunehmen. Delitzsch rührte kein Glied, aber seine Miene, die dem geraubten Glase überall hin folgte, enthielt plötzlich den ganzen, stürmisch bewegten Ernst des Daseins, und er rief in sächsischem Schreitenor: {{...}}}}
+# {{lb|de|by extension}} [[beginner]]; [[fresher]]
+
+=====Derived terms=====
+* {{l|de|ausfuchsen}}, {{l|de|ausgefuchst}}
+* {{l|de|einfuchsen}}
+
+=====Descendants=====
+* {{desc|bor=1|da|fuks}}
+** {{desc|bor=1|is|fúx}}
+* {{desc|bor=1|no|-}} {{l|nb|fuks}}
+* {{desc|bor=1|sv|fux}}
+
+===Further reading===
+* {{R:Duden}}
+
+{{C|de|Foxes|Hair|People}}

@@ -1,0 +1,7 @@
+{{check deprecated lang param usage|lang={{{lang|}}}|<!--
+
+-->{{#invoke:names|given_name}}<!--
+
+-->}}<!--
+
+--><noinclude>{{documentation}}</noinclude>

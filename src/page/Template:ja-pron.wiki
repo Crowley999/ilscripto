@@ -1,0 +1,1 @@
+<includeonly>{{#invoke:ja-pron|show}}</includeonly><noinclude>{{documentation}}[[Category:Japanese templates|pron]]</noinclude>

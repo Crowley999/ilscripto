@@ -1,0 +1,12 @@
+{{check deprecated lang param usage|lang={{{lang|}}}|1=<!--
+
+--><span class='use-with-mention'>{{{A|A}}} {{#if:{{{lang|}}}|{{{1|}}}|{{{2|}}}}} [[surname]]{{#if:{{{xlit|}}}|, {{m|en|{{{xlit}}}}}|}}{{#if:{{{eq|}}}|, equivalent to the English {{m|en|{{{eq}}}}}}}{{#if:{{{from|}}}|, from {{{from}}}|}}{{#switch:{{{nodot|}}}|1=|2=.|#default=&#8203;{{{dot|.}}}}}</span><!--
+
+-->}}<!-- (end of {{check deprecated lang param usage}})
+
+-->{{catlangname|{{{lang|{{{1|}}}}}}|sort={{{sort|}}}<!--
+-->|surnames<!--
+-->|{{#if:{{{from|}}}|surnames from {{{from}}}}}<!--
+-->}}<!--
+
+--><noinclude>{{documentation}}</noinclude>

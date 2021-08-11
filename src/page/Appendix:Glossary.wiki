@@ -1,0 +1,972 @@
+'''A glossary of terms used in the body of this dictionary.''' See also ''[[Wiktionary:Glossary]]'', which contains terms used elsewhere in the Wiktionary community, and ''[[Appendix:Glossary of rhetoric]]'', which explains commonly used [[#rhetoric|rhetorical]] terms.
+
+----
+{{compactTOS}}
+----
+
+==A==
+; {{anchor|a.}}[[a]].
+: "[[ante|Ante]]" (Latin for "before"). Hence, a quotation from "''a.'' 1924" is a quotation from no later than the year 1923.
+; {{anchor|abbreviation}}[[abbreviation]]
+: A shortened form of a word or phrase, such as an [[#initialism|initialism]], [[#acronym|acronym]], or [[#clipping|clipping]].
+; {{anchor|ablative case}}{{anchor|ablative}}[[ablative case]]
+: A [[#case|case]] that indicates separation, or moving away from something. It is used alone or with certain [[#preposition|prepositions]]. For example, if English had a fully [[#productive|productive]] case system that included the ablative case, then in the phrase ''came from the city'', either "the city" or "from the city" would likely be in the ablative. In some languages, such as Latin, this case has acquired many other uses and does not strictly indicate separation anymore.
+; {{anchor|ablaut}}{{anchor|grade}}[[ablaut]]
+: In [[Proto-Indo-European]], or any of its descendants (the [[Indo-European]] languages), a system of [[#vowel|vowel]] alternation in which the vowels that are used in various parts of the word can change depending on meaning. The system is used for purposes of [[#inflection|inflection]] and word derivation. In the Germanic languages, it forms the basis of the [[#strong verb|strong verbs]]. A specific form of ablaut is referred to as a '''grade'''; see for instance [[#zero-grade|zero-grade]]. (More at {{projectlink|pedia|Indo-European ablaut}})
+; {{anchor|absolutive}}{{anchor|absolutive case}}[[absolutive case]]
+: A [[#case|case]] used to indicate the [[patient#Noun|patient]] or [[experiencer]] of a [[#verb|verb]]'s action.
+; {{anchor|abstract noun}}[[abstract noun]]
+: A [[#noun|noun]] that denotes an idea, emotion, feeling, quality or other abstract or intangible concept, as opposed to a concrete item, or a physical object. [[#antonym|Antonym]] of [[#concrete noun|concrete noun]].
+; {{anchor|abstract verb}}{{anchor|abstract}}[[abstract verb]]
+: In the {{w|Slavic languages}}, a verb of motion whose motion is multidirectional (as opposed to unidirectional) or indirect, or whose action is repeated or in a series ([[#iterative|iterative]]). Also called an [[#indeterminate verb|indeterminate verb]]. The opposite type of verb, which expresses a single, completed action, is termed a [[#concrete verb|concrete verb]] (or a [[#determinate verb|determinate verb]]). Motion verbs in the {{w|Slavic languages}} come in abstract/concrete lexical pairs, e.g. {{cog|ru|ходи́ть||to [[go]] (abstract)}} vs. {{m|ru|идти́||to [[go]] (concrete)}}, {{m|ru|бе́гать||to run (abstract)}} vs. {{m|ru|бежа́ть||to run (concrete)}}, {{m|ru|носи́ть||to carry (abstract)}} vs. {{m|ru|нести́||to carry (concrete)}}. English does not make this distinction. For example, "I went to the post office" could be abstract (if I went there and came back, i.e. multidirectional) or concrete (if I am there now, i.e. unidirectional), and different Russian verbs would be used to translate "went" in these two circumstances. In Polish coming back does not cause abstract verbs to be used, only doing something many times (''Chodzę do biura.'' 'I go to the office (every day).' vs. ''Idę do biura'' 'I am going to the office (now).') or moving without target (''Chodzę po pokoju'' 'I am walking around the room.' vs. ''Idę przez pokój.'' 'I am walking across the room.') does. Abstract verbs are always [[#imperfective aspect|imperfective]] in {{glossary|aspect}}, even with prefixes that are normally associated with the [[#perfective aspect|perfective aspect]] (e.g. Polish ''przybiegać'').
+; {{anchor|accusative case}}{{anchor|accusative}}{{anchor|acc.}}[[accusative case]], acc.
+: A [[#case|case]] that is usually used as the [[#direct object|direct object]] of a [[#verb|verb]]. For example, if English had a fully [[#productive|productive]] case system, then ''ball'' in "The man threw the ball" would most likely be in the accusative.
+; {{anchor|acronym}}[[acronym]]
+: An [[#abbreviation|abbreviation]] that is pronounced as the “word” it would spell, such as ''[[NATO]]''.
+; {{anchor|active}}{{anchor|active voice}}[[active voice]]
+: The [[#voice|voice]] verb form in which the grammatical [[#subject|subject]] is the person or thing doing the action ([[cf.]] [[#passive voice|passive voice]]), e.g. ''The boy kicked the ball.'' (See also {{projectlink|pedia|Voice (grammar)}})
+; {{anchor|acute}}{{anchor|acute accent}}[[acute accent]]
+: A [[#diacritic|diacritic]] mark ( ´ ) used that can be placed above a number of letters in many languages of the Latin, Greek and Cyrillic writing systems.
+; {{anchor|AD}}[[AD]]
+: Anno Domini. Year-numbering system equivalent to [[CE]].
+; {{anchor|adjective}}[[adjective]]
+: A word like {{m|en|big}} or {{m|en|childish}} that usually serves to modify a [[#noun|noun]].
+; {{anchor|adverb}}[[adverb]]
+: A word like {{m|en|very}}, {{m|en|wickedly}} or {{m|en|often}} that usually serves to modify an [[#adjective|adjective]], [[#verb|verb]], or other adverb.<!-- Compare ''{{glossary|modifier}}''. -->
+; {{anchor|adverbial}}[[adverbial]]
+: Relating to an [[#adverb|adverb]]. For example, an ''adverbial participle'' is a [[#participle|participle]] that functions like an adverb in a sentence.
+; {{anchor|adverbial clause}}[[adverbial clause]]
+: A type of [[#dependent clause|dependent clause]] that modifies a verb in an [[#adverbial|adverbial]] fashion. Examples are '''''When my friend arrives''', I will take him out to dinner'' and '''''If it rains''', I will go home'' (the latter example being specifically a ''conditional clause'').
+; {{anchor|agentive}}{{anchor|agent noun}}{{anchor|agent nouns}}[[agent noun]]
+: A noun that denotes an agent who does the action denoted by the verb from which the noun is derived, such as "cutter" derived from "to cut".
+; {{anchor|AHD}}AHD
+: The ''[[w:American Heritage Dictionary|American Heritage Dictionary]]''. For historical reasons, this abbreviation is sometimes used here to identify a respelled pronunciation that is given in [[#enPR|enPR]] form.
+; {{anchor|ambitransitive verb}}{{anchor|ambitransitive}}[[ambitransitive verb]]
+: Capable of being either {{glossary|transitive}} or {{glossary|intransitive}} depending on usage. For instance, {{m|en|eat}} and {{m|en|read}} optionally take a [[#direct object|direct object]]: "I eat daily", "She likes to read" (both intransitive), "Read this book", "I do not eat meat" (both transitive). Note: Although [[#ergative|ergative]] verbs are ambitransitive, a single definition could only refer to an [[unergative]] verb.
+; {{anchor|anglicisation}}{{anchor|anglicization}}{{anchor|anglicised}}{{anchor|anglicized}}[[anglicisation]], [[anglicization]]
+: The modification of a foreign ([[#loanword|borrowed]]) word to make it more English in form.
+; {{anchor|animate}}{{anchor|animacy}}[[animate]]
+: Having a [[referent]] that includes a human or animal. Many languages (such as the {{w|Slavic languages}}) classify nouns based on animacy, using different [[#inflection|inflection]]s or words with animate and inanimate nouns. (See {{projectlink|pedia|Animacy}})
+; {{anchor|antepenultima}}{{anchor|antepenultimate}}{{anchor|antepenult}}[[antepenultima]]
+: The third-to-last [[#syllable|syllable]] of a word, before the [[#penultima|penultima]].
+; {{anchor|antonym}}{{anchor|antonymous}}[[antonym]]
+: A word with a meaning that is the opposite of a meaning of another word. For example, {{m|en|good}} is an antonym of {{m|en|bad}}. Contrast [[#synonym|synonym]].
+; {{anchor|aorist}}[[aorist]]
+: A grammatical category of [[#verb|verbs]] that is often a [[#perfective|perfective]] past. (See {{projectlink|pedia|aorist}})
+; {{anchor|apheresis}}{{anchor|apheretic}}{{anchor|aphaeretic}}[[apheresis]]
+: The removal of a letter or sound from the beginning of a word.
+; {{anchor|aphesis}}{{anchor|aphetic}}[[aphesis]]
+: The removal of an initial unstressed sound from a word, the process by which {{m|en|escarp}} became {{m|en|scarp}}. Words derived in this way are called aphetic.
+; {{anchor|apocopic}}{{anchor|apocope}}{{anchor|apocopate}}{{anchor|apocopation}}[[apocopic]]
+: A word form in which the word is lacking the final sound or syllable. Occurs in Italian, Spanish, and other languages.
+; {{anchor|approximant}}[[approximant]]
+: A [[#consonant|consonant]] sound produced by restricting the air flow through the mouth only slightly, resulting in a smooth sound. In English, the approximants are {{IPAchar|/l/}}, {{IPAchar|/ɹ/}}, {{IPAchar|/w/}}, {{IPAchar|/j/}} (as in the initial sounds of ''loo'', ''rue'', ''woo'' and ''you''). Approximants are distinguished from [[#fricative|fricative]]s, in which the air is constricted enough to cause a rough, hissing or buzzing sound, and [[#plosive|plosive]]s, in which the air is blocked completely for a short period of time.
+; {{anchor|archaic}}{{anchor|archaism}}[[archaic]]
+: No longer in general use, but still found in some contemporary texts that aim for an antique style, like historical novels. For example, {{m|en|thee}} and {{m|en|thou}} are archaic pronouns, having been completely superseded by {{m|en|you}}.<!--Sometimes understood by educated people, but rarely used in current texts or speech.--> ''Archaic'' is a stronger term than ''[[#dated|dated]]'', but not as strong as ''[[#obsolete|obsolete]]''. (See [[Wiktionary:Obsolete and archaic terms]].)
+; {{anchor|areal}}{{anchor|areal feature}}[[areal]] {{wikipedia|Areal feature}}
+: Distributed across multiple languages inhabiting a particular area, due to [[w:language contact|language contact]] among them rather than due to [[inheritance]] from a common ancestor. The term can be applied either to words (see ''{{glossary|loanword}}'') or features of languages such as in [[w:grammar|grammar]], [[w:morphology|morphology]], and [[w:phonology|phonology]]. See also ''{{glossary|Wanderwort}}'' and ''{{glossary|stratum}}''.
+; {{anchor|article}}[[article]]
+: A type of [[#determiner|determiner]] that is used as a grammatical indicator in some languages, and is usually central to the grammar and syntax of that language. In English, the articles are the [[#definite|definite]] article {{m|en|the}}, and the [[#indefinite|indefinite]] articles {{m|en|a}} and {{m|en|an}}. Some languages may have more articles, such as the French [[#partitive|partitive]] articles {{m|fr|du}}, {{m|fr|de la}} and {{m|fr|des}}, while many languages lack articles altogether.
+; {{anchor|aspect}}[[aspect]] {{wikipedia|Grammatical aspect}}
+: A property of a verb form indicating the nature of an action as [[#perfective|perfective]] (complete) or [[#imperfective|imperfective]] (incomplete or continuing).
+; {{anchor|aspirated_h}}[[aspirated h]]
+: In French, an initial ⟨h⟩ that is treated as a [[#consonant|consonant]]; that is to say, [[liaison]] and [[elision]] are not permitted at the beginning of a word with an aspirated ⟨h⟩.
+; {{anchor|assimilation}}{{anchor|assimilate}}{{anchor|assimilated}}[[assimilation]] {{wikipedia|Assimilation (phonology)}}
+: Assimilation is a common phonological process by which one sound becomes more like a nearby sound. This can occur either within a word or between words. See also ''{{glossary|dissimilation}}''.
+; {{anchor|attributive}}{{anchor|attributively}}[[attributive]]
+:# An adjective that stands in a syntactic position where it directly modifies a noun, as opposed to a [[#predicative|predicative]] adjective, which stands in a [[#predicate|predicate]] position but which modifies the [[#subject|subject]] of the [[#clause|clause]]. For example, in ''the big green house'', ''big'' and ''green'' are attributive adjectives, whereas in ''The house is big and green'', ''big'' and ''green'' are predicative adjectives. Some adjectives are only-attributive like {{m|en|close#Adjective}} (in ''a close friend'') or {{m|en|plain}} (in ''plain nonsense'').
+:# A noun or adjective (or phrase) that names a real object with the ''attributes'' of another real object. This is in contrast to a [[#substantive|substantive]] noun or adjective, which names a real object that is the actual ''substance'' named by the noun or adjective.
+; {{anchor|augment}}{{anchor|augmented}}[[augment]] {{wikipedia|Augment (linguistics)}}
+: In some Indo-European languages, a prefixed [[#vowel|vowel]] (usually '''e-'''; '''έ''' or '''ή''' in Greek, '''a-''' in Sanskrit) indicating a past tense in a verb.
+; {{anchor|augmentative}}[[augmentative]]
+: A word form expressing large size, importance, intensity, or seniority.
+; {{anchor|auxiliary verb}}[[auxiliary verb]] or {{anchor|auxiliary}}[[auxiliary]]
+: A verb that accompanies another verb in a clause. It is used to indicate distinctions in {{glossary|tense}}, {{glossary|mood}}, {{glossary|voice}}, {{glossary|aspect}} or other grammatical nuances. English examples are {{m|en|can}}, {{m|en|will}}, {{m|en|have}}, {{m|en|be}}.
+; {{anchor|avoidance}}[[avoidance]] term
+: A word standardly used to replace a [[taboo]] word. (See {{projectlink|pedia|Naming taboo}})
+
+==B==
+; {{anchor|back-formation}}[[back-formation]]
+: A term formed by removing an apparent or real prefix or suffix from an older term; for example, the noun {{m|en|pea}} arose because the final {{IPAchar|/z/}} sound in {{m|en|pease}} sounded like a plural suffix. Similarly, the verb {{m|en|edit}} is a back-formation from the earlier noun {{m|en|editor}}. Not to be confused with [[#clipping|clipping]], which just shortens a word without changing meaning or part of speech.
+; {{anchor|backronym}}[[backronym]]
+: A word that is either not an [[#acronym|acronym]] but is taken to be one and for which a full form is invented by [[#back-formation|back-formation]], or is an acronym and for which an alternative full form is invented by back-formation.
+; {{anchor|backslang}}[[backslang]]
+: A form of [[#slang|slang]] in which the spelling of words is reversed.
+; {{anchor|bahuvrihi}}[[bahuvrihi]]
+: Another term for an ''[[#exocentric|exocentric]] compound''. Contrast [[#tatpurusa|tatpurusa]], [[#karmadharaya|karmadharaya]] and [[#dvandva|dvandva]].
+; {{anchor|barytone}}[[barytone]]
+: With the stress elsewhere than upon the final syllable. Compare with [[#oxytone|oxytone]], [[#paroxytone|paroxytone]], and [[#proparoxytone|proparoxytone]].
+; {{anchor|BC}}[[BC]]
+: Before Christ. Year-numbering system equivalent to [[#BCE|BCE]].
+; {{anchor|BCE}}[[BCE]]
+: Before the Common Era. Year-numbering system equivalent to [[BC]]. [[AD]] is expressed as [[#CE|CE]]. To automatically switch most dates to use the "BC"/"AD" style, visit [[WT:Per-browser preferences]].
+; {{anchor|blend}}[[blend]]
+: A word or name that combines two words, typically starting with the start of one word and ending with the end of another, such as {{m|en|smog}} (from {{m|en|smoke}} and {{m|en|fog}}) or {{m|en||Wiktionary}} (from {{m|en|wiki}} and {{m|en|dictionary}}). Many blends are [[#portmanteau|portmanteaus]].
+; {{anchor|borrowing}}[[borrowing]], {{anchor|borrowed}}[[borrowed]]
+: ''See [[#loanword|loanword]].''
+; {{anchor|bowdlerization}}[[bowdlerize|bowdleriz]]ation
+: The removal, from a text, of words or phrases that are considered offensive or vulgar.
+
+==C==
+; {{anchor|c.}}{{anchor|ca.}}c., ca.
+: "[[circa|Circa]]" ("about"). Hence, a quotation from "c. 1924" or "ca. 1924" is a quotation from approximately 1924.
+; {{anchor|calque}}{{anchor|loan translation}}{{anchor|calqued}}[[calque]]
+: A borrowing by word-for-word translation: a [[loan translation]]. For example, the English expression ''[[it goes without saying]]'' is a calque (a literal, word-for-word translation) of {{m+|fr|ça va sans dire}}, and ''[[flea market]]'' is a calque of {{m+|fr|marché aux puces|lit=[[market]] with [[flea]]s}}. Contrariwise, the term ''[[skyscraper]]'' was calqued into French as {{m|fr|gratte-ciel|lit=scrapes-sky}}. A semantic calque, also known as [[#semantic loan|semantic loan]], works similarly but does not create new terms. (''see'' {{projectlink|pedia|Calque}})
+; {{anchor|case}}[[case]]
+: One of the forms of a noun, used to indicate its function in the phrase or sentence. Examples include: [[#nominative case|nominative]], [[#accusative case|accusative]], [[#genitive case|genitive]], [[#dative case|dative]].
+; cat.
+: Abbreviation for {{m|en|category}}.
+: Without the period, the [[w:ISO 639-3|ISO 639-3]] code for the Catalan language.
+; {{anchor|category}}[[category]]
+: A collection of entries, used to categorize or group entries of words that are similar in syntax (for example, English plural nouns) or in sense (for example, English words pertaining to sports); ''see'' [[Wiktionary:Categorization]].
+; {{anchor|catenative}}{{anchor|catenative verb}}[[catenative]] verb
+: A [[#verb|verb]] able to be immediately followed by the full or bare [[#infinitive|infinitive]], or [[#gerund|gerund]] (i.e. non-finite verbs).
+: → [[Appendix:English catenative verbs]]
+; {{anchor|causative}}{{anchor|causative verb}}[[causative]] verb
+: A transitive verb that is derived from another verb, and expresses the act of making someone/something do the action of the base verb. Examples in English are: {{m|en|lay}} (cause to {{m|en|lie}}), {{m|en|set}} (cause to {{m|en|sit}}) and {{m|en|raise}} (cause to {{m|en|rise}}). Compare '''[[#factitive|factitive verb]]s''' (e.g. {{m|en|shorten}}, {{m|en|enslave}}), which are similar but are derived from adjectives or nouns.
+; {{anchor|CE}}[[CE]]
+: Common Era. Year-numbering system equivalent to [[AD]]. To automatically switch most dates to use the "BC"/"AD" style, visit [[WT:Per-browser preferences]].
+; {{anchor|cf.}}[[cf.]]
+: "Confer"; "see"; "compare"&nbsp; – often used to indicate a word with similar, or opposite meaning.
+; {{anchor|circumlocutory}}[[circumlocutory]]
+: Refers to a roundabout or indirect way of speaking; the use of more words than necessary to express an idea.
+; {{anchor|CJKV}}{{anchor|CJKV}}[[CJK]], [[CJKV]]
+: Chinese, Japanese, Korean{{,}} (and Vietnamese); [[w:CJK characters|CJK characters]].
+; {{anchor|classifier}}[[classifier]]
+: See [[#counter|counter]].
+; {{anchor|clause}}[[clause]]
+: A word or group of words that functions as a single unit in the [[#syntax|syntax]] of a [[#sentence|sentence]], where the [[#head|head]] (or central) word is a [[#verb|verb]]; normally distinguished from a [[#phrase|phrase]], which is a similar unit where the head word is some other [[#part of speech|part of speech]], such as a [[#noun|noun]], [[#adjective|adjective]] or [[#preposition|preposition]]. For example, the [[#sentence|sentence]] ''The man entered the house, which was large and blue'' contains two clauses, the [[#independent clause|independent clause]] ''The man entered the house'' and the [[#dependent clause|dependent clause]] ''which was large and blue'' (in this case specifically a [[#relative clause|relative clause]], although not all dependent clauses are relative clauses).
+; {{anchor|clipping}}[[clipping]]
+: A shortening of a word, without changing meaning or part of speech. Not to be confused with [[#back-formation|back-formation]], which changes meaning, or [[#ellipsis|ellipsis]], which shortens by omission of whole words. See also ''[[#apheresis|apheresis]]'', ''[[#apocope|apocope]]''.
+: → {{projectlink|pedia|Clipping (morphology)}}
+; {{anchor|clitic}}[[clitic]]
+: A word that attaches to a phrase and cannot be used on its own, such as English ''[['s|-'s]]''. Many languages have clitic [[#pronouns|pronouns]] ([[#weak_pronoun|weak pronouns]]), which may be contrasted with [[#emphatic|emphatic]] or [[#strong|strong]] pronouns; for example, English ''[['em]]'' is a clitic version of ''[[them]]'', and always attaches to the preceding word (usually the [[#verb|verb]]).
+; {{anchor|cognate}}[[cognate]]
+: [[descend|Descended]] from the same source [[#lexeme|lexeme]] of an [[ancestor]] language.
+; {{anchor|coinage}}{{anchor|coined}}[[coinage]]
+: A new word intentionally created with a definite meaning.
+; {{anchor|collective}}{{anchor|collectively}}{{anchor|collective noun}}[[collective]]
+: Expressing a collection or aggregate of individuals by a [[#singular|singular]] form.
+: → [[:Category:Collective nouns by language]]<!-- lb collective, collectively -->
+; {{anchor|colloquial}}[[colloquial]]
+: Used primarily in casual conversation or informal writing and not in more [[#formal|formal]] written works, speeches, and discourse. Compare the similar tag '''[[#informal|informal]]'''. Do not confuse with ''[[#slang|slang]]'' or ''[[#nonstandard|nonstandard]]''.
+: '''Note:''' It is a common misconception that ''colloquial'' somehow denotes "local" or a word being "[[#regional|regional]]". This is not the case; the word root for ''colloquial'' is related to {{m|en|locution}}, not {{m|en|location}}.
+; {{anchor|c}}{{anchor|common}}{{anchor|common gender}} [[common gender]], ''c''
+: "Of common [[#gender|gender]]". Some languages have a distinct common gender that combines [[#masculine|masculine]] and [[#feminine|feminine]] but is distinguished from [[#neuter|neuter]]. In other languages, a "noun of common gender" is [[#epicene|epicene]]; that is, it is a pair of nouns, one masculine and one feminine, that are identical in form, and that have the same sense except that one refers to men and the other to women.
+; {{anchor|comparable}}[[comparable]]
+: Of an adjective or adverb: able to be compared, having [[#comparative|comparative]] and [[#superlative|superlative]] forms that end in ''-er'' and ''-est'' (adjectives only), or in conjunction with the words ''more'' or ''most'', or in some cases ''further'' or ''furthest''. Examples: ''big'', ''bigger'', and ''biggest''; ''talented'', ''more talented'', and ''most talented''; ''upstairs'', ''further upstairs'', and ''furthest upstairs''. Some adjectives are truly '''[[#uncomparable|uncomparable]]''', such as ''daily'', ''additional'', and ''else''. Many other adjectives, such as ''unique'', ''existential'', and ''bearable'' are generally considered uncomparable, but controversially so, where examples can be readily cited of something being "''more bearable''" or "''most perfect''".
+; {{anchor|comparative}}[[comparative]]
+: An [[#inflection|inflection]], or different form, of a '''[[#comparable|comparable]]''' adjective showing a relative quality, usually denoting "to a greater extent" but not "to the ultimate extent". (See also ''[[#superlative|superlative]]'' and ''[[#degrees of comparison|degrees of comparison]]''.) In English, the ''comparative'' form is usually formed by appending ''-er'', or using the word ''more''. For example, the comparative of ''hard'' is "''harder''"; of ''difficult'', "''more difficult''".
+; {{anchor|compound}}[[compound]]
+: A word or name that combines two or more words without altering them, such as ''[[dishcloth]]'' (from ''[[dish]]'' and ''[[cloth]]'') or ''[[keyboard]]'' (from ''[[key]]'' and ''[[board]]''). Compound terms are indicated in etymologies using {{temp|compound}}. (See also ''[[WT:ETY#Compound]]''.)
+; {{anchor|concrete noun}}[[concrete noun]]
+: A [[#noun|noun]] that denotes something tangible or material, such as a person or place. [[#antonym|Antonym]] of [[#abstract noun|abstract noun]].
+; {{anchor|concrete verb}}{{anchor|concrete}}[[concrete verb]]
+: In the {{w|Slavic languages}}, a verb of motion whose motion is unidirectional and expresses a single, completed action. Opposed to [[#abstract verb|abstract verbs]], whose motion is multidirectional or indirect, or whose action is repeated or in a series ([[#iterative|iterative]]). Also called a [[#determinate verb|determinate verb]]. See ''[[#abstract verb|abstract verb]]'' for more discussion.
+; {{anchor|conditional}}{{anchor|conditional mood}}[[conditional mood]]
+: The [[#mood|mood]] of a [[#verb|verb]] used to signify that something is [[contingent]] upon the outcome of something else. The conditional mood in English is normally introduced by the word ''would'', as in ''If I were rich, I would be happy''.
+; {{anchor|conjugation}}[[conjugation]]
+: The [[#inflection|inflection]] of [[#verb|verb]]s. See also ''[[#declension|declension]]''.
+; {{anchor|conjunction}}[[conjunction]]
+: A word used to join other words or phrases together into sentences.
+; {{anchor|connegative}}[[connegative]]
+: A [[verb]] form used with the [[#negative verb|negative verb]].
+; {{anchor|consonant}}[[consonant]]
+: Any sound that is not the dominant sound of a [[#syllable|syllable]], the dominant sound generally being a [[#vowel|vowel]].
+; {{anchor|construct state}}[[construct state]]
+: In some languages, a grammatical form that is used in construing a noun or adjective with another noun or adjective. In the [[Semitic]] languages, the construct form is usually a noun modified by a following noun in a genitive construction. The construct state of such a noun ''X'' can usually be translated to English as ''X of''. In [[Persian]], the construct state is typically used for all nouns and adjectives in a [[noun phrase]] except the very last.
+; {{anchor|contamination}}[[contamination]]
+: Influence of one term on the development of another term whereby they come to have similar meanings or similar sound, [[conflation]].
+; {{anchor|contraction}}{{anchor|contracted}}[[contraction]]
+: A word or phrase shortened in speech, sometimes represented in writing with a [[punctuation mark]] in place of missing letters (e.g. {{noncog|en|-}} {{m|en|do}} {{m|en|not}} → {{m|en|don't}} or {{noncog|ro|-}} {{m|ro|nu}} {{m|ro|e}} → {{m|ro|nu-i}}).
+; {{anchor|contranym}}[[contranym]]
+: A term with two opposite meanings.
+; {{anchor|conversion}}[[conversion]]
+: The process whereby a new word is created without changing the form, often by allowing the word to function as a new part of speech.
+; {{anchor|coordinate term}}[[coordinate term]]
+: A term that is a different type of the same [[#hypernym|hypernym]] (loosely "category"). ''Car'' and ''bicycle'' are coordinate terms to each other, both being [[#hyponym|hyponyms]] of a shared [[#hypernym|hypernym]] ''vehicle''. Although the term can be applied broadly – e.g. ''car'' and ''asteroid'' are both ''things'' –, such usage is not useful in Wiktionary.
+; {{anchor|coordinative}}[[coordinative]] [[compound]]
+: A [[#nominal|nominal]] [[#compound|compound]] in which the two parts are coordinated and the intended meaning of the compound as a whole is a combination of the two parts. Also known as a ''[[#dvandva|dvandva]] compound''. Examples in English are not common but are found in many other languages, e.g. {{m+|el|μαχαιροπίρουνο||cutlery|lit=knife-fork}} and {{m+|yi|טאַטע־מאַמע||parents|lit=papa-mama}}. Contrast [[#exocentric|exocentric]] and [[#endocentric|endocentric]] compounds.
+; {{anchor|copula}}{{anchor|copulative}}[[copula]]
+: A verb that links and equates its [[#subject|subject]] with its object; also called a [[#linking verb|linking verb]]. The most common copula is the verb ''to be'', but others exist, such as ''to seem'', ''to appear'' and ''to sound''. The object of a copula often has special properties. For example, it can be an [[#adjective|adjective]] (''John is '''very tall''''') when most verbs require their objects to be [[#noun|noun]]s or [[#pronoun|pronoun]]s. In addition, in languages with [[#case|case]] distinctions, the object of a copula is most commonly in the [[#nominative|nominative]] case, while the object of other verbs is usually in a different case, such as the [[#accusative|accusative]] case. Many languages (e.g. {{cog|ru|-}}, {{cog|he|-}}, and {{cog|ar|-}}) use a ''null copula'' (i.e. no word at all) in the present tense when English would use the words ''am'', ''are'' or ''is''.
+; {{anchor|corruption}}[[corruption]]
+: A debased or [[#nonstandard|nonstandard]] form of a word, expression, or text, resulting from misunderstanding, transcription error, mishearing, etc.
+; {{anchor|countable}}[[countable]], countable noun, [[count noun]]
+: Describes a noun which can be freely used with the [[indefinite article]] (''a'' or ''an'' in English) and with numbers, and which therefore has a [[plural]] form. [[#antonym|Antonym]]: ''[[#uncountable|uncountable]]'' or ''mass noun''.
+; {{anchor|counter}}[[counter]]
+: In linguistics, counters, [[measure word]]s or [[classifier]]s are words that are used in combination with a numeral to indicate an amount of something represented by some noun. They denote a unit or measurement and are used with [[mass noun]]s, and in some cases also with [[count noun]]s. (Compare ''[[#singulative|singulative]].'')
+
+==D==
+; {{anchor|dated}}[[dated]]
+: Formerly in common use, and still in occasional use, but now unfashionable; for example, ''[[wireless]]'' in the sense of "broadcast radio tuner", ''[[groovy]]'', and ''[[gay]]'' in the sense of "bright" or "happy" are all dated. ''Dated'' is not as strong as ''[[#archaic|archaic]]'' or ''[[#obsolete|obsolete]]''. See [[Wiktionary:Obsolete and archaic terms]].
+; {{anchor|dative case}}{{anchor|dative}}{{anchor|dat}}[[dative case]], dat.
+: A [[#case|case]] that is usually used as the [[#indirect object|indirect object]] of a verb. For example, if English had a fully [[#productive|productive]] case system, then ''him'' in "She gave him the ball" would most likely be in the dative.
+; {{anchor|declension}}[[declension]]
+: The [[#inflection|inflection]] of [[#noun|noun]]s and words like them, or used together with them (i.e. [[#nominal|nominal]]s). See also ''[[#conjugation|conjugation]]''.
+; {{anchor|defective}}[[defective]]
+: Normally would be expected to have a full set of [[#inflection|inflected]] forms, but some of the inflections do not exist or are never used. English examples are the defective verbs {{m|en|can}} and {{m|en|shall}}, which do not have [[#infinitive|infinitive]] forms (there is no ''to can'' or ''to shall'').
+; {{anchor|defective spelling}}defective spelling
+: In languages with [[mater lectionis|matres lectionis]] ([[#consonant|consonant]] letters representing [[#vowel|vowels]]), the form including no additional ones, this may still include a mater lectionis.
+; {{anchor|definite}}[[definite]]
+: Refers to forms of words that present something as known, identified, or immediately identifiable; in English, this is the basic meaning of the [[#article|article]] ''[[the]]''; in some languages, this is a nominal or adjectival [[#inflection|inflection]]. In the Germanic languages, adjectives inflected as definite are referred to as "weak". In Hungarian, the definite conjugation is used to indicate [[:w:Hungarian verbs#Definite and indefinite conjugations|definite objects]], including ''him, her, it, them,'' and the formal ''you.''
+; {{anchor|degrees of comparison}}[[degrees of comparison]]
+: [[#inflection|Inflections]] of adjectives and adverbs which allow comparisons. English has three ''degrees of comparison'': [[#positive|positive]], [[#comparative|comparative]] and [[#superlative|superlative]]. Some other languages have other degrees, e.g.: [[comparative superlative]], [[relative superlative]], [[elative]].
+; {{anchor|denominal}}[[denominal]]
+: Derived from a [[#noun|noun]].
+; {{anchor|dependent}}[[dependent]]
+: (In Greek and in the Gaelic languages) A verb form which is not used independently but preceded by a particle to form the negative or a tense form.
+; {{anchor|dependent clause}}[[dependent clause]]
+: A [[#clause|clause]] that cannot stand on its own as a complete [[#sentence|sentence]], as opposed to an [[#independent clause|independent clause]]. Also known as a [[#subordinate clause|subordinate clause]]. Logically, a dependent clause modifies a word in another clause in the sentence. Common examples are (1) [[#relative clause|relative clause]]s (also known as "adjective clauses" or "adjectival clauses"), which modify nouns (e.g. ''The man '''who I saw yesterday''' is leaving today''); (2) [[#adverbial clause|adverbial clause]]s, which modify verbs in an adverbial fashion (e.g. '''''When it is time to leave''', I will go home''), and [[#noun clause|noun clause]]s, which take the place of nouns (e.g. ''I said '''that my name is John''''' or ''I suggested '''that he leave'''''). (''see'' {{projectlink|pedia|Dependent clause}})
+; {{anchor|deponent}}[[deponent]]
+: (In Greek, Latin, and some Gaelic and Nordic languages) A verb with an active meaning which conjugates in a passive manner.
+; {{anchor|derived terms}}[[Wiktionary:Entry layout explained#Derived terms|derived terms]]
+: A post-[[POS]] heading listing terms in the same language that are morphological derivatives.
+; {{anchor|descriptive}}[[descriptive]] [[compound]]
+: A [[#nominal|nominal]] [[#compound|compound]] in which one part modifies the other, where both parts refer to the intended meaning of the compound as a whole. Also known as a ''[[karmadharaya]] compound''. The intended meaning of the compound as a whole is an extension of the sum-of-parts meaning of the compound. Examples in English are "[[blackboard]]" (a type of board which is [often] black) and "[[houseboat]]" (a boat which is also a house). Contrast [[#determinative|determinative]] compounds, where the modified component but not the modifier refer to the intended meaning as a whole, as in "[[rainbow]]" and "[[footstool]]". Descriptive compounds are a subtype of [[#endocentric|endocentric]] compounds, which are in turn contrasted with [[#exocentric|exocentric]] and [[#coordinative|coordinative]] compounds.
+; {{anchor|determinate verb}}{{anchor|determinate}}[[determinate verb]]
+: In the {{w|Slavic languages}}, another term for ''[[#concrete verb|concrete verb]]''.
+; {{anchor|determinative}}[[determinative]] [[compound]]
+: A [[#nominal|nominal]] [[#compound|compound]] in which one part modifies the other, where the modified component (but not the modifier) refers to the intended meaning of the compound as a whole. Also known as a ''[[tatpurusa]] compound''. Examples in English are "[[rainbow]]" (a type of [[bow]], caused by the rain) and "[[footstool]]" (a type of [[stool]], intended for one's feet). Contrast [[#descriptive|descriptive]] compounds, where both the modifier and modified component refer to the intended meaning as a whole, as in "[[blackboard]]" or "[[houseboat]]". Determinative compounds are a subtype of [[#endocentric|endocentric]] compounds, which in turn are contrasted with [[#exocentric|exocentric]] and [[#coordinative|coordinative]] compounds.
+; {{anchor|determiner}}[[determiner]]
+: A noun modifier that expresses the in-context reference or quantity of a noun or noun phrase. Determiners are often considered adjectives, but in fact are not quite the same; for example, in English, {{m|en|big}} is an adjective, so “the big car” is grammatical while *“He saw big car” is not, but {{m|en|some}} is a determiner, so *“the some car” is not grammatical while “He saw some car” is. In English, adjectives can ''sometimes'' stand alone without a noun, while determiners nearly ''always'' can (contrast *“He saw big” with “He saw some”), such that they are sometimes considered pronouns as well as adjectives.
+; {{anchor|deverbal}}[[deverbal]]
+: A word, often a [[#substantive|substantive]], derived from a [[#verb|verb]]. Contrast ''[[#denominal|denominal]]''.
+; {{anchor|diachrony}}{{anchor|diachronic}}{{anchor|diachronically}}[[diachrony]] {{wiki|Diachrony_and_synchrony|Diachrony and synchrony}}
+: A viewpoint of analysis of a language or phrase within a language which considers the [[historical linguistics|historical changes]] over time which have shaped its state at a given later time. The term is typically used to contrast with ''{{glossary|synchrony}}''.
+; {{anchor|diacritic}}{{anchor|diacritical}}{{anchor|diacritical mark}}[[diacritic]]
+: A diacritic – also diacritical mark, diacritical point, diacritical sign, or an accent – is a [[#glyph|glyph]] added to a letter, or basic glyph. Examples: [[#acute|acute]] ( ´ ), double acute ( ˝ ), [[#breve|breve]] ( ˘ ), inverted breve ( ̑ ), [[#cedilla|cedilla]] ( ¸ ), [[#diaeresis|diaeresis]]/umlaut ( ¨ ), [[#macron|macron]] ( ¯ ), [[overring|overring]] ( ˚ ), [[#perispomene|perispomene]] ( ͂ ), etc. The main use of a diacritical mark is to change the sound-values of the letters or cadence of a word to which they are added. Examples are the diaereses in the borrowed French words {{m|en|naïve}} and {{m|en|Noël}}, which show that the vowel with the diaeresis mark is pronounced separately from the preceding vowel; the acute and [[#grave|grave]] accents, which can indicate that a final vowel is to be pronounced, as in {{m|en|saké}} and poetic ''breathèd''; and the cedilla under the ⟨c⟩ in the borrowed French word {{m|en|façade}}, which shows it is pronounced {{IPAchar|/s/}} rather than {{IPAchar|/k/}}.
+; {{anchor|diaeresis}}{{anchor|diaresis}}{{anchor|dieresis}}[[diaeresis]]
+: A [[#diacritic|diacritic]] ( ¨ ) placed over a [[#vowel|vowel]] letter indicating that it is sounded separately.
+; {{anchor|dialectal}}[[dialectal]]
+: Of or relating to a [[dialect]].
+; {{anchor|diminutive}}[[diminutive]]
+: A word form expressing smallness, youth, endearment, unimportance, or contempt.
+; {{anchor|direct object}}[[direct object]]
+: The [[#noun|noun]] or noun [[#phrase|phrase]] that a [[#verb|verb]] is directly acting upon. In some languages direct objects are marked with the [[#accusative case|accusative case]].
+: → [[#transitive verb|transitive verb]], [[#indirect object|indirect object]]
+; {{anchor|dissimilation}}{{anchor|dissimilate}}{{anchor|dissimilated}}[[dissimilation]] {{wikipedia|Dissimilation}}
+: A phonological process whereby one of a pair of similar sounds within a word or phrase becomes dissimilar: for example, the shift l…l > r…l in the derivation of {{m+|frm|coronnel}} from Old Italian {{m|it|colonnello}}. It has an opposite effect to [[#assimilation|assimilation]].
+; {{anchor|ditransitive verb}}{{anchor|ditransitive}}[[ditransitive verb]]
+: (of a verb) taking two objects, such as {{m|en|give}} in “Give me the ball” (where {{m|en|me}} is an [[#indirect object|indirect object]] and {{m|en|ball|the ball}} is a [[#direct object|direct object]]). Compare [[#intransitive verb|intransitive verb]] and [[#transitive verb|transitive verb]].
+; {{anchor|doublet}}[[doublet]]
+: One of two (or more) words in a language that have the same [[#etymology|etymological]] root, but have come to the modern language through different routes. Doublets can come about e.g. as [[#loanword|loanwords]] from two different but related languages, as loanwords acquired from the same language at two different stages, as one loanword from a related language plus its native [[#cognate|cognate]], or as derivatives formed at two different stages in the history of a language.
+; {{anchor|dual}}{{anchor|dual number}}[[dual]], [[dual number]]
+: A [[#number|grammatical number]] that indicates exactly two items or individuals. Usually contrasts with [[#singular number|singular]] and [[#plural number|plural]].
+; {{anchor|dummy pronoun}} {{w|dummy pronoun}}
+: A [[#pronoun|pronoun]] that has no referent. For instance, {{m|en|it}} in ''it is good to know that you are okay'' is a dummy [[#subject|subject]]. It is used in order to provide the verb {{m|en|is}} with a syntactic subject, because English does not allow a [[w:null-subject language|null subject]].
+; {{anchor|dvandva}}[[dvandva]]
+: Another term for a ''[[#coordinative|coordinative]] compound''. Contrast [[#bahuvrihi|bahuvrihi]], [[#tatpurusa|tatpurusa]] and [[#karmadharaya|karmadharaya]].
+
+==E==
+; {{anchor|ed.}}ed.
+: "[[editor|Editor]]" (or sometimes "edition"). This abbreviation is often used in attributing quotations; the editor of a compilation is generally the individual in charge of selecting what works to include.
+; {{anchor|elative}}[[elative]]
+: In [[Semitic]] languages, a stage of gradation that can be used both for a [[superlative]] and [[comparative]]. (See also ''[[#degrees of comparison|degrees of comparison]]''.)
+; {{anchor|elative case}}[[elative case]]
+: A [[#case|case]] which expresses "moving out of".
+; {{anchor|elision}}{{anchor|elided}}[[elision]]
+: The removal of a [[#phoneme|phoneme]] or sequence of phonemes from a word, particularly at the beginning or end.
+; {{anchor|ellipsis}}[[ellipsis]]
+: The omission of a word or phrase that can be inferred from the context.
+; {{anchor|elongated}}[[elongated]]
+: With [[letter]]s added for [[emphasis]], like "stoooop!" Usually this is [[nonstandard]] writing, but in some cases like interjections, this is normal: "awwwww!", "shhhh!"
+; {{anchor|emphatic}}[[emphatic]]
+: Taking particular stress. English's [[#reflexive|reflexive]] pronouns double as emphatic ones, as in "I myself have not seen it" (where "myself" emphasizes the role of the speaker); some other languages (such as Greek) have emphatic pronouns that they distinguish from ''[[#weak pronoun|weak]]'' or ''[[#clitic|clitic]]'' pronouns.
+; {{anchor|enclisis}}[[enclisis]]
+: The phonetic joining of a word with the preceding word. In modern Greek this may result in an extra stress on the first word, thus:
+::: {{l|el|το όνομα μου είναι|"το όνο<u>μα</u> μου είναι"}} ''becomes'' {{l|el|το όνομά μου είναι|"το όνο<u>μά</u> μου είναι"}}
+; {{anchor|endonym}}{{anchor|autonym}}[[endonym]]
+: A name used by a group or category of people to refer to themselves or their language (contrast [[#exonym|exonym]]).
+; {{anchor|endocentric}}[[endocentric]] [[compound]]
+: A [[#nominal|nominal]] [[#compound|compound]] in which one part modifies the other, where the modified compound refer to the intended meaning of the compound as a whole. Examples in English are "[[blackboard]]" (a type of [[board]]), "[[houseboat]]" (a type of [[boat]]), "[[rainbow]]" (a type of [[bow]]) and "[[footstool]]" (a type of stool). Endocentric compounds are categorized into two subtypes, [[#descriptive|descriptive]] compounds (where the modifier also refers to the intended meaning of the compound as a whole, as in [[blackboard]] and [[houseboat]]) and [[#determinative|determinative]] compounds (where the modifier does not refer to the intended meaning of the compound as a whole, as in [[rainbow]] and [[footstool]]). For example, a [[houseboat]] is a type of [[house]] as well as a type of [[boat]], and a [[blackboard]] is (usually) [[black]]. However, a [[rainbow]] is not a type of [[rain]] (rather it is a [[bow]] that is caused ''by'' the rain), and similarly a [[footstool]] is not a type of [[foot]] (it is a stool intended ''for'' the feet). Endocentric compounds are contrasted with [[#exocentric|exocentric]] and [[#coordinative|coordinative]] compounds.
+; {{anchor|enPR}}enPR
+: Wiktionary's [[Wiktionary:English Phonemic Representation|English Phonemic Representation]] system. Details in the [[Appendix:English pronunciation|English pronunciation key]].
+; {{anchor|epenthesis}}{{anchor|epenthetic}}[[epenthesis]]
+: The insertion of a [[#phoneme|phoneme]], letter, or [[#syllable|syllable]] into a word, usually to satisfy the phonological constraints of a language or poetic context.
+; {{anchor|epicene}}[[epicene]]
+: Having a single form for both male and female referents.
+; {{anchor|eponym}}[[eponym]]
+: A word formed from a real or fictive person’s name. Compare [[#toponym|toponym]], a word derived from a place name.
+; {{anchor|eponymous}}[[eponymous]]
+: Using its own name as a title for a work of art.
+; {{anchor|equative}}[[equative]]
+: A construction showing an equal quality; for example, the equative of {{m|en|happy}} is {{m|en||as happy as}}. In some languages, such as Welsh and Old Irish, the equative is a distinct form of the adjective.
+; {{anchor|ergative case}}[[ergative case]]
+: A [[#case|case]] used in some languages, which marks the [[#subject|subject]] of a [[#transitive verb|transitive verb]], but not the subject of an [[#intransitive verb|intransitive verb]].
+; {{anchor|ergative}}{{anchor|ergative verb}}[[ergative verb]]
+: A verb that can be transitive or intransitive, where the intransitive [[#subject|subject]] is the [[#patient|patient]], the same role as the transitive object. Essentially, an ergative is an intransitive verb that is its own [[#causative|causative]] when used transitively. For example, {{m|en|break}} is an ergative verb. The same thing happens to the window in "The window broke" (subject) as in "I broke the window" ([[#direct object|direct object]]), but in the second case, there is also an [[#agent|agent]] which causes the window to break.
+; {{anchor|etymology}}[[etymology]]
+: An account of the origin and historical development of a word.
+; {{anchor|etymon}}[[etymon]]
+: The source word of a given word.
+; {{anchor|euphemism}}[[euphemism]]
+: A term that is less vulgar or less offensive than the one it replaces.
+; {{anchor|eye dialect}}{{anchor|eye spelling}}[[eye dialect]] {{wikipedia|eye dialect}}
+: A nonstandard spelling which, although it indicates a standard pronunciation, is deliberately substituted for the standard spelling, often to indicate that a speaker's regular use of language is nonstandard or dialectal. Eye dialect is to be distinguished from pronunciation respelling, and separate templates exist ({{temp|eye dialect of}}, {{temp|pronunciation spelling of}}.)
+; {{anchor|excessive spelling}}excessive spelling
+: In languages with [[mater lectionis|matres lectionis]] ([[#consonant|consonant]] letters representing [[#vowel|vowels]]) a form including one or more additional ones. For example in Hebrew {{m|he|אדום||red}} of {{m|he|אָדֹם}}, an added {{m|he||ו|vav}} indicating {{IPAchar|/o/}}.
+; {{anchor|excrescent}}[[excrescent]]
+: A sound in a word without [[#etymology|etymological]] reason, added for articulatory purposes.
+; {{anchor|exocentric}}[[exocentric]] [[compound]]
+: A [[#nominal|nominal]] [[#compound|compound]] in which the first part modifies the second and neither part alone conveys the intended meaning. Examples in English are "[[barefoot]]" (i.e. "having bare feet"; neither component refers to a person) and "[[houndstooth]]" (i.e. "resembling a hound's tooth"; neither component refers to fabric). Also known as a ''[[#bahuvrihi|bahuvrihi]] [[#compound|compound]]''. Contrast [[#endocentric|endocentric]] (with its subtypes [[#determinative|determinative]] and [[#descriptive|descriptive]]) and [[#coordinative|coordinative]].
+; {{anchor|exonym}}[[exonym]]
+: A name for a place, people or language used by foreigners instead of the native-language version (the [[#endonym|endonym]]).
+; {{anchor|expletive}}[[expletive]]
+: A [[#vulgar|vulgar]] term, an [[#intensifier|intensifier]], or a word without meaning added to fill a syntactic position.
+
+==F==
+; {{anchor|factitive}}{{anchor|factitive verb}}[[factitive]] verb
+: A transitive verb that is derived from an adjective or noun, and expresses the act of making someone/something have the properties (or have more of the properties) of the base adjective or noun. Examples in English are: {{m|en|shorten}} (make {{m|en|shorter}}), {{m|en|strengthen}} (make {{m|en|stronger}}) and {{m|en|enslave}} (make a {{m|en|slave}}). Compare '''[[#causative|causative verb]]s''', which are similar but are derived from other verbs.
+; {{anchor|false friend}}[[false friend]]
+: A word in a language that bears a resemblance to a word in another language but in fact has a different meaning.
+; {{anchor|familiar}}[[familiar]]
+: Describes a context where those conversing, through speech or written word, are well acquainted with one another and in casual situations often use more '''[[#informal|informal]]''' or '''[[#colloquial|colloquial]]''' terms to communicate.
+; {{anchor|f}}{{anchor|feminine}}[[feminine]], ''f''
+: "Feminine"; said of a word belonging to the feminine [[#gender|gender]], which is usually contrasted with the [[#masculine|masculine]] gender, and also often with a [[#neuter|neuter]] gender.
+; {{anchor|figurative}}[[figurative]]
+: Not [[#literally|literal]]. Of [[figure of speech|figures of speech]], words or expressions used as [[#metaphorical|metaphors]] or [[#simile|similes]], e.g. saying that a greedy person is a pig or is like a pig, or as [[#metonym|metonyms]], e.g. using 'crown' to refer to the monarchy.
+; {{anchor|first person}}{{anchor|first-person}}[[first person]], {{anchor|1st person}}[[1st person]]
+: A [[#person|grammatical person]] that indicates the speaker him/her/itself, or a group to which the speaker belongs. Examples are the English pronouns {{m|en|I}} and {{m|en|we}}.
+; {{anchor|fl.}}[[fl.]]
+: "[[floruit|Floruit]]" (Latin for "he/she flourished"). Used when the exact dates of a person's birth and death are unknown to denote a date or period during which the person was known to have been alive or active.
+; {{anchor|focus}}[[focus]]
+: An adverb that indicates focus within the sentence.
+; {{anchor|folk etymology}}{{anchor|folk etymologies}}[[folk etymology]]
+: A misunderstanding of the [[#etymology|etymology]] of a word; a false [[#etymology|etymology]] that incorrectly explains the origin of a word.
+; {{anchor|formal}}[[formal]]
+: Describes a context where word choice and [[syntax]] are primarily limited to those terms and constructions that are accepted by [[academia]] or official institutions as most appropriate and correct. '''[[#informal|Informal]]''' terms, frequently those that originate through casual speech ('''[[#colloquial|colloquial]]'''), are often inappropriate in formal contexts. Examples with varying degrees of formality include: official or legal documents, formal essays, job interviews, etc.
+; {{anchor|fossil word}}{{anchor|fossil}}{{anchor|fossilised}}{{anchor|fossilized}}[[fossil word]]
+: A word that is broadly [[#obsolete|obsolete]] but remains in currency because it is contained within an [[#idiom|idiom]] that is still in use.
+; {{anchor|fpl}}''fpl''
+: "[[#feminine|Feminine]] [[#plural|plural]]"; of feminine gender and plural number.
+; {{anchor|frequentative}}[[frequentative]]
+: Expressing [[repetition]] of an action.
+; {{anchor|fricative}}[[fricative]]
+: A [[#consonant|consonant]] sound produced by air flowing through a constriction in the mouth, and typically producing a sibilant, hissing, buzzing or otherwise "rough" quality. In English, the fricatives are [[#voiceless|voiceless]] {{IPAchar|/f/}}, {{IPAchar|/s/}}, {{IPAchar|/ʃ/}}, {{IPAchar|/θ/}} (as in the final sounds of ''buff'', ''bus'', ''bash'' and ''bath'') and the corresponding [[#voiced|voiced]] sounds {{IPAchar|/v/}}, {{IPAchar|/z/}}, {{IPAchar|/ʒ/}}, {{IPAchar|/ð/}} (as in the final sounds of ''above'', ''buzz'', ''beige'' and ''bathe''). Fricatives are distinguished from [[#plosive|plosive]]s, in which the air is blocked completely for a short period of time, and [[#approximant|approximant]]s, in which the air is not constricted enough to cause the characteristic rough sound of a fricative.
+; {{anchor|front vowel}}[[front vowel]]
+: A [[#vowel|vowel]] produced in the front of the mouth. In English, the front vowels are {{IPAchar|/æ/}}, {{IPAchar|/ɛ/}}, {{IPAchar|/eɪ/}}, {{IPAchar|/ɪ/}}, {{IPAchar|/i/}} (as in the vowels of ''bat'', ''bet'', ''bait'', ''bit'', and ''beat'' respectively).
+; {{anchor|future perfect}}[[future perfect]]
+: A [[#tense|tense]] that expresses action completed at some time in the future; in English it is formed by use of ''will have'' (or ''shall have'') and a [[#past|past]] [[#participle|participle]].
+; {{anchor|future}}{{anchor|future tense}}[[future tense]]
+: The [[#tense|tense]] of a [[#verb|verb]] used to refer to an event, transaction or occurrence that has not yet happened, is expected to happen in the future, or might never happen. An English example is {{m|en|will}} {{m|en|go}} in ''I will go home tomorrow''.
+
+==G==
+; {{anchor|gemination}}[[gemination]]
+: A phenomenon when a [[#consonant|consonant]] is pronounced for an audibly longer period of time than is done normally.
+; {{anchor|gender}}[[gender]]
+: A way of classifying [[#noun|nouns]] in some languages. In such languages, each noun has a specific gender (often determined by its meaning and/or form), and other words (especially [[#adjective|adjectives]] and [[#pronouns|pronouns]]) will often change form to agree with the noun's gender. See also [[#noun class|noun class]].
+; {{anchor|genericized trademark}}[[genericized trademark]]
+: A successful brand name or trademark that has come to refer to the generic class of objects rather than the specific brand type.
+; {{anchor|genitive}}{{anchor|genitive case}}[[genitive case]]
+: A [[#case|case]] that expresses possession or relation, equivalent to the English {{m|en|of}}.
+; {{anchor|gerund}}[[gerund]]
+: Any of various non-finite [[#verb|verb]] forms in various languages. In English, a "gerund" is a verb in its ''[[-ing]]'' form when used in a way that resembles the use of a [[#noun|noun]]. In other languages it often functions as an [[#adverb|adverb]] to form [[#adverbial|adverbial]] phrases or the continuous tense.
+; {{anchor|grave}}{{anchor|grave accent}}[[grave accent]]
+: A [[#diacritic|diacritic]] mark ( ` ) used in many languages to distinguish the pronunciations of [[#vowel|vowels]].
+
+==H==
+; {{anchor|habitual}}[[habitual]]
+: A verbal [[#aspect|aspect]] specifying an action as occurring habitually: the subject performs the action usually, ordinarily, or customarily. Also called '''[[consuetudinal]]'''.
+; {{anchor|hapax legomenon}}[[hapax legomenon]], {{anchor|hapax}}[[hapax]]
+: In [[corpus linguistics]], a word that occurs only once within a given corpus, either in the written record of an entire language, in the works of an author, or in a single text.
+; {{anchor|haplology}}{{anchor|haplological}}[[haplology]]
+: The [[#elision|elision]] or [[#deletion|deletion]] of a part of a word (a sequence of [[#phoneme|phonemes]], or a series of letters) that is repeated (either exactly or with slight change). An example of haplological pronunciation is the UK English pronunciation of {{m|en|library}} as if spelled {{m|en||libry}}, where the sequence of [[#phoneme|phonemes]] {{IPAchar|/ɹəɹ/}} is shortened to {{IPAchar|/ɹ/}}. An example of haplology relating to spelling is {{m|en|symbology}}, from {{affix|en|symbol|-ology}}, where the sequence ''olol'' is shortened to ''ol''. Contrast with [[#reduplication|reduplication]], the repetition of a part of a word.
+; {{anchor|hedge}}{{ll|en|hedge|id=pragmatics}}
+: In [[pragmatics]], a term (word, phrase, or clause) used to lessen the force of an utterance: for instance, to avoid giving insult or bragging about one's knowledge.
+; {{anchor|historical}}[[historical]]
+: Describing an ''object'' or ''concept'' which is no longer extant or current; for example, {{m|en|Czechoslovakia}}, {{m|en|stomacher}}, or {{m|en|phlogiston}}. Distinguish: a ''historical'' term is still in use but refers to a thing which no longer exists; an ''[[#obsolete|obsolete]]'' term is no longer in use, while the thing it once referred to may or may not exist.
+; {{anchor|holonym}}[[holonym]]
+: A term describing something that is formed by other smaller, somehow combined or related things. For example, ''[[tree]]'' is a holonym of ''[[leaf]]''; ''[[body]]'' is a holonym of ''[[arm]]''; ''[[Canada]]'' is a holonym of ''[[British Columbia]]'' etc. The opposite of holonym, which describes things that are ''part'' of a whole, is called ''[[#meronym|meronym]]''.
+; {{anchor|homograph}}[[homograph]]
+: A word that is spelled the same as another word, usually having a different [[#etymology|etymology]].
+; {{anchor|homophone}}[[homophone]]
+: A word which is pronounced the same as another word but differs in spelling, meaning or origin.
+; {{anchor|hot word}}[[hot]] word
+: A newly coined term, or newly adopted sense of an existing term, that has become very popular in a short time. It is kept provisionally as it is likely to remain in usage, even though it fails the "spanning at least one year" requirement of the [[WT:CFI|Criteria For Inclusion]] on Wiktionary.
+; {{anchor|hyperbole}}{{anchor|hyperbolic}}[[hyperbole]]
+: Deliberate or unintentional overstatement, particularly if extreme.
+; {{anchor|hypercorrect}}[[hypercorrect]]
+: Incorrect because of the misapplication of a standard rule; for example, {{m|en|octopi}} used as the plural form of {{m|en|octopus}} is hypercorrect because {{m|en|-us}} → {{m|en|-i}} is the rule for forming plurals of [[Appendix:Latin second declension#Masculine|originally-masculine nouns of the Latin second declension]], whereas {{m|en||octopus}} actually derives from Ancient Greek and has the plural form {{m|en|octopodes}} consistent with its etymology.
+; {{anchor|hyperforeign}}{{anchor|hyperforeignism}}[[hyperforeign]]
+: Incorrectly applying foreign reading rules, such as in pronouncing the "j" in [[Taj Mahal]] or [[Beijing]] as {{IPAchar|[ʒ]}} rather than {{IPAchar|[dʒ]}}, or dropping the {{IPAchar|[t]}} in [[claret]].
+; {{anchor|hypernym}}[[hypernym]] or [[hyperonym]]
+: A term indicating a [[category]] another term is part of, informally called “blanket” or “umbrella” term. For example, ''[[animal]]'' is a hypernym of ''[[bird]]'', which is in turn a hypernym of ''[[eagle]]''. The opposite of hypernym, which indicates terms pertaining to a category, is ''[[#hyponym|hyponym]]''.
+; {{anchor|hyperthesis}}{{anchor|hyperthetic}}[[hyperthesis]]
+: A form of [[#metathesis|metathesis]] in which non-contiguous sounds are switched.
+; {{anchor|hyphenation}}[[hyphenation]]
+: The splitting of a word across a line boundary, with a hyphen at the end of the first part. For example, the hyphenation of {{m|en|hyphenation}} is given as "hy‧phen‧ation" meaning that it is split across a line break as ''hy-phenation'' or as ''hyphen-ation''.
+; {{anchor|hyponym}}[[hyponym]]
+: A more specific term within a category described by another term, indicating a “type-of” relationship. For instance, ''[[alternative rock]]'' is a hyponym of ''[[rock]]'', which in turn is a hyponym of ''[[music]]''. The opposite of hyponym, which describes larger categories, is [[#hypernym|hypernym]].
+
+==I==
+; {{anchor|ideophonic}}[[ideophonic]]
+: A word that evokes an idea in sound, often a vivid impression of certain sensations or sensory perceptions, e.g. sound, movement, color, shape, or action. They may be more common in Oriental languages. In Chinese lexicography, such sense is usually described as {{lang|zh|……[[的]][[樣子]]}} or {{lang|zh|……[[貌]]}}, i.e. “the appearance of ...”.
+; {{anchor|idiom}}[[idiom]]
+: A phrase whose meaning is unapparent or unobvious from the individual words that make it up, such as {{m|en|beat around the bush||avoid uncomfortable topic}}, {{m|en|come a cropper||suffer misfortune}}, or {{m|en|pay through the nose||pay an unusually large amount}}. Idioms are often, but not always ''[[#set phrase|set phrases]]'', and are usually distinct from ''[[#proverb|proverbs]]''. (See also ''[[Appendix:Glossary of idioms – A|Appendix:Glossary of idioms]]''.)
+; {{anchor|idiomatic}}[[idiomatic]]
+: Pertaining or conforming to the mode of expression characteristic of a language. Idioms, [[collocation]]s{{,}} and [[modal verb]]s are examples of idiomatic language.
+; {{anchor|imitative}}[[imitative]]
+: [[imitate|Imitating]] or [[represent]]ing the [[sound#Noun|sound]] of something.
+; {{anchor|imperfect}}[[imperfect]]
+: The [[#imperfective past|imperfective past]] tense of a verb, indicating that the action described happened repeatedly, habitually or continuously.
+; {{anchor|imperative}}{{anchor|imperative mood}}[[imperative mood]]
+: The [[#mood|mood]] of a [[#verb|verb]] expressing an order or command. An English example is the command ''go!''
+; {{anchor|imperfective}}{{anchor|imperfective aspect}}[[imperfective]]
+: An [[#aspect|aspect]] of the [[verb]] which denotes an action or condition that does not have a fixed temporal boundary, but is [[habitual]], [[unfinished]], [[continuous]], [[repetitive]] or [[in progress]]. Common in {{w|Slavic languages}} such as {{cog|ru|-}}. Contrast ''[[#perfective|perfective]].'' (''see'' {{projectlink|pedia|Imperfective aspect}})
+; {{anchor|imperfective past}}imperfective past
+: A verb form of [[#imperfective|imperfective]] [[#aspect|aspect]] and [[#past|past]] [[#tense|tense]], which is used to describe an action or event which was happening habitually, continuously or repeatedly in the past, as in “Tom was painting the fence” or “Tom used to paint the fence.”
+; {{anchor|impersonal}}[[impersonal]]
+: A lack of [[#person|grammatical person]] altogether, or an indefinite/undefined person. An example is the English pronoun {{m|en|one}}. See also [[#impersonal verb|impersonal verb]]s.
+; {{anchor|impersonal verb}}[[impersonal]] verb
+: A verb that cannot take a [[#subject|subject]], or takes a third-person neuter subject pronoun (e.g. {{m|en|it}}) without an [[antecedent]]. The term {{m|en|weather verb}} is also sometimes used in some texts, since such verbs of weather (e.g. {{m|en|rain}}) are impersonal in many languages. Many verbs that are personal and [[#active|active]] in English are expressed in other languages using impersonal constructions. An example is the English sentence "I must do it", expressed in {{cog|fr|-}} using the impersonal verb {{m|fr|falloir||to be [[necessary]]}}, as in {{m|fr|[[il]] [[falloir|faut]] [[que]] [[je]] [[il|le]] [[faire|fasse]]|lit='''It is necessary''' that I do it}}.
+; {{anchor|inanimate}}[[inanimate]]
+: Having a [[referent]] that does not include a human or animal. Many languages (such as the {{w|Slavic languages}}) classify nouns based on animacy, using different [[#inflection|inflections]] or words with animate and inanimate nouns. For verbs, this indicates that they are usually applied only to inanimate objects or concepts, and rarely used in the first or second persons.
+; {{anchor|indeclinable}}[[indeclinable]], {{anchor|undeclinable}}[[undeclinable]], {{anchor|invariable}}[[invariable]] or {{anchor|invariant}}[[invariant]]
+: In languages with [[#inflection|inflection]], lacking distinct inflected forms when they would be expected to exist. Indeclinable words have the same form in all cases. For example, the English noun {{m|en|sheep}} is invariable because its plural is also {{m|en|sheep}}. [[#acronym|Acronyms]] and [[#loanword|loanword]]s are often indeclinable in many languages. Poorly-attested words from ancient languages are sometimes denoted "indeclinable" when they can't be assigned to a declension class with certainty.
+; {{anchor|indefinite}}[[indefinite]]
+: Refers to forms of words that present something as not yet identified or not immediately identifiable; in English, this is the basic meaning of the [[article]] ''[[a]]''; in some languages, this is a nominal or adjectival [[#inflection|inflection]]. In the Germanic languages, adjectives inflected as indefinite are referred to as "strong". In Hungarian, the indefinite conjugation indicates [[#intransitive verb|no object]] or [[:w:Hungarian verbs#Definite and indefinite conjugations|indefinite objects]], including ''me, us,'' and the informal ''you.''
+; {{anchor|independent clause}}[[independent clause]]
+: A [[#clause|clause]] that can stand on its own as a complete [[#sentence|sentence]], as opposed to a [[#dependent clause|dependent clause]].
+; {{anchor|indeterminate verb}}{{anchor|indeterminate}}[[indeterminate verb]]
+: In the {{w|Slavic languages}}, another term for ''[[#abstract verb|abstract verb]]''.
+; {{anchor|indicative}}{{anchor|indicative mood}}[[indicative mood]]
+: The [[#mood|mood]] of a [[#verb|verb]] used in ordinary factual or objective statements.
+; {{anchor|indirect object}}[[indirect object]]
+: A grammatical role of a [[#ditransitive verb|ditransitive verb]] that usually manifests as a recipient or goal. In some languages indirect objects are marked with the [[#dative case|dative case]].
+: → [[#direct object|direct object]]
+; {{anchor|infix}}[[infix]]
+: A [[morpheme]] or [[affix]] inserted inside a word.
+; {{anchor|infinitive}}[[infinitive]]
+: A non-[[finite]] verb form considered [[neutral]] with respect to [[#inflection|inflection]]; depending on language variously found used with [[auxiliary verb]]s, in [[subordinate clause]]s, or acting as a [[#gerund|gerund]], and often as the [[dictionary form]]. In English, the infinitive is formed with the word ''[[to]]'', e.g. ''to [[read]]''.
+; {{anchor|inflected}}{{anchor|inflection}}{{anchor|inflectional}}[[inflection]]
+: The change in form of a word to represent various grammatical categories, such as [[#tense|tense]] (e.g. past tense, present tense, future tense) or [[#number|number]] (e.g. singular, plural). For example, the verb {{m|en|run}} may be inflected to produce {{m|en|runs}}, {{m|en|ran}}, and {{m|en|running}}. In highly inflected languages, such as Latin, there will be many more forms. Two major types of inflection are [[#conjugation|conjugation]] (inflection of [[#verb|verbs]]) and [[#declension|declension]] (inflection of [[#noun|nouns]], [[#adjective|adjectives]], and [[#pronoun|pronouns]]).
+; {{anchor|informal}}[[informal]]
+: Denotes spoken or written words that are used primarily in a [[#familiar|familiar]], or casual, context, where a clear, formal equivalent often exists that is employed in its place in [[#formal|formal]] contexts. Compare similar tag '''[[#colloquial|colloquial]]'''.
+; {{anchor|inherited}}[[inherit]]ed
+: Denotes words which etymologically are not [[Appendix:Glossary#loanword|borrowings]] but derive through regular sound change, without additional affixation, from a corresponding term in the language that is its direct historical ancestor. For example, English {{m|en|fairy}} is ''inherited'' from Middle English {{m|enm|fairye}}.
+; {{anchor|initialism}}[[initialism]]
+: An [[#abbreviation|abbreviation]] that is formed from the initial letters of a sequence of words. Initialisms that are pronounced as words, such as {{m|en|UNICEF}}, are usually called {{m|en||[[#acronym|acronyms]]}}, so the term {{m|en||initialism}} is generally only used for those that are pronounced letter by letter, such as {{m|en|U.S.}}
+; {{anchor|instrumental case}}{{anchor|instrumental}}{{anchor|ins}}[[instrumental case]], ins.
+: A [[#case|case]] used to express means or agency—and is generally indicated in English by "by" or "with" with the objective.
+; {{anchor|intensifier}}[[intensifier]]
+: A [[#word|word]] or [[#particle|particle]] that heightens the intensity of meaning of a term.
+; {{anchor|interjection}}[[interjection]]
+: An expression of emotion ("ouch!", "wow!") or any of several kinds of expression that functions as a replacement of a sentence ([[prosentence]]) or that are not syntactically connected to a sentence, including curses ("damn!"), greetings ("hey", "bye"), response particles ("okay", "oh!", "m-hm", "huh?"), and hesitation markers ("uh", "er", "um"), and perhaps profanities, discourse markers and fillers.
+; {{anchor|internationalism}}[[internationalism]]
+: A loanword that occurs in several languages with the same or similar meaning and etymology, for example ''bus, doctor, hotel, internet, taxi,'' or ''television.''<!-- find better, more or fewer examples, if you like: https://en.wikipedia.org/wiki/Internationalism_(linguistics)#Examples -->
+; {{anchor|intransitive verb}}{{anchor|intransitive}}[[intransitive verb]]
+: Of a [[#verb|verb]]: not taking a [[#direct object|direct object]]; not [[#transitive|transitive]]. For example, the verb {{m|en|listen}} does not usually take a [[#direct object|direct object]]; it is grammatically incorrect to say "I listened the ball".
+: Of an adposition (such as a [[#preposition|preposition]]), or of an [[#adverb|adverb]]: not having a [[#nominal|nominal]] complement. For example, using the following prepositions or adverbs without a complement (here in parentheses): {{m|en|down}} (the stairs), {{m|en|under}} (the bridge), {{m|en|inside}} (the building), {{m|en|aboard}} (the ship), {{m|en|underneath}} (the table), {{m|en|here}}, {{m|en|there}}, {{m|en|abroad}}, {{m|en|downtown}}, {{m|en|afterwards}}, …
+; {{anchor|invariable}}[[invariable]]
+: ''see:'' [[#indeclinable|indeclinable]]
+; {{anchor|invariant}}[[invariant]]
+: ''see:'' [[#indeclinable|indeclinable]]
+; {{anchor|iotation}}[[iotation]]
+: A specific occurrence of [[#palatalization|palatalization]] that occurred in the {{w|Proto-Slavic language}}, in which a [[#consonant|consonant]] combined with the palatal approximant {{IPAchar|/j/}} to form a palatalized [[#consonant|consonant]]. Also, any similar process occurring in a later {{w|Slavic languages|Slavic language}} or elsewhere. For example, under certain circumstances in {{w|Russian language|Russian}}, underlying ''s; z; t; d; k; g'' are iotated to ''š; ž; č or šč; ž; č; ž'' respectively (pronounced {{IPAchar|/ʂ/}}; {{IPAchar|/ʐ/}}; {{IPAchar|/t͡ɕ/}} or {{IPAchar|/ɕː/}}; {{IPAchar|/ʐ/}}; {{IPAchar|/t͡ɕ/}}; {{IPAchar|/ʐ/}} respectively). See [[Appendix:Russian verbs#Slavic iotation]] for the full iotation rules in {{w|Russian language|Russian}}. Other {{w|Slavic languages}} behave similarly.
+; {{anchor|IPA}}[[IPA]]
+: The [[w:International Phonetic Alphabet|International Phonetic Alphabet]]; a standardized system for transcribing the sounds in any spoken language.
+; {{anchor|ʾiʿrāb}} [[ʾiʿrāb]]
+: Also called [[desinential inflection]]; in Arabic: {{m|ar|إِعْرَابٌ||tr=ʾiʿrāb, ʾiʿrābun}}. A number of [[#inflection|inflectional]] endings, applied to Arabic nouns, adjectives, and verbs, which—with minor exceptions—do not appear in writing, and moreover are not pronounced in [[pausa]], i.e. at the end of a sentence or before a pause. Nevertheless, these endings are a regular and required element of Qur'ānic and Classical Arabic. In Modern Standard Arabic, however, they are rather often avoided due to dialectal influence. In nouns and adjectives, the ʾiʿrāb primarily has the function of marking the cases ([[#nominative|nominative]], [[#genitive|genitive]], [[#accusative|accusative]]), while in verbs it marks the moods ([[#indicative|indicative]], [[#subjunctive|subjunctive]], [[#jussive|jussive]]). All of these are only occasionally distinguishable without application of the ʾiʿrāb. See {{w|ʾIʿrab}} on Wikipedia.
+; {{anchor|irregular}}[[irregular]]
+: Not following the usual rules of [[#inflection|inflection]]; for example, the plural of English {{m|en|man}} is {{m|en|men}}, which is irregular; the regularly formed plural would have been *''mans''.
+; {{anchor|iterative}}[[iterative]]
+: Expressive of an action that is repeated with frequency.
+
+==J==
+; {{anchor|jussive}}{{anchor|jussive mood}}[[jussive|jussive mood]]
+: In certain languages (e.g. Hebrew, Arabic and Esperanto), a [[#mood|mood]] of a [[#verb|verb]] used to indicate a command, permission or agreement with a request (distinct from the [[#imperative mood|imperative]]).
+
+==K==
+; {{anchor|karmadharaya}}[[karmadharaya]]
+: Another term for a ''[[#descriptive|descriptive]] compound''. Contrast [[#bahuvrihi|bahuvrihi]], [[#tatpurusa|tatpurusa]] and [[#dvandva|dvandva]].
+; {{anchor|Katharevousa}}[[Katharevousa]]
+: The [[classical language|classically]] based artificial ([[w:standard language|standardized]]) Greek language created at the start of Greece's independence from the [[w:Ottoman Empire|Ottoman Empire]]. It was used for all formal and official purposes until 1976. (Note: In Wiktionary, Katharevousa terms are entered under (modern) [[:Category:Greek language|Greek]].) (See {{projectlink|pedia|Katharevousa}})
+; {{anchor|Kulturwort}}{{anchor|culture word}}[[Kulturwort]]
+: A type of {{glossary|Wanderwort}} which is specific to a particular culture or which is spread by an influential cross-cultural phenomenon. Kulturworts (or ''Kulturwörter'') are often names of products distributed by trade and religious or ideological terms.
+
+==L==
+; {{anchor|lemma}}[[lemma]]
+: The headword or citation form of an [[#inflection|inflected]] word, i.e. the form under which a word is found in a dictionary. For example, in English, nouns are usually listed under their singular form (''apple'', rather than ''apples''), and verbs under their infinitive form (''open'', rather than ''opens'', ''opened'' or ''opening''). For languages other than English, which form is used as the lemma varies from language to language. For verbs, for example, French, German, Spanish and many other European languages use the [[infinitive]], but Latin, Greek and Bulgarian use the [[first-person]] [[singular]] [[present]] [[indicative]], while Macedonian uses the [[third-person]] [[singular]] [[present]] [[indicative]], and Arabic and Hebrew use the [[masculine]] [[third-person]] [[singular]] [[past]] [[indicative]]. See also [[Wiktionary:Lemmas]].
+; {{anchor|letter case}}[[letter case]]
+: The distinction between [[majuscule]] ([[uppercase]]) and [[minuscule]] ([[lowercase]]) letters.
+; {{anchor|lexeme}}[[lexeme]]
+: The abstract "word" underlying a set of inflections; for example, {{m|en||gives}} and {{m|en||given}} belong to the same lexeme, which is usually identified by its lemma form {{m|en|give}}. See also: (1) [[w:lexeme|Wikipedia's article on ''lexeme''s]], (2) [[Wiktionary:Languages with more than one grammatical gender]], (3) [[#C|conjugation]] and (4) [[#D|declension]].
+; {{anchor|liaison}} [[liaison]]
+: The phonological fusion of two consecutive words and the manner in which this occurs, for example intrusion, consonant-vowel linking, etc.
+; {{anchor|linking verb}}[[linking verb]]
+: Another term for [[#copula|copula]].
+; {{anchor|literally}}[[literally]]
+: Exactly as stated; read or understood without additional interpretation; not [[#figurative|figurative]] or [[#metaphorical|metaphorical]].
+; {{anchor|literary}}[[literary]]
+: An elevated [[#register|register]] found mainly in literature.
+; {{anchor|litotes}}[[litotes]]
+: (from {{cog|grc|-}} [[λιτότης]]) better known as an ''[[understatement]]'' in English, is a rhetorical figure that consists of saying ''less'' to mean ''more''. E.g.: ''he is not very clever'' instead of ''he is a stupid idiot'' ; ''she's not very pretty'' instead of ''she's ugly'', etc. Not to be confused with [[#euphemism|euphemism]], although litotes can be used for the purpose of euphemism.
+; {{anchor|loanblend}} [[loanblend]]
+: A [[#partial calque|partial calque]].
+; {{anchor|loanword}}[[loanword]] (also {{anchor|loan}}[[loan]] or [[borrowing]])
+: A word that was adopted (borrowed) from another language, rather than formed within the language or inherited from a more ancient form of the same language. Loanwords may still be recognisably foreign (having non-native spelling or unusual pronunciation), or have become completely assimilated into the language (no longer perceived as foreign). For example, in English, {{m|en|schadenfreude}} is still recognisably German, while {{m|en|cellar}} is fully assimilated and no longer recognisably Latin (from {{m|la|cellārium}}). Sometimes a loanword can be both fully assimilated ''and'' still recognised as foreign, e.g. [[taco]], [[burrito]], etc. Compare [[#calque|loan translation]] ([[calque]]).
+; {{anchor|locative case}}{{anchor|locative}}{{anchor|loc}}[[locative case]], loc.
+: "[[locative|Locative]]". A [[#case|case]] used to indicate place, or the place where, or wherein. It corresponds roughly to the English prepositions "in", "on", "at", and "by". Some languages use the same locative case construct to indicate when, so the English phrase "in summer" would use the locative case construct.
+; {{anchor|locative-qualitative case}}{{anchor|locative-qualitative}}[[locative-qualitative case]]
+: Nouns in the form of the locative-qualitative case are qualifiers in the sentence and signify the locational or temporal mark of the qualified word. The qualifier is not specific but general or universalized. ''see'' '''[[Appendix:Uyghur nouns]]'''.
+; {{anchor|loosely}}{{anchor|loosely speaking}}[[loosely]]
+: Indicates an imprecise use of words; short for ''loosely speaking''. Contrast ''strict'' or ''narrow'' sense; ''[[#strictly|strictly]]''.
+
+==M==
+; {{anchor|macron}}{{anchor|macron}}[[macron]]
+: A short, straight, horizontal [[#diacritic|diacritical]] mark ( ¯ ) placed over any of various letters, usually to indicate that the pronunciation of a [[#vowel|vowel]] is long.
+; {{anchor|m}}{{anchor|masculine}}[[masculine]], ''m''
+: Belonging to the male grammatical [[#gender|gender]], in languages that have gender distinctions.
+; [[mass noun]]
+: See [[#uncountable|uncountable noun]]
+; {{anchor|measure word}}[[measure word]]
+: See [[#counter|counter]].
+; {{anchor|mediopassive}}[[mediopassive]]
+: In Ancient Greek, a category of [[#inflection|inflected]] form in certain [[#tense|tenses]] that contrasts with the [[#active voice|active voice]], and may have meanings characteristic of the [[#middle voice|middle voice]] and [[#passive voice|passive voice]].<!-- Middle-voice forms may also be used with a passive meaning, and passive-voice forms with a middle meaning, which complicates the picture. --> In other tenses, there is a three-way contrast between active-, middle-{{,}} and passive-voice forms. See also [[#middle voice|middle voice]].
+; {{anchor|men's speech}}[[men]]'s [[speech]]
+: In certain languages (for example, {{w|Karajá language}}), men and women use or historically used distinct words and inflected forms.
+; {{anchor|meronym}}[[meronym]]
+: A term that denotes a part of the whole that is denoted by another term. ''The word "arm" is a '''meronym''' of the word "body"''. The term which describes the ''whole'', as being an opposite of meronym, is ''[[#holonym|holonym]]''.
+; {{anchor|metaphorical}}{{anchor|metaphor}}[[metaphorical]]
+: The use of a word or phrase as a [[metaphor]] to refer to something that it is not, invoking a direct similarity between the word or phrase used and the thing described. See also [[#simile|simile]] and [[#figurative|figurative]].
+; {{anchor|metanalysis}}[[metanalysis]]
+: See [[#rebracketing|rebracketing]].
+; {{anchor|metathesis}}{{anchor|metathetic}}{{anchor|metathesise}}{{anchor|metathesize}}{{anchor|metathesised}}{{anchor|metathesized}}[[metathesis]]
+: A sound change in which two sounds or groups of sounds exchange position in a word. A form showing metathesis is described as {{m|en|metathetic}}. The sounds may be adjacent, as in {{m|en|ax}}, the metathetic form of the verb {{m|en|ask}}, or farther apart, as in {{noncog|es|palabra}} from {{noncog|la|parabola}}, in which case the sound change is [[#hyperthesis|hyperthesis]].
+; {{anchor|metonym}}{{anchor|metonymic}}{{anchor|metonymical}}{{anchor|metonymically}}[[metonym]]
+: A word that names an object from a single characteristic of it or of a closely related object, e.g. 'crown' for the sovereign in a monarchy.
+; {{anchor|middle voice}}{{anchor|middle-voice}}[[middle voice]]
+: The [[#voice|voice]] verb form in which the [[#subject|subject]] of a verb performs some action upon itself, it falls somewhere between the [[#active voice|active]] and [[#passive voice|passive]] voices. Found in a few languages (e.g. [[Sanskrit]], [[Ancient Greek]], [[Icelandic]]). (''see'' {{projectlink|pedia|Voice (grammar)}})
+; {{anchor|minced oath}}[[minced oath]]
+: A euphemism based on a profanity that has been altered to reduce or remove the objectionable characteristics of the original expression.
+; {{anchor|mixed}}[[mixed]]
+: A kind of definiteness found in German and related languages, that is intermediate between [[#definite|definite]] (weak) and [[#indefinite|indefinite]] (strong).
+; {{anchor|monolectic}}[[monolectic]]
+: Used of a grammatical form accomplished with one word ([[cf.]] [[#polylectic|polylectic]] and [[#periphrastic|periphrastic]]).
+; {{anchor|monosyllable}}[[monosyllable]]
+: A word consisting of only one [[#syllable|syllable]].
+; {{anchor|mood}}[[grammatical mood|mood]]
+: One of the forms of a [[#verb|verb]], used to indicate the speaker's attitude toward what they are saying (e.g. a statement of fact, of desire, of command, etc.). Examples include [[#indicative mood|indicative]], [[#subjunctive mood|subjunctive]], [[#imperative mood|imperative]], [[#conditional mood|conditional]]. (''see'' {{projectlink|pedia|Grammatical mood}})
+; {{anchor|mpl}}''mpl'', ''m.&nbsp;pl.''
+: [[#masculine|Masculine]] [[#plural|plural]].
+; {{anchor|mute_h}}[[mute h]]
+: In French, an initial &lt; h&gt; that is treated like a [[#vowel|vowel]]; that is to say, [[liaison]] and [[elision]] are permitted at the beginning of words that have a mute h.
+
+==N==
+; {{anchor|nasal infix}}nasal infix
+: The [[#infix|infix]] {{m|ine-pro||-né-}} or {{m|ine-pro||-n-}} in [[Proto-Indo-European]], one of the affixes marking the [[#imperfective|imperfective]] aspect. It appears in several of the [[:Category:Indo-European languages|Indo-European languages]]: for instance, Latin {{m|la|vincit|vi'''n'''cit|t=wins}}, {{m|la|vīcit|t=has won}}; Ancient Greek {{m|grc|λαμβάνω|λα'''μ'''βάνω|t=I take}}, {{m|grc|ἔλᾰβον|t=I took}}.
+; {{anchor|negative polarity}}{{anchor|negative polarity_item}}{{anchor|negative_polarity}}{{anchor|negative_polarity_item}}negative polarity item
+: A term or construction that is generally found only in negative sentences, questions, conditionals, and certain other “negative polarity” contexts; for example, {{m|en|anyone}} is a negative polarity item, as one can say "I did not see anyone", "Did you see anyone?" and "If anyone wants this, speak up now", but not *"I saw anyone." Several expressions have similar properties, such as {{m|en|budge an inch}}: "I won't budge an inch" and "Will he even budge an inch?", but not normally *"He budged an inch in the negotiations." (''see'' {{projectlink|pedia|Polarity item}})
+; {{anchor|negative_verb}}[[negative verb]]
+: An [[#auxiliary verb|auxiliary verb]] used to form negatives of verbs in some languages. See also ''[[#connegative|connegative]]''.
+; {{anchor|neologism}}[[neologism]]
+: A newly coined term or meaning. See [[Wiktionary:Neologisms]].
+; {{anchor|n}}{{anchor|neuter}}[[neuter]], ''n''
+: Of neuter [[#gender|gender]]: having a form which is not [[#masculine|masculine]] nor [[#feminine|feminine]]; or having a form which is not of [[#common gender|common gender]].
+; {{anchor|nominal}}[[nominal]]
+: Related to [[#noun|noun]]s. See also ''[[#denominal|denominal]]''.
+: As a noun, it refers to any [[#part of speech|part of speech]] that is noun-like in some way, and normally includes [[#noun|noun]]s themselves along with [[#adjective|adjective]]s, [[#pronoun|pronoun]]s and [[#determiner|determiner]]s. The [[#inflection|inflection]] of nominals is commonly called [[#declension|declension]].
+; {{anchor|nominative}}{{anchor|nominative case}}[[nominative case]]
+: A [[#case|case]] that is usually used as the [[#subject|subject]] of a [[#verb|verb]]. For example, if English had a fully [[#productive|productive]] case system, then (the) ''man'' in "The man threw the ball" would most likely be in the nominative case.
+; {{anchor|nominalization}}{{anchor|substantivization}}[[nominalization]] or [[substantivization]]
+: The use of a word which is not a [[#noun|noun]] (e.g. a [[#verb|verb]] or [[#adjective|adjective]]) as a noun.
+; {{anchor|nonce}}{{anchor|nonce word}}[[nonce word]]
+: A word invented for the occasion.
+; {{anchor|nonfinite}}{{anchor|non-finite}}[[nonfinite]], [[non-finite]]
+: Of a verb – lacking grammatical [[#person|person]] and [[#number|number]] attributes; most nonfinite verbs found in English are [[#infinitive|infinitives]], [[#participle|participles]] and [[#gerund|gerunds]].
+; {{anchor|non-past}}{{anchor|non-past tense}}[[non-past|non-past tense]]
+: The [[#tense|tense]] of a [[#verb|verb]] that does not pertain to the [[#past|past]]; in particular, applicable to both the [[#present|present]] and the [[#future|future]]. Common in some languages, such as Arabic. In English, the main verb in the sentences ''I am running tomorrow'' and ''I am running now'' can be said to be in the non-past tense, since the same verb can be used to express both the present and the future.
+; {{anchor|nonstandard}}[[nonstandard]]
+: Not conforming to the language as accepted by the majority of its speakers.
+; {{anchor|nonvirile}}nonvirile
+: In Slavic languages, a plural [[#gender|gender]] used for all groups that do not contain men, as well as plurals of [[#masculine|masculine]] animate, masculine inanimate, [[#feminine|feminine]] and [[#neuter|neuter]] nouns. Contrast ''[[#virile|virile]]''.
+; {{anchor|noun}}[[noun]]
+: A person (such as an {{m|en|actress}}), a place, a physical thing (such as {{m|en|wood}}), or concept (such as {{m|en|beauty}}, {{m|en|joy}}, or {{m|en|time}}). See also [[#countable|countable]], [[#uncountable|uncountable]] and [[#plural|plural]].
+; {{anchor|noun class}}[[noun class]]
+: In some languages (especially the [[Bantu]] languages), a way of classifying nouns much like [[#gender|gender]], but determined by other considerations such as the type and shape of an object, whether it is [[#animate|animate]] or [[#inanimate|inanimate]], a person or non-person, and so on.
+; {{anchor|noun clause}}[[noun clause]]
+: A type of [[#dependent clause|dependent clause]] that takes the place of nouns. Examples are ''I said '''that my name is John''''' as well as ''I suggested '''that he leave''''' and '''''That the color of the sky on Mars is pinking-red''' is surprising to me''. Noun clauses can also be [[#nonfinite|nonfinite]] (i.e. with the verb in the form of an [[#infinitive|infinitive]]), as in ''I asked '''him to leave''''' (compare the [[#synonym|synonymous]] ''I asked '''that he leave''''', expressed using a [[#finite|finite]] verb).
+; {{anchor|number}}[[number]], {{anchor|grammatical number}}grammatical number
+: A grammatical category that indicates how many items or individuals. Examples are [[#singular number|singular]], [[#plural number|plural]] and [[#dual number|dual]].
+; {{anchor|number}}[[numeronym]]
+:A [[number]]-based [[word]].
+
+==O==
+; {{anchor|object}}{{anchor|grammatical object}}[[object]] {{wikipedia|Object (grammar)}}
+: The entity that is acted upon by a [[#verb|verb]]. For example, in the sentence ''Tom studies grammar'', the word ''grammar'' is the object. Contrast [[#subject|subject]].
+: → [[#direct object|direct object]], [[#indirect object|indirect object]]
+; {{anchor|oblique}}{{anchor|oblique case}}[[oblique case]], {{anchor|objective}}{{anchor|objective case}}[[objective case]]
+: Any case that is neither [[#nominative case|nominative]] nor [[#vocative case|vocative]]. The term is therefore often plural ("the oblique cases"); but in some languages, such as [[Hindustani]] and [[Old French]], the oblique is a particular case form, used for example (in Old French) for the [[#direct object|direct object]] and with prepositions.
+; {{anchor|obs}}{{anchor|obsolete}}''[[obsolete]]'', ''obs.''
+: No longer in use, and (of a term<!--as opposed to a spelling-->) no longer likely to be understood. ''Obsolete'' is a stronger term than ''[[#archaic|archaic]]'', and a much stronger term than ''[[#dated|dated]]''. See [[Wiktionary:Obsolete and archaic terms]].
+; {{anchor|OED}}OED
+: ''[[w:Oxford English Dictionary|Oxford English Dictionary]]''. Also '''SOED''' (Shorter), '''OED1''' (1st edition), '''OED2''' (2nd edition), '''NOED''' (New).
+; {{anchor|onomatopoeia}}{{anchor|onomatopoeic}}[[onomatopoeia]]
+: A word that is meant to sound like what it represents. English examples are {{m|en|kaboom}}, {{m|en|cuckoo}}, {{m|en|tweet}} and {{m|en|ding dong}}.
+; {{anchor|optative mood}}[[optative mood]]
+: A category of verb form (a [[#mood|mood]]) that expresses wishes along with other meanings. Such a category occurs in Ancient Greek and Sanskrit.
+; {{anchor|orthographic borrowing}}[[orthographic]] [[borrowing]]
+: A [[#loanword|loanword]] that has been borrowed in its written form and re-pronounced according to the conventions of the target language, particularly in East Asian languages written with Chinese characters. For example, the Chinese name {{m|zh|毛泽东|tr=Máo Zédōng}} is rendered in Japanese as {{m|ja|毛泽东|tr=Mō Takutō}}: the spelling is the same, but the characters have been pronounced as if they were Japanese words, leading to a significantly different pronunciation. In many cases, the pronunciations in the source and donor language have no etymological relationship. For example, the Japanese noun {{ja-r|葉%書|は%がき|postcard}} was orthographically borrowed into Korean as {{ko-l|엽서|葉書|postcard}}.
+; {{anchor|outdated}}[[outdated]]
+: see ''[[#dated|dated]]''
+; {{anchor|oxytone}}[[oxytone]]
+: With the stress upon the final syllable (e.g. {{m|el|εθνικός}}). Compare with [[#paroxytone|paroxytone]], [[#proparoxytone|proparoxytone]], and [[#barytone|barytone]].
+
+==P==
+; {{anchor|p.}}p.
+: ''post'' or after, often used in quotations. Hence, a quotation from "p. 1924" is a quotation from no earlier than 1924.
+: ''plural''.
+; {{anchor|palatalization}}[[palatalization]]
+: In some cases, the state or quality of being [[palatalized]], i.e. of pronouncing a sound with the tongue against the [[palate]] of the mouth that normally is not so pronounced. Some languages, such as [[Russian]] and [[Irish]], have pairs of palatalized and unpalatalized [[#consonant|consonant]] [[#phoneme|phonemes]].
+
+: In other cases, a [[sound change]] that involves a change of consonants to become palatalized or move in the direction of the palate; one of the most common of sound changes, and usually triggered by a following {{IPAchar|/e/}}, {{IPAchar|/i/}} or {{IPAchar|/j/}}. In English, palatalization (known as {{w|yod-coalescence}}) converted {{IPAchar|/t/}} {{IPAchar|/d/}} {{IPAchar|/s/}} {{IPAchar|/z/}} to {{IPAchar|/t͡ʃ/}} {{IPAchar|/d͡ʒ/}} {{IPAchar|/ʃ/}} {{IPAchar|/ʒ/}} before a {{IPAchar|/j/}} (which was later lost), resulting in the sounds found in ''na'''t'''ure'', ''proce'''d'''ure'', ''pre'''ss'''ure'', ''a'''z'''ure'', where the spelling still indicates the sound as it was prior to palatalization. Palatalization still operates [[synchronically]] before a {{IPAchar|/j/}}, producing, for instance, the pronunciations {{m|en|gotcha}} and {{m|en|didja}} from {{m|en|[[got]] [[you]]}} and {{m|en|[[did]] [[you]]}}. (See also {{projectlink|pedia|Palatalization}})
+; {{anchor|palindrome}}[[palindrome]]
+: A word, phrase, number or any other [[sequence]] of units which has the property of reading the same [[forwards]] as it does [[backwards]], character for character, sometimes disregarding punctuation, [[capitalization]] and [[diacritic]]s.
+; {{anchor|paradigm}} [[paradigm]]
+: A set of all forms which contain a common element, especially the set of all [[#inflection|inflectional]] forms of a word or a particular grammatical category.
+; {{anchor|paroxytone}}[[paroxytone]]
+: With the stress upon the [[#penultima|penultimate]] (second to last) syllable (e.g. {{m|el|εθνολόγος}}). (Compare with [[#oxytone|oxytone]], [[#proparoxytone|proparoxytone]] and [[#barytone|barytone]].)
+; {{anchor|part of speech}}[[part of speech]] ({{anchor|POS}}POS, {{anchor|POS}}PoS)
+: The category that a word belongs to, with respect to how it's used as part of phrases and sentences. Examples are [[#noun|noun]]s, [[#adjective|adjective]]s and [[#verb|verb]]s. The part of speech is inherent in the word itself, and is independent of any specific role that the word may have within any given sentence (e.g. subject, [[#direct object|direct object]]). Words may belong to more than one part of speech: English {{m|en|this}} is both a [[#determiner|determiner]] and a [[#pronoun|pronoun]], while {{m|en|coat}} is both a noun and a verb.
+; {{anchor|partial calque}}{{anchor|loan blend}}{{anchor|partially calqued}}[[partial calque]]
+: A term which is only in part a [[#calque|calque]] or [[loan translation]], such that some parts have been translated word-for-word and other parts have been [[#loanword|borrowed]] directly. For example, the English term ''[[liverwurst]]'' is a partial calque of {{m+|de|Leberwurst}}; the first part {{m|de|Leber||liver}} was translated, but the second part {{m|de|Wurst||sausage}} was borrowed without translation. A partial calque is also known as a ''[[loanblend]]''. (''see'' {{projectlink|pedia|Partial calque}})
+; {{anchor|participial}}{{anchor|participle}}{{anchor|participles}}[[participle]]
+: A form of a [[#verb|verb]] that may function as an [[#adjective|adjective]] or [[#noun|noun]]. {{cog|en|-}} has two types of participles: the [[#present|present]] participle and the [[#past|past]] participle. In other languages, also [[#future|future]], [[#perfect|perfect]], [[#future perfect|future perfect]] participles.
+; {{anchor|particle}}[[particle]]
+: A word that does not fall into the usual [[#part of speech|part of speech]] categories, but which modifies another word or the sentence as a whole. The English term ''[[like#Particle|like]]'' is used as a particle in many dialects. Particles are more common in other Indo-European languages (e.g. German {{m|de|doch}}, which marks a sentence as being surprising or rebutting a previous statement) and in East Asian languages (e.g. Japanese {{m|ja|は}}, which marks the topic of a sentence). Many [[#clitic|clitics]] are particles.
+; {{anchor|partitive}}[[partitive]]
+: Indicating partialness or indeterminateness, such as "some water" or "something nice". In Dutch, it is a word form that is used when referring to undetermined things or amounts. French has special partitive [[#article|article]]s which qualify indefinite [[#mass noun|mass noun]]s.
+; {{anchor|partitive case}}[[partitive case]]
+: A [[#case|case]] that expresses a partial object or an action that is not performed to completion.
+; {{anchor|passive}}{{anchor|passive voice}}[[passive voice]]
+: the [[#voice|voice]] verb form in which the subject is not the person or thing doing the action, and is usually having the action done on them ([[cf.]] [[#active voice|active voice]]), e.g. ''the ball was kicked (by the boy).'' (See also {{projectlink|pedia|Voice (grammar)}})
+; {{anchor|past}}{{anchor|past tense}}[[past tense]]
+: The [[#tense|tense]] of a [[#verb|verb]] used to refer to an event, transaction, or occurrence that did happen or has happened, or an object that existed, at a point in time before now. An English example is {{m|en|saw}} in ''I saw my friend yesterday''.
+; {{anchor|past perfect}}past perfect
+: Same as ''[[#pluperfect|pluperfect]]''.
+; {{anchor|penultima}}{{anchor|penult}}[[penultima]]
+: The next-to-last [[#syllable|syllable]] of a word.
+; {{anchor|perfect}}[[perfect]]
+: The [[#aspect|aspect]] of a verb, indicating that the action described is completed. Consists of the verb ''have'' + the past participle, e.g. ''Tom has painted the fence'' or ''Tom has taken medicine''. Depending on the tense of ''have'' one can have present perfect, which are represented in the previous examples, or past perfect: ''Tom had painted the fence'', ''Tom had taken medicine''. ''To have painted'' is a perfect infinitive. See also ''[[#imperfect|Imperfect]]''. Not to be confused with ''[[#perfective|perfective]]''.
+; {{anchor|perfective}}{{anchor|perfective aspect}}[[perfective]]
+: The [[#aspect|aspect]] of a verb, which denotes viewing the event the verb describes as a simple whole, rather than as having internal structure. For example, "she sat down" as opposed to "she was sitting down". As this may often lead to an interpretation of completeness of what is expressed by the verb, this aspect is generally associated with the past and future tenses. Common in {{w|Slavic languages}} such as {{cog|ru|-}}. This term is often used interchangeably with ''[[#aorist|aorist]] aspect''. Not to be confused with ''[[#perfect|perfect]]''. (''see'' {{projectlink|pedia|Perfective aspect}})
+; {{anchor|periphrastic}}[[periphrastic]]
+: Using more words to produce a grammatical effect. For example '''more fair''' is a ''periphrastic'' form of '''fairer'''. The English future tense requires ''periphrastic'' usage: "I '''will write''' an essay." (Compare [[#monolectic|monolectic]] and [[#polylectic|polylectic]].)
+; {{anchor|person}}[[person]], {{anchor|grammatical person}}grammatical person
+: A grammatical category that indicates the relationship between the speaker and what is being spoken of. Examples are [[#first person|first person]], [[#second person|second person]] and [[#third person|third person]].
+; {{anchor|phoneme}}[[phoneme]]
+: An indivisible unit of sound in a given language, an abstraction of the physical speech sounds.
+; {{anchor|phrase}}[[phrase]]
+:# A word or group of words that functions as a single unit in the [[#syntax|syntax]] of a [[#sentence|sentence]], usually consisting of a [[#head|head]], or central word, and elaborating words. Examples are ''the good boy'' (a [[#noun|noun]] phrase), ''very strange'' (an [[#adjective|adjective]] phrase), and ''in the house'' (a [[#preposition|prepositional]] phrase). Normally distinguished from a [[#clause|clause]], a similar group of words that contains a [[#verb|verb]].
+:# Same as [[#set phrase|set phrase]].
+; {{anchor|plosive}}[[plosive]]
+: A [[#consonant|consonant]] sound produced by completely blocking the airflow through the mouth for a short time. In English, the plosives are [[#voiceless|voiceless]] {{IPAchar|/p/}}, {{IPAchar|/t/}}, {{IPAchar|/k/}} (as in the initial sounds of ''pea'', ''tea'', ''key'') and the corresponding [[#voiced|voiced]] sounds {{IPAchar|/b/}}, {{IPAchar|/d/}}, {{IPAchar|/ɡ/}} (as in the initial sounds of ''buy'', ''die'', ''guy''). Plosives are distinguished from [[#fricative|fricative]]s, in which the air is mostly but not completely blocked, enough to cause a rough, hissing or buzzing sound, and [[#approximant|approximant]]s, in which the airflow is only slightly constricted, resulting in a smooth sound.
+; {{anchor|pluperfect}}[[pluperfect]]
+: A verb form of [[#perfect|perfect]] [[#aspect|aspect]] and [[#past|past]] [[#tense|tense]], which is used to describe an action or event which is regarded as having been completed in the past, in relation to a time already in the past. E.g. ''Tom had painted the fence before I got there''.
+; {{anchor|plural}}{{anchor|Plural}}[[plural]], {{anchor|plural number}}plural number, {{anchor|pl}}{{anchor|pl.}}pl., p.
+: A [[#number|grammatical number]] that indicates multiple items or individuals. Most languages contrast it with [[#singular number|singular]], in which case plural indicates two or more. Some languages also possess the [[#dual number|dual]] or even [[#trial number|trial]] numbers; in these cases the plural indicates more than the highest specific number.
+; {{anchor|pluralia tantum}}[[pluralia tantum]]
+:Nouns that are mostly or exclusively used in the plural form.
+; {{anchor|plural only}}{{anchor|plurale tantum}}{{anchor|pluralia tantum}}[[plural]] [[only]]
+: A noun (or a sense of a noun) that is inherently plural and is not used (or is not used in the same sense) in the singular, such as ''[[pants]]'' in the senses of "trousers" and "underpants", or ''[[wheels]]'' in the sense of "car", is ''plural only'' or ''a [[plurale tantum]]''. In practice, most pluralia tantum are found in the singular in rare cases. (''See'' [[:Category:English pluralia tantum]].) Contrast words which are '''[[singular]] [[only]] ([[singulare tantum|singularia tantum]])'''.
+; {{anchor|phono-semantic compound}}[[phono-semantic compound]]
+:{{calque|en|zh|-}} {{zh-l|形聲字}}.
+: A Chinese character ([[#CJKV|CJKV]] character) composed of a component which is related to the meaning the character and another component which is related to the sound of the character.
+; {{anchor|polylectic}}[[polylectic]]
+: Used of a grammatical form accomplished with more than one word ([[cf.]] [[#monolectic|monolectic]] and [[#periphrastic|periphrastic]]).
+; {{anchor|portmanteau}}{{anchor|Portmanteau}}[[portmanteau]]
+: A [[#blend|blend]] that combines meanings.
+; {{anchor|positive}}[[positive]]
+: The 'normal' form of the [[#degrees of comparison|degrees of comparison]] of an adjective or adverb. Thus [[big]] is the ''positive'' form of the trio ''big'', ''bigger'', ''biggest''.
+; {{anchor|postpositive}}[[postpositive]]
+: Placed after the word modified.
+; {{anchor|preconsonantal}}[[preconsonantal]]
+: Immediately preceding a [[#consonant|consonant]] or consonant sound.
+; {{anchor|predicate}} [[predicate]]
+: The part of a [[#sentence|sentence]] that follows the [[#subject|subject]]. This generally consists of the [[#verb|verb]] and any [[#object|object]]s. It can also consist of a [[#linking verb|linking verb]] (e.g. "to be", "to seem", etc.) and a following [[#adjective|adjective]], which is termed a ''predicate adjective'' or ''predicative adjective'' (contrasted with an ''[[#attributive|attributive]] adjective'', which directly modifies a [[#noun|noun]]). An example would be {{m|en|good}} in ''The food is good''. Some languages, such as {{cog|de|-}} and {{cog|ru|-}}, have a special declension for predicate adjectives.
+; {{anchor|predicative}}[[predicative]]
+: Describes a term that acts as the [[#predicate|predicate]] or part of the predicate of a [[#sentence|sentence]] (e.g. a ''predicative [[#adjective|adjective]]'', such as {{m|en|good}} in ''The food is good''). Some adjectives are only-predicative like {{m|en|afraid}} or {{m|en|glad}} in English.―In {{cog|ru|-}}, it often specifically refers to an adjective-like [[#part of speech|part of speech]] that serves as the entire predicate of a sentence in an [[#impersonal|impersonal]] construction. Such constructions often cannot be translated word-for-word in English. An example is {{m|ru|ску́чно||it is [[boring]]}} in the sentence {{m|ru|[[я|мне]] [[ску́чно]]||I am [[bored]]|lit='''It is boring''' to [[me]]}}.
+; {{anchor|prefix}}{{anchor|prefixed}}{{anchor|prefixation}}[[prefix]]
+: A [[morpheme]] added to the beginning of a word to modify its meaning.
+; {{anchor|prescriptive}}[[prescriptive]]
+: (as a context label for a word or phrase) Correct and consistent according to linguistic rules, but not in general use.
+; {{anchor|prevocalic}}[[prevocalic]]
+: Immediately preceding a [[#vowel|vowel]] or vowel sound.
+; {{anchor|preposition}}[[preposition]]
+: A word, normally non-[[#inflection|inflect]]ing, that is typically employed to connect a following [[#noun|noun]] or [[#pronoun|pronoun]], in an [[#adjective|adjectival]] or [[#adverb|adverbial]] sense, with some other word. Examples of prepositions in English are ''in'', ''from'' and ''during''. Note that some languages have [[#postposition|postposition]]s instead of prepositions; they function like prepositions but come ''after'' the noun or pronoun being connected.
+; {{anchor|prepositional case}}{{anchor|prepositional}}[[prepositional case]]
+: A [[#case|case]] used in certain languages, especially {{cog|ru|-}}, after certain [[#preposition|preposition]]s. In {{cog|ru|-}}, it corresponds to the [[#locative case|locative case]] in other {{w|Slavic language}}s.
+; {{anchor|present}}{{anchor|present tense}}[[present tense]]
+: The [[#tense|tense]] of a [[#verb|verb]] used primarily to refer to an event, transaction, or occurrence happening now or at the present time. The verb {{m|en|see}} in ''I see my friend in the window'' is in the present tense. In many languages, including English, the present tense may also be used to refer to past or future events in certain contexts: ''My plane leaves tomorrow morning'' (where {{m|en|leave}} is a present verb that refers to the future), or: ''John Lennon dies of gunshot wounds'' (as in a headline, where {{m|en|dies}} is a present verb that refers to the past; see [[historical present]]). While such uses are somewhat exceptional in English, the present tense is used much more widely in many languages. For example, the German present tense also covers some or most of the uses of the English future (''I will do'') and present perfect (''I have done'').
+; {{anchor|preterite}}[[preterite]] (also spelled [[preterit]])
+: A [[#tense|tense]] showing an action at a determined moment in the past. In general it is thus the union of the [[#past tense|past tense]] with the [[#perfective|perfective]] aspect, although in some languages it is little more than a synonym for past tense.
+; {{anchor|preterite-present verb}}[[preterite-present verb]]
+: In [[Germanic]] languages, a verb that displays (or historically displayed) [[#ablaut|ablaut]] in the present tense, and thereby had ''present'' tense forms resembling the ''past'' (or ''preterite'') tense of a [[#strong verb|strong verb]]. Most languages have no more than a handful of such verbs, and they are often used as [[#auxiliary verb|auxiliary verbs]]. English examples are {{m|en|shall}}, {{m|en|can}}, {{m|en|may}}. Contrast [[#strong verb|strong verb]], [[#weak verb|weak verb]].
+; {{anchor|productive}}[[productive]]
+: Used to form new words and phrases. For example, when a new verb appears in Modern English, the productive suffix ''[[-ed]]'' is used to form its past participle; by contrast, the suffix ''[[-en]]'' appears in many existing past participles, but is not productive, in that it is not (usually) used to form new ones.
+; {{anchor|progressive}}[[progressive]]
+: The [[#aspect|aspect]] of a verb, indicating that the action described is, was or will be continuing, uncompleted or repeated. A verb form indicating that an action is [[in progress]]. In English, formed from a combination of ''be'' + the present participle (''-ing'' form) of the verb. So one can have present progressive (e.g. '''''is''' painting''), past progressive (e.g. '''''was''' painting''), future progressive (e.g. '''''will be''' painting''), etc. Similar to, but less general than, the [[#imperfective|imperfective]] [[#aspect|aspect]]. (See also ''[[#continuous|continuous]]''.)
+; {{anchor|pronominal verb}}[[pronominal verb]]
+: A form of [[#verb|verb]] that has an attached [[#pronoun|pronoun]], prominent feature of [[Romance language|Romance]] and Slavic languages. The verb-pronoun combination can have [[#reflexive|reflexive]], [[#reciprocal|reciprocal]], [[#passive|passive]], [[#subjective|subjective]] or [[#idiomatic|idiomatic]] semantics.
+; {{anchor|pronoun}}[[pronoun]]
+: A [[#part of speech|part of speech]] that acts as a substitute for a [[#noun|noun]] or [[noun phrase]] and refers to a topic of the discussion. Pronouns can refer to a participant in the discussion and can be used instead of a person's name, which is the case for pronouns {{m|en|I}} and {{m|en|you}}. Other pronouns, such as {{m|en|he}}, {{m|en|she}}, and {{m|en|it}}, can be used to refer to other people or objects that have already been mentioned without repeating their names.
+; {{anchor|proparoxytone}}[[proparoxytone]]
+: With the stress upon the [[#antepenultimate|antepenultimate]] (third to last) syllable (e.g. {{m|el|εθνικότητα}}). (Compare with [[#oxytone|oxytone]], [[#paroxytone|paroxytone]], and [[#barytone|barytone]].)
+; {{anchor|proper noun}}[[proper noun]]
+: A kind of [[#noun|noun]] that usually refers to a specific, unique thing, such as {{m|en|Earth}} and {{m|en|Alps|the Alps}}, though one language's proper noun may translate to another language using a ''common'' (not proper) noun. In English, proper nouns are usually capitalized, as are common nouns and adjectives derived from proper nouns. The same word may have both common-noun and proper-noun senses (such as {{m|en|German}}, which is both a proper noun denoting a certain language, and a common noun denoting a person from Germany), and most proper nouns can sometimes be used as common nouns – e.g. {{m|en|John}} is a proper noun that is a first name, but can be used a common noun with plural {{m|en|Johns}} meaning "people named John".
+; {{anchor|proscribed}}[[proscribe]]d
+: Some authorities or commentators recommend or warn against the listed usage.
+; {{anchor|prothesis}}[[prothesis]]
+:The prepending of [[#phoneme|phonemes]] at the beginning of a word without changing its morphological structure, as in {{m|en|nother}}, from {{m|en|other}} (“a whole nother thing”), or Spanish {{m|es|esfera}} from Latin {{m|la|sphaera||sphere}}.
+; {{anchor|proverb}}[[proverb]]
+: A [[#phrase|phrase]] expressing a basic truth which may be applied to common situations.
+
+==R==
+; {{anchor|rare}}[[rare]]
+: A term or sense that is attested but not used commonly either in spoken or written language.
+; {{anchor|reanalysis}}{{anchor|reanalysed}}{{anchor|reanalyzed}}[[reanalysis]]
+: Analyzing a [[#lexeme|lexeme]] with a different structure from its original, often by misunderstanding. For example, ''[[hamburger]]'', which is originally ''[[Hamburg]]'' + ''[[-er]]'', was reanalyzed as ''[[ham]]'' + ''[[-burger]]'', which produced words like ''[[cheeseburger]]''.
+; {{anchor|rebracketing}}{{anchor|metanalysis}}[[rebracketing]]
+: The process by which a word originally derived from one source is broken down or bracketed into a different set of factors. The understanding of ''[[hamburger]]'' as ''[[ham]] + [[burger]]'' (rather than ''[[Hamburg]]'' + ''[[-er]]'') is an example of rebracketing. Also called '''[[metanalysis]]'''.
+; {{anchor|reciprocal}}[[reciprocal]]
+: Used to indicate that subjects have other subjects as object. Pronouns can be reciprocal (in English ''[[each other]]''), as well as verbs [[reciprocal]] quality as [[#lexeme|lexeme]]s.
+; {{anchor|reconstruction}}{{anchor|reconstructed}}[[reconstruction]]
+: A word that is not recorded in actual texts or other media, but has been recreated from its descendant forms, using the [[comparative method]] of linguistics.
+; {{anchor|reducible}}[[reducible]]
+: In the {{w|Slavic languages}}, a word (especially a noun or adjective) with an alternation between a vowel and no vowel in different forms of the word, pursuant to {{w|Havlík's law|Havlík’s law}}. In Russian, for example, the reducible masculine noun {{m|ru|вене́ц||[[crown]]}} appears unreduced (with /e/ in the final syllable) in the masculine singular, and reduced (with no /e/) in other forms, e.g. genitive singular {{m|ru|венца́}}, nominative plural {{m|ru|венцы́}}.
+; {{anchor|reduplication}}{{anchor|reduplicated}} [[reduplication]]
+: The repetition of a word or a part of a word (as few as two [[#phoneme|phonemes]] in a word, or the whole sequence of phonemes in the word) with no or slight change. Compare [[#haplology|haplology]], the [[#elision|elision]] of a repeated part of a word.
+; {{anchor|reflexive}}[[reflexive]]
+: Referring back to the subject, or having an object equal to the subject. Pronouns can be reflexive (e.g. ''[[myself]]'', ''[[oneself]]''). [[Romance language|Romance]] and Slavic languages make extensive use of reflexive verb forms (e.g. {{ncog|it|lavarsi}}, {{ncog|es|lavarse||to wash oneself}}). These are part of a larger group of [[#pronominal verb|pronominal verbs]].
+; {{anchor|register}}[[register#English-language_register|register]]
+: Has two meanings. In [[sociolinguistics]], and most commonly in this dictionary, it refers to a variety of a language used for a particular purpose or in a particular social setting, and encompasses variants such as [[#slang|slang]], [[#colloquial|colloquial]], [[#informal|informal]], [[#formal|formal]], etc. In [[phonology]], it refers to a phonological property of a syllable in certain languages where the features of [[#tone|tone]], {{w|phonation}} (e.g. {{w|breathy voice}} and {{w|creaky voice}}) and {{w|glottalization}} are interrelated. {{w|Burmese}} and {{w|Vietnamese}} are noted languages with register systems in their phonology.
+; {{anchor|related terms}}[[Wiktionary:Entry layout explained#Related terms|related terms]]
+: Words in the same language that have strong etymological connections but are '''not''' derived terms.
+; {{anchor|relational}}[[relational]]
+: Refers to a type of adjective in some languages, e.g. {{cog|la|-}}, {{cog|grc|-}} and the {{w|Slavic languages}}, that takes the place of a noun when it modifies another noun. Consider an English phrase such as ''chicken soup''. In English, this phrase can be constructed by simply placing a noun such as ''chicken'' in the position normally occupied by an adjective, i.e. directly before the noun. In languages such as {{cog|ru|-}}, however, this cannot be done, and instead the word {{m|ru|ку́рица||chicken}} must be replaced by the relational adjective {{m|ru|кури́ный||related to chickens}} when forming the Russian equivalent {{m|ru|[[кури́ный]] [[суп]]||chicken soup}}. Generally, adjectives of this sort cannot be qualified by ''more'', ''less'' or ''very''.
+; {{anchor|relative}}[[relative]]
+:# Marking a [[#relative clause|relative clause]]. Often used of pronouns, such as {{m|en|the tree '''[[which]]'''...}}.
+:# In the {{w|Bantu languages}}, a [[#part of speech|part of speech]] that resembles an [[#adjective|adjective]] in function, but behaves morphologically and syntactically like a [[#relative clause|relative clause]].
+; {{anchor|relative clause}}[[relative clause]]
+: A [[#subordinate clause|subordinate clause]] that modifies a [[#noun|noun]]. In ''The man who I saw yesterday is leaving today'', the clause ''who I saw yesterday'' is a relative clause. In English, relative clauses are often introduced by a [[#relative|relative]] [[#pronoun|pronoun]] such as ''who'', ''which'' or ''that'', but other languages often have different strategies for marking relative clauses. (''see'' {{projectlink|pedia|Relative clause}})
+; {{anchor|respelling}}[[respelling]]
+: A different spelling of a word, especially to show its pronunciation.
+; {{anchor|retronym}}[[retronym]]
+: A new word or phrase coined for an old object or concept whose original name has become used for something else or is no longer unique (such as acoustic guitar where guitar used to mean this but can now also refer to an electric guitar).
+; {{anchor|rhetoric}}[[rhetoric]]
+: 1. The art of effective or persuasive speaking or writing. 2. A string of words that are designed to impress or confuse, rather than communicate. ''See also'' [[Appendix:Glossary of rhetoric]].
+; {{anchor|rhetorical question}}[[rhetorical question]]
+: A question to which the speaker does not expect an answer
+; {{anchor|rhotacism}}[[rhotacism]], {{anchor|rhotacization}}[[rhotacization]]
+: A sound change that converts one consonant (usually a voiced alveolar consonant: /z/, /d/, /l/, or /n/) to a [[rhotic]] consonant in a certain environment, most commonly /z/ to /r/.
+; {{anchor|Romanization}}{{anchor|Romanisation}}{{anchor|romanization}}{{anchor|romanisation}}[[Romanization]], [[Romanisation]]
+: [[#transliteration|Transliteration]] of a string in a non-Latin script into the Latin or Roman one: for instance, {{m|el|συγγνώμη|tr=-}} can be romanized as ''singnómi''.
+; {{anchor|root}}[[root]]
+: The part of a word that forms its core and gives its most basic meaning; also the part of the word that is left when all [[#affix|affix]]es are removed. For example, in {{m|en|insubordination}}, the root is {{m|en||ord}}, while in {{m|en|unspeakableness}} it is {{m|en|speak}}. The root is often the first part of the word (as in [[Uralic]] and often in [[Indo-European]] languages), but it may also be the last part, or it may only consist of the consonants of the word (as in the [[Afroasiatic]] languages).
+
+==S==
+; {{anchor|s}}{{anchor|sg}}s., sg.
+: Singular.
+; {{anchor|SAMPA}}[[SAMPA]]
+: [[w:SAMPA|SAMPA]], a set of systems for representing the phonemes of various languages in plain [[ASCII]] text. Not to be confused with [[w:X–SAMPA|X–SAMPA]], the system for representing the ''full'' International Phonetic Alphabet in plain ASCII text.
+; {{anchor|script}}[[script]]
+: A writing system adapted to a particular language or set of languages.
+; {{anchor|second person}}{{anchor|second-person}}[[second person]], {{anchor|2nd person}}[[2nd person]]
+: A [[#person|grammatical person]] that indicates the person or group that one is speaking to. Examples are the English pronouns {{m|en|you}} and {{m|en|thou}}.
+; {{anchor|second-person-object}}{{anchor|second-person-object form}}{{anchor|second person object}}second-person-object form
+: A type of conjugation in [[Hungarian]] (aside from [[#definite|definite]] and [[#indefinite|indefinite]]) which indicates a first-person singular subject and a second-person (whether singular or plural, but informally addressed) object, for example {{m|hu|szeretlek|szeret'''lek'''|'''I''' love '''you'''}} or {{m|hu|látlak|lát'''lak'''|'''I''' see '''you'''}}.
+; {{anchor|semantic loan}}[[semantic loan]]
+: A word or expression created by [[#loanword|borrowing]] a meaning from another language and assigning it to a word or expression that already exists in the borrowing language, also called semantic calque. (Compare [[#calque|calque]], a new word or expression created by translation.) For example, the French word {{m|fr|souris|lit=mouse}} was given the additional meaning ''[[computer]] [[mouse]]'' in imitation of {{m+|en|mouse}}, which already had both meanings. (''see'' {{projectlink|pedia|Semantic loan}})
+; {{anchor|semelfactive}}[[semelfactive]]
+: A verbal [[#aspect|aspect]], a subclass of [[#perfective|perfective]], which denotes a [[momentary]] or [[punctual]] event (e.g. to [[sneeze]], to [[blink]], to [[knock]]). In {{w|Slavic languages}} such as {{cog|ru|-}}, often used to express actions performed once. (''See'' {{projectlink|pedia|Semelfactive}})
+; {{anchor|semivowel}}[[semivowel]]
+: A sound which has some qualities of a [[#consonant|consonant]] and some qualities of a [[#vowel|vowel]].
+; {{anchor|sentence}}[[sentence]]
+: A syntactic unit that expresses a complete thought and consists of one or more [[#clause|clause]]s joined together.
+; {{anchor|sentence adverb}} [[sentence adverb]]
+: An adverb that modifies an entire clause or sentence rather than a single word or phrase.
+; {{anchor|set phrase}}{{anchor|set expression}}{{anchor|multiword phrase}}{{anchor|multiword expression}}[[set phrase]]
+: [[w:Set phrase|Set phrase]], a common [[expression]] (a [[#phrase|phrase]]) whose [[wording]] is not subject to [[variation]], or alternately, whose words cannot be replaced by [[#synonym|synonymous]] words without [[compromise|compromising]] the meaning. Set phrases may include [[#idiom|idiom]]s, [[#proverb|proverbs]], and [[#colloquial|colloquialisms]]. For example, ''flight simulator'' is a set phrase because it has a special meaning that ''flying simulator'' doesn't.
+; {{anchor|shortening}}[[shortening]]
+: A shortened form of a word(s), including [[#abbreviation|abbreviations]], [[#acronym|acronyms]], [[#contraction|contractions]], [[#initialism|initialisms]], [[#short form|short forms]].
+; {{anchor|short_form}}short form
+: A shortened term which is itself a stand-alone term; eg. {{m|en|Acts}}, a short form used to refer to {{m|en|Acts of the Apostles}}.
+; {{anchor|sic}}''[[sic]]''
+: A Latin adverb meaning "thus, so". It is traditionally placed inside square brackets and used in quotations to indicate that the preceding is not a copying error, but is in fact a verbatim reflection of the source. (For example, if a source contains a typographical error, someone quoting the source might add [sic] to make clear that the error was in the original source.)
+; {{anchor|simile}}[[simile]]
+: A [[figure of speech]] in which one thing is compared to another, in the case of English, generally using [[like]] or [[as]]; see [[#metaphorical|metaphor]] and [[#figurative|figurative]].
+; {{anchor|singular}}{{anchor|Singular}}[[singular]], {{anchor|singular number}}singular number, {{anchor|sg}}{{anchor|sg.}}sg., {{anchor|s}}s
+: A [[#number|grammatical number]] that indicates exactly one item or individual. Usually contrasts with [[#plural number|plural]], and, in some cases, with [[#dual number|dual]].
+; {{anchor|singulative}}[[singulative]], {{anchor|singulative number}}singulative number, {{anchor|SGV}}SGV
+: The marked singular form of an unmarked [[#mass noun|mass noun]].
+; {{anchor|Sino-Xenic}}[[Sino-Xenic]]
+: Refers to pronunciations in [[Japanese]], [[Korean]] and [[Vietnamese]] languages (grouped with Chinese as [[#CJKV|CJKV]]) of terms or components derived from medieval [[Chinese]].
+; {{anchor|s.l.}}[[s.l.#Etymology 2|s.l.]]
+: {{noncog|la|[[sine]] [[locō]]|lit=without a place}}, used to indicate that the place of publication is not stated in a work.
+; {{anchor|slang}}[[slang]]
+: Denotes language that is unique to a particular profession or subject, i.e. [[jargon]]. Also refers to the specialized language of a social group, sometimes used to make what is said unintelligible to those who are not members of the group, i.e. [[cant]]. Such language is usually outside of conventional usage, and is mostly inappropriate in [[#formal|formal]] contexts.
+; {{anchor|slavic first palatalization}}{{w|Slavic first palatalization}}
+: A specific occurrence of [[#palatalization|palatalization]] that occurred in the {{w|Proto-Slavic language}}, in which the [[#velar|velar]] consonants ''*k *g *x'' when followed by any of the [[#front vowel|front vowel]]s ''*e *ě *ь *i'' became the sounds ''*č *ž *š'', respectively. The Slavic first palatalization is still an active process in many modern {{w|Slavic languages}}. For example, before certain suffixes in {{cog|ru|-}}, the consonants {{lang|ru|к г х ц}} become {{lang|ru|ч ж ш ч}} respectively. Other {{w|Slavic languages}} behave similarly. (''See'' {{projectlink|pedia|Slavic first palatalization}})
+; {{anchor|slavic progressive palatalization}}{{w|Slavic progressive palatalization}}
+: A specific occurrence of [[#palatalization|palatalization]] that occurred in the {{w|Proto-Slavic language}}, in which the [[#velar|velar]] consonants ''*k *g *x'' when preceded by either of the [[#front vowel|front vowel]]s ''*ь *i'' (possibly with an intervening ''n'') became the sounds ''*c dz s/š'', respectively, with ''s'' occurring in East and South Slavic but ''š'' occurring in West Slavic. (''See'' {{projectlink|pedia|Slavic progressive palatalization}})
+; {{anchor|s.n.}}[[s.n.]]
+: {{noncog|la|[[sine]] [[nōmine]]|lit=without a name}}, used to indicate that the name of the publisher is not stated in a work.
+; {{anchor|snowclone}}[[snowclone]]
+: A type of {{l|en|cliché}} which uses an old {{glossary|idiom}} formulaically in a new context. (See ''[[Appendix:Snowclones|Snowclones]]'' and {{projectlink|pedia|Snowclone}})
+; {{anchor|solemn}} [[solemn]]
+: Used to evoke a sense of current events being highly important. Examples of situations where solemn language is likely to be used are liturgical events, various ceremonies, and public speeches. Solemn terms are often dated or archaic, and once belonged in the neutral register.
+; {{anchor|sound symbolism}}{{anchor|sound-symbolic}}[[sound symbolism]]
+: The idea that [[phoneme]]s or clusters of phonemes carry intrinsic meaning in a language. For example, the phoneme cluster ''gl-'' appears to mean "light" in English in words such as [[gleam]], [[glisten]], [[glare]], [[glossy]] and [[glow]]. (''See'' {{projectlink|pedia|sound symbolism}} ''Also see'' {{projectlink|pedia|phonestheme}})
+; {{anchor|spelling pronunciation}}[[spelling pronunciation]]
+: A pronunciation affected by the written form of the word, diverging from the original inherited form. Some spelling pronunciation are considered mistakes or non-standard, while others have, historically become universally accepted and completely replaced the original pronunciations. (''See'' {{projectlink|pedia|Spelling pronunciation}})
+; {{anchor|stem}}[[stem]]
+: The part of an [[#inflection|inflected]] word that the ending is attached to. For example, Latin {{m|la||mens-}} (stem, "table") + {{m|la|-ae}} (ending, 1st-declension nominative plural) &rarr; {{m|la|mensae}} (full word, "tables", nominative plural).
+; {{anchor|stratum}}{{anchor|strate}}{{anchor|adstratum}}{{anchor|adstrate}}[[stratum]] {{wikipedia|stratum (linguistics)}}
+: A language that influences another by [[w:language contact|contact]], typically due to close geographic proximity (often both spoken simultaneously in the same land) and some form of cultural contact. A stratum can be further classified as [[#substrate|substrate]], [[#superstrate|superstrate]], or adstrate.
+; {{anchor|strictly}}{{anchor|strict}}[[strictly]]
+: Indicates a more precise use of words; short for ''strictly speaking''. Contrast ''loose'' or ''wide'' sense; ''[[#loosely|loosely]]''.
+; {{anchor|strong pronoun}} strong pronoun
+: (''Greek'') An [[#emphatic|emphatic pronoun]].
+; {{anchor|strong conjugation}}
+; {{anchor|strong verb}} [[strong verb]] and strong conjugation
+: In [[Germanic]] languages, a verb that displays [[#ablaut|ablaut]]. More specifically, a verb that has a change in [[#vowel|vowel]] between present and past. An English example is {{m|en|drink}}, {{m|en|drank}}, {{m|en|drunk}}. Note that some verbs show a vowel change, but not as a result of ablaut (e.g. {{m|en|think}}, {{m|en|thought}}); these are not considered strong verbs. Contrast [[#weak verb|weak verb]], [[#preterite-present verb|preterite-present verb]].
+; {{anchor|subject}}[[subject]] {{wikipedia|subject (grammar)}}
+: In a [[#clause|clause]]: the word or word group (usually a noun phrase) that is dealt with. In [[#active voice|active clauses]] with [[#verb|verbs]] denoting an action, the subject and the actor are usually the same. Contrast [[#object|object]].
+; {{anchor|subjunctive}}{{anchor|subjunctive mood}}{{anchor|conjunctive}}[[subjunctive mood]]
+: The [[#mood|mood]] of a [[#verb|verb]] expressing an action or state which is hypothetical or anticipated rather than actual, including wishes and commands. Some English examples are ''if I '''were''' rich'' and ''it’s important that he '''be''' here''.
+; {{anchor|subordinate clause}}[[subordinate clause]]
+: Same as [[#dependent clause|dependent clause]].
+; {{anchor|substantive}}[[substantive]]
+: A noun or adjective (or phrase), that names a real object with ''substance''. This is in contrast to an [[#attributive|attributive]] noun or adjective, which names a real object that carries the ''attributes'' of the named noun or adjective.
+; {{anchor|substratum}}{{anchor|substrate}}[[substratum]]
+: A language [[#stratum|stratum]] which has lower cultural or political prestige than the one which it influences. In many cases, historical '''substrate''' languages have gone extinct without ever having been attested, and so must be inferred from their influences on surviving or attested languages. One such example is the [[Pre-Greek]] substratum.
+; {{anchor|suffix}}{{anchor|suffixed}}[[suffix]]
+: A [[morpheme]] added to the end of a word to modify its meaning.
+; {{anchor|superlative}}[[superlative]]
+: An [[#inflection|inflection]], or different form, of a '''[[#comparable|comparable]]''' adjective showing a relative quality, denoting "to the ultimate extent". (See also ''[[#comparative|comparative]]'' and ''[[#degrees of comparison|degrees of comparison]]''.) In English, the superlative form is often formed by appending ''-est'', or using the word ''most''. For example, the superlative of ''big'' is "''biggest''"; of ''confident'', "''most confident''".
+; {{anchor|superseded}}[[supersede]]d
+: Especially of a spelling, formerly standard, and still frequently encountered, but now deprecated in favor of another form as the result of a spelling reform.
+; {{anchor|superstratum}}{{anchor|superstrate}}[[superstratum]]
+: A language [[#stratum|stratum]] which has higher cultural or political prestige than the one which it influences. One historical example is the '''superstrate''' effect of [[Old Norman]] French on late [[Old English]] in the centuries following the 11th-century [[w:Norman conquest of England|Norman conquest of England]].
+; {{anchor|supine}}[[supine]]
+: A term for an [[infinite]] verb form in some languages. In Latin, a type of [[#verbal noun|verbal noun]], used for the [[#ablative|ablative]] and [[#accusative|accusative]] case of an [[#infinitive|infinitive]]. In Swedish, a form related to the [[#past participle|past participle]], used to form [[#perfect|perfect]] tenses. In Slovene and Lower Sorbian, a form related to the infinitive, used to indicate purpose after a verb of movement.
+; {{anchor|suppletion}}{{anchor|suppletive}}[[suppletion]], [[suppletive]]
+: The situation in which the inflected forms of a word come from two or more unrelated roots: for example, {{m|en|go}} and {{m|en|went}}; {{m|en|be}}, {{m|en|is}}{{,}} and {{m|en|was}}. One or more of these forms, or the entire [[#paradigm|paradigm]] of the word, may then be called suppletive. Examples from various languages may be found from [[:Category:Suppletive verbs by language]].
+; {{anchor|surface etymology}}{{anchor|surface analysis}}{{anchor|surface}}{{anchor|equivalent to}}[[surface etymology]]
+: The [[apparent]] etymology of a term based on components occurring in the form of the language at a later point in time (see ''{{glossary|synchrony}}''), such as {{m|en|earth}} + {{m|en|-en}} for {{m|en|earthen}}, which actually occurred in Old English as {{m|ang|eorthene}}.
+; {{anchor|syllable}}[[syllable]]
+: A unit of human speech that is interpreted by the listener as a single sound. (''See'' {{projectlink|pedia|Syllable}})
+; {{anchor|synchrony}}{{anchor|synchronic}}{{anchor|synchronically}}[[synchrony]] {{wiki|Diachrony_and_synchrony|Diachrony and synchrony}}
+: The viewpoint of analysis of a language which considers only its state at one point (or period) in time, not accounting for historical language change or etymology (as opposed to {{glossary|diachrony}}). A purely '''synchronic''' analysis of a word or phrase (as e.g. from the intuition of a speaker of the language) which differs from its precise etymological derivation is termed a {{glossary|surface analysis}}.
+; {{anchor|syncope}}{{anchor|syncopic}}{{anchor|syncopation}}{{anchor|syncopated}}[[syncope]]
+: The deletion or elision of sounds inside a word (not at the beginning or end), most often a single [[#vowel|vowel]], but sometimes a [[#consonant|consonant]] or a sequence of vowels or consonants.
+; {{anchor|syncretism}}<!-- {{anchor|syncretic}} -->[[syncretism]]
+: The situation in which two or more [[#inflection|inflected]] forms of a word are identical. For example, {{m+|en|walked}} is both the simple past and the past participle of {{m|en|walk}}, and {{m+|grc|ἄλλο}} is the neuter nominative, accusative{{,}} and vocative singular of {{m|grc|ἄλλος}}.<!-- Is the adjective syncretic used in this context? If so, how? -->
+; {{anchor|synonym}}[[synonym]]
+: A word or phrase with a meaning that is the same as, or very similar to, another word or phrase. Contrast [[#antonym|antonym]].
+
+==T==
+; {{anchor|tashif}}{{m|ar|صحف|تَصْحِيف}}
+: When a copyist has set wrong points upon the skeleton ([[rasm]]) of the (Arabic) script.
+; {{anchor|tatpurusa}}[[tatpurusa]]
+: Another term for a ''[[#determinative|determinative]] compound''. Contrast [[#bahuvrihi|bahuvrihi]], [[#karmadharaya|karmadharaya]] and [[#dvandva|dvandva]].
+; {{anchor|tautology}}[[tautology]]
+: Redundant use of words, a [[pleonasm]], an unnecessary and tedious repetition.
+; {{anchor|tense}}[[tense]]
+: One of the forms of a [[#verb|verb]], used to distinguish when an action or state of being occurs or exists. The basic tenses in many languages are [[#present tense|present]], [[#past tense|past]], [[#future tense|future]]. (''see'' {{projectlink|pedia|Grammatical tense}})
+; {{anchor|thematicization}}[[thematicization]]
+: [[insertion|Insertion]] of a [[thematic vowel]] on the [[root]] or [[stem]] of the word to make it [[undergo]] one of the [[productive]] [[vocalic]] inflections.
+; {{anchor|third person}}{{anchor|third-person}}[[third person]], {{anchor|3rd person}}[[3rd person]]
+: A [[#person|grammatical person]] that indicates someone or something that is neither the person or group to which the speaker belongs, nor the person or group that the speaker is speaking to. Examples are the English pronouns {{m|en|he}}, {{m|en|she}}, {{m|en|it}}, {{m|en|this}}, {{m|en|that}}, and so on. All [[#noun|nouns]] are generally considered third person. In some languages (like German, Italian, Spanish, Portuguese, and Hungarian), the third-person conjugation is also used to express the formal ''you'' (sometimes combined with the plural and/or capitalizing the personal pronoun in writing).
+; {{anchor|tmesis}}{{anchor|diacope}}[[tmesis]]
+: The insertion of one or more words between the components of a [[#compound|compound]] word.
+; {{anchor|tone}}[[tone]]
+: The pitch of a given syllable in languages where changing the pitch changes the basic meaning of the word. In {{w|Mandarin Chinese}}, for example, the word pronounced /ma/ (like English {{m|en|ma}}), when pronounced with a high, level tone means "mother", but when pronounced with a rising tone means "bother", and when pronounced with a falling tone means "scold".
+; {{anchor|toponym}}[[toponym]]
+: A placename, or a word derived from one.
+; {{anchor|topicalized}}[[topicalized]] form
+: In some languages, such as Okinawan, a topicalized form of a word is a contraction of that word, used as the phrase [[topic]], with the topic marker.
+; {{anchor|tr.}}{{anchor|tran.}}tr., tran.
+: Translator or translated, often used in quotations.
+; {{anchor|transferred sense}}[[transferred sense]], transf.
+: A (usually [[#loosely|looser]]) meaning of a word or [[#phrase|phrase]] developed from a [[#metaphorical|metaphorical]] application of its original signification (for example, ''hunger'' has the primary and original sense “want of food”, “craving appetite”, whence developed the transferred sense of “any strong desire or craving”).
+; {{anchor|transgressive}}[[transgressive]]
+: A verb form in some Balto-Slavic languages that expresses a coincidentally proceeding or following action.
+; {{anchor|transitive verb}}{{anchor|transitive}}[[transitive verb]]
+: A verb which requires one or more [[#object|objects]] (e.g. ''I '''kick''' the ball''); contrast '''[[#intransitive verb|intransitive verb]]'''. (See also {{projectlink|pedia|Transitivity (grammar)}})
+; {{anchor|translation hub}}translation hub
+: An English multi-word entry that is unidiomatic ([[WT:Glossary#S|sum of parts]]) and exists purely to host translations and enable navigation from one non-English entry to another non-English entry. An example: [[English studies]].
+; {{anchor|transliteration}}[[Wiktionary:Transliteration|transliteration]]
+: The conversion of text in one [[#script|script]] into an equivalent in another [[#script|script]], or an instance of text so converted (for example, ''Ševčenko'' and ''Shevchenko'' are transliterations of Ukrainian ''Шевченко'' from Cyrillic script to Latin script, according to two different systems). Transliteration is conducted on a letter-by-letter basis (contrasted with [[transcription]] which is converted on the basis of sounds). This may be extended to the conversion of [[#diacritic|diacritical]] marks into alternate forms without diacritical marks in the same script (e.g. Mörder → Moerder).
+; {{anchor|troponym}}[[troponym]]
+: A verb that indicates more precisely the manner of doing something by replacing a verb of a more generalized meaning, e.g. “to boil” for “to cook”.
+; {{anchor|twice-borrowed}}twice-borrowed
+: Terms in one language that were borrowed from a second language that originally borrowed the term from the first language.(More at {{projectlink|pedia|Reborrowing}})
+
+==U==
+; {{anchor|UK}}UK
+: UK English, that is, the English of the [[United Kingdom]].
+; {{anchor|unadapted borrowing}}{{anchor|Unadapted borrowing}}[[unadapted]] [[borrowing]]
+: A [[#loanword|loanword]] that has not been conformed to the morpho-syntactic, phonological and/or phonotactical rules of the target language. For example, {{cog|en|cubiculum}} is an unadapted borrowing from {{cog|la|cubiculum}}, while {{cog|en|cubicle}} is a standard borrowing from the same Latin word.
+; {{anchor|uncomparable}}[[uncomparable]], not comparable
+: (of adjectives) unable to be compared, or lacking a [[#comparative|comparative]] and [[#superlative|superlative]] function. ''See'' '''[[#comparable|comparable]]'''. Examples of adjectives that are not comparable: ''annual'', ''first'', ''extra'', ''satin'', ''six-figure''.
+; {{anchor|uncountable}}{{anchor|Uncountable}}{{anchor|mass_noun}}[[uncountable]], uncountable noun, [[mass noun]]
+: A noun that cannot be used freely with numbers or the [[indefinite article]], and which therefore usually takes no [[plural]] form. For example, the English noun {{m|en|information}} is a mass noun, and at least in its principal senses is uncountable in most varieties of English. For those senses, we cannot say that we have *''one information'', nor that we have *''many information'' (or *''many informations''). Similarly, the main sense of {{m|en|butter}} is the uncountable sense, so the plural form ''butters'' is seldom used, although it occasionally is used to mean "types of butter" (''many [[herb butter]]s contain garlic'') or "[packets of] butter" (the latter represents a class of exceptions in which uncountable nouns may be used in the plural form as an implicit reference to the container: ''get me a water, order two sodas, have a few beers''). Many languages do not distinguish between countable and uncountable nouns. [[#antonym|Antonym]]: ''[[#countable|countable]]'', or ''count noun''.
+; [[undeclinable]]
+: ''see:'' [[#indeclinable|indeclinable]]
+; {{anchor|univerbation}}{{anchor|Univerbation}}[[univerbation]]
+: A single word formed from a fixed expression of several words. For example, the single word ''albeit'' comes from the Middle English expression ''al be it'', in which ''al'' means ''although''.
+; {{anchor|usage notes}}usage notes
+: Additional information on current and historic use of the term in written or spoken language.
+
+==V==
+; {{anchor|var.}}{{anchor|varia lectio}}{{anchor|variae lectiones}}{{anchor|variant reading}}{{anchor|variant}}[[varia lectio]], [[variant reading]], [[variant]]
+: Any one of the readings of a given word or passage in a text which differ from copy to copy, from edition to edition, from manuscript to manuscript, or from translation to translation.
+; {{anchor|velar}}[[velar]]
+: A [[#consonant|consonant]] made with the tongue touching the [[soft palate]] (also known as the [[velum]]). In English these include {{IPAchar|/k/}}, {{IPAchar|/ɡ/}}, {{IPAchar|/ŋ/}}, as in the final consonants of ''sack'', ''sag'', and ''sang'', respectively.
+; {{anchor|verb}}{{anchor|verbs}}[[verb]]
+: A word that indicates an action, occurrence or state of being. The [[#inflection|inflection]] of verbs is commonly called [[#conjugation|conjugation]].
+; {{anchor|verbal noun}}[[verbal noun]]
+: A [[noun]] formed from a [[verb]].
+; {{anchor|verlan}}[[verlan]]
+: A type of [[#backslang|backslang]] used in French, in which the order of the [[#syllable|syllables]] or sounds of words is changed, usually with the last [[#syllable|syllable]] coming first.
+; {{anchor|virile}}[[virile]]
+: In Slavic languages, a plural [[#gender|gender]] used for groups that include men and for [[#masculine|masculine]] personal nouns.
+; {{anchor|vocative}}{{anchor|vocative case}}[[vocative case]]
+: A [[#case|case]] which indicates that someone or something is being directly addressed (spoken to), often by name. For example, in the English phrase ''He's dead, Jim'' the name {{m|en|Jim}} would be a vocative.
+; {{anchor|voice}}[[voice]]
+: A verb characteristic (expressed in some languages by inflection) indicating its relationship with the subject. The usual voices are: [[#active voice|active]], [[#passive voice|passive]] and [[#middle voice|middle]]. (See also {{projectlink|pedia|Voice (grammar)}}.)
+; {{anchor|voiced}}[[voiced]]
+: A sound produced with vibration of the [[vocal cord]]s; a type of [[#voicing|voicing]].
+; {{anchor|voiced}}[[voiceless]]
+: A sound produced without vibration of the [[vocal cord]]s; a type of [[#voicing|voicing]].
+; {{anchor|voicing}}[[voicing]]
+: A characteristic of sounds, indicating whether they are produced with vibration of the [[vocal cord]]s. In English, all [[#vowel|vowels]] are voiced, as well as all [[#approximant|approximant]] consonants, but [[#plosive|plosive]] and [[#fricative|fricative]] consonants can be either voiced or voiceless. Examples of voiced sounds in English are {{IPAchar|/v/}}, {{IPAchar|/z/}}, {{IPAchar|/b/}}, {{IPAchar|/d/}}, and the corresponding voiceless sounds are {{IPAchar|/f/}}, {{IPAchar|/s/}}, {{IPAchar|/p/}}, {{IPAchar|/t/}}. Whispering is a type of speech production in which all sounds are pronounced voiceless.
+; {{anchor|vowel}}[[vowel]]
+: A sound produced by the vocal cords with relatively little restriction of the oral cavity, forming the prominent sound of a [[#syllable|syllable]].
+; {{anchor|vulgar}}[[vulgar]]
+: Language considered distasteful or obscene.
+
+==W==
+; {{anchor|wanderwort}}{{anchor|wanderword}}[[Wanderwort]] or [[wanderword]]
+: A wordform which has spread over a substantial area, or to many regions, outside of that of its language of origin, typically due to cultural exchange resulting from travel and trade. Wanderworts are a type of [[#loanword|loanword]], but a Wanderwort may or may not be an {{glossary|areal}} word. See also ''{{glossary|Kulturwort}}''. Contrast [[#stratum|strata]].
+; {{anchor|weak pronoun}}{{anchor|weak_pronoun}}{{l|en|weak pronoun}}
+: A pronoun of one syllable which is dependent on another word and cannot be used on its own; sometimes called ''[[#clitic|clitic]]''. Compare with [[#emphatic|emphatic]] or [[#strong verb|strong]].
+; {{anchor|weak verb}}[[weak verb]]
+: In [[Germanic]] languages, a verb that forms the past tense using a suffix containing a [[dental]] consonant (''d'', ''t'', ''ð'' or similar). Verbs of this type are considered "regular" in most Germanic languages, but there are also irregular weak verbs, such as English {{m|en|think}}, {{m|en|thought}} and {{m|en|have}}, {{m|en|had}}. Contrast [[#strong verb|strong verb]], [[#preterite-present verb|preterite-present verb]].
+; {{anchor|WMF}}WMF
+: Wikimedia Foundation, Inc., the parent organization of Wiktionary and other projects.
+; {{anchor|women's speech}}[[women]]'s [[speech]]
+: In certain languages (for example, {{w|Karajá language}}), men and women use or historically used distinct words and inflected forms.
+
+==X==
+; {{anchor|X-SAMPA}}[[X-SAMPA]]
+: [[w:X-SAMPA|Extended SAMPA]], a system for representing the full [[International Phonetic Alphabet]] (IPA) in plain text ([[ASCII]]). For a template that converts X-SAMPA to IPA, see {{temp|x2i}}.
+
+==Y==
+
+==Z==
+; {{anchor|zero-grade}}{{anchor|zero grade}}[[zero-grade]]
+: In [[Proto-Indo-European]] [[linguistics]], an [[ablaut]] form of a root characterized by the absence of the basic ablauting [[#vowel|vowel]] [[#phoneme|phonemes]] */e/ and */o/. For example, {{m|ine-pro||*bʰr̥-}} is the '''zero-grade''' of the Indo-European root {{m|ine-pro|*bʰer-}} meaning ‘to carry, bear’.
+
+[[Category:Wiktionary:Reference|Glossary]]

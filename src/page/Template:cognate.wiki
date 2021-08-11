@@ -1,0 +1,4 @@
+{{#invoke:etymology/templates|cognate}}<!--
+
+--><noinclude>{{documentation}}
+[[fa:الگو:cognate]]</noinclude>

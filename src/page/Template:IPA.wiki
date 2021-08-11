@@ -1,0 +1,7 @@
+{{check deprecated lang param usage|lang={{{lang|}}}|<!--
+
+-->{{#invoke:IPA/templates|IPA}}<!--
+
+-->}}<!--
+
+--><noinclude>{{documentation}}</noinclude>

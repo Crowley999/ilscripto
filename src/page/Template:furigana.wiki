@@ -1,0 +1,1 @@
+<includeonly>{{#invoke:ja-furigana|show}}</includeonly><noinclude>{{documentation}}</noinclude>

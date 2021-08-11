@@ -1,0 +1,18 @@
+{{#ifexist: {{{1|}}}<!--
+-->|<!--
+  -->{{#if: {{{novern|}}}<!--
+    -->|<!--
+      --> [[w:{{{1}}}|{{{2|{{{1}}}}}}]]{{{pl|}}}<!--
+    -->|<!--
+      -->{{l|en|{{{1}}}|{{{2|{{{1}}}}}}{{{pl|}}}}}<sup class="error previewonly"><small>(Please check if this is already defined at target. Replace {{temp|vern}} with a regular link if already defined. Add novern=1 if not defined.)</small></sup>[[Category:Entries with redundant template: vern|{{{1}}}]]<!--
+  -->}}<!--
+-->|<!--
+  -->{{#if: {{{nopedia|}}}<!--
+    -->|<!--
+      --> [[{{{2|{{{1}}}}}}]]{{{pl|}}}<!--
+    -->|<!--
+      --> [[w:{{{1}}}|{{{2|{{{1}}}}}}]]{{{pl|}}}<!--
+  -->}}<!--
+  --><includeonly>[[Category:Entries missing English vernacular names of taxa|{{{1}}}]]</includeonly><!--
+-->}}<!--
+--><noinclude>{{documentation}}</noinclude>

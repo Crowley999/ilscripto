@@ -1,0 +1,1 @@
+<includeonly>{{#invoke:ja-usex|show}}{{cln|ja|terms with usage examples}}</includeonly><noinclude>{{documentation}}</noinclude>

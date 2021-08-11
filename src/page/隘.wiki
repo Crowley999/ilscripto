@@ -1,0 +1,122 @@
+{{character info}}
+==Translingual==
+
+===Alternative forms===
+In Japanese {{w|kanji}} and Korean {{w|hanja}}, the {{l|mul|丷}} component of {{l|mul|益}} is inverted to become {{l|mul|八}}, which is the historical form found in the {{w|Kangxi dictionary}}.
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=10|sn=13|four=78217|canj=NLTCT|ids=⿰[[阜|⻖]][[益]]}}
+
+====References====
+{{Han ref|kx=1358.240|dkj=41791|dj=1862.250|hdz=64152.150|uh=9698}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=𨽴}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=ài
+|c=aai3,ai3
+|h=pfs=ai
+|mn=ài
+|mc=y
+|oc=1,y
+|cat=a,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[narrow]]; [[confined]]
+#: {{zh-x|隘路|[[narrow]] [[passage]]}}
+# [[strategic]] [[pass#noun|pass]] that is [[dangerous]] or [[difficult]] to [[access]]
+
+=====Compounds=====
+{{zh-der|困隘|山隘|湫隘|狹隘|褊隘|要隘|迫隘|邊隘|關隘|阻隘|隘口|隘害|隘巷|隘懾|隘窘|隘路|隘險|險隘}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=è
+|c=ak1
+|oc=2,n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[isolate]]
+# to [[block]]; to [[defend]]
+
+===References===
+* {{R:twedu|A04499}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=阜10}}
+
+# [[narrow]]
+
+====Readings====
+{{ja-readings
+|goon=え, やく
+|kanon=あい, あく
+|kun=せま-い
+}}
+
+===Etymology===
+{{ja-kanjitab|あい|yomi=kanon}}
+From {{der|ja|ltc|-}} {{ltc-l|隘}}.
+
+===Affix===
+{{ja-pos|affix|あい}}
+
+# [[narrow]]; [[confined]]
+#: {{ja-usex-inline|'''隘'''路|'''あい'''ろ|bottleneck}}
+#: {{ja-usex-inline|狭'''隘'''|きょう'''あい'''|narrow}}
+
+----
+
+==Korean==
+
+===Etymology===
+From {{der|ko|ltc|-}} {{ltc-l|隘}}. {{hanja-hunmong|ᄋᆡᆨ|oyk|地理#상06B}}
+
+===Pronunciation===
+{{ko-hanja-pron|애}}
+
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|좁다|좁을|애}}
+
+# {{hanja form of|애|[[narrow]]}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ko-l|애로|隘路}}
+* {{ko-l|협애|狹隘}}
+{{der-bottom}}
+
+===References===
+* {{R:hanjadoc|13712}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=阜10|reading=ải, ỏi}}
+
+# {{rfdef|vi|sort阜10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=9698 Nom Foundation]

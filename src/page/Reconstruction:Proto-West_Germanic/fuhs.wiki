@@ -1,0 +1,54 @@
+{{reconstructed}}
+==Proto-West Germanic==
+
+===Etymology===
+From {{inh|gmw-pro|gem-pro|*fuhsaz}}.
+
+===Noun===
+{{head|gmw-pro|noun|g=m}}
+
+# {{topics|gmw-pro|Mammals}} [[fox]]
+
+====Inflection====
+{{gmw-infl-noun-a|g=m}}
+
+====Related terms====
+* {{l|gmw-pro|*fuhā}}
+
+====Descendants====
+* {{desctree|ang|fox}}
+* {{desc|ofs|*foks}}
+** {{desc|frr|foos}}
+** {{desc|stq|Foaks}}
+** {{desc|fy|foks}}
+* {{desc|osx|fohs}}, {{l|osx|fuhs}}
+** {{desc|gml|vos}}, {{l|gml|vōs}}
+*** {{desc|nds|-}}
+**** {{desc|nds-nl|vos}}
+**** {{desc|nds-de|Voss}}, {{l|nds|Voß}}
+**** Westphalian:
+****: Ravensbergisch-Lippisch: {{l|nds|Fos}}
+****: Suerländer-Märkisch: {{l|nds|Foss}}
+****: Westmünsterländisch: {{l|nds|Foss}}
+*** {{desc|pdt|Foss}}
+*** {{desc|bor=1|is|fox}}
+*** {{desc|bor=1|da|fos}}
+* {{desctree|odt|fus}}
+* {{desc|goh|fuhs}}
+** {{desc|gmh|vuhs}}
+*** {{desc|gsw|Fuchs}}, {{l|gsw|Fugs}}
+***: {{desc|swg|}}
+***: Walser: {{l|gsw|fuks}}, {{l|gsw|fuksch}}, {{l|gsw|fòcks}}, {{l|gsw|vucks}}
+*** {{desc|bar|}}
+***: {{desc|cim|buks|alts=1}}
+***: {{desc|mhn|}}
+*** {{desc|gmw-cfr|}}
+***: {{desc|hrx|Fuchs}}
+***: {{desc|lb|Fuuss}}
+*** {{desc|gmw-ecg|}}
+***: {{desc|wym|füks}}
+*** {{desc|vmf|}}
+*** {{desctree|de|Fuchs}}
+*** {{desc|gmw-rfr|}}
+***: {{desc|pdc|Fux}}
+*** {{desc|yi|פֿוקס}}

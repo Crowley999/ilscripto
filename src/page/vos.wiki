@@ -1,0 +1,474 @@
+{{also|VOS|vós|vôs|vô|voš|-vos|v. o. s.}}
+==Afrikaans==
+
+===Etymology===
+From {{inh|af|nl|vos}}, from {{inh|af|dum|vos}}, from {{inh|af|odt|fus}}, {{m|odt|vus}}, from {{inh|af|gem-pro|*fuhsaz}}.
+
+===Pronunciation===
+* {{IPA|af|/fɔs/}}
+
+===Noun===
+{{af-noun|vosse|vossie}}
+
+# {{l|en|fox}}, carnivore of the tribe [[Vulpini]]
+
+====Derived terms====
+* {{l|af|skoolvos}}
+
+----
+
+==Catalan==
+
+===Etymology===
+From {{inh|ca|la|vōs}}.
+
+===Pronunciation===
+* {{a|Balearic}} {{IPA|ca|/vus/}}
+* {{a|Central}} {{IPA|ca|/bus/}}
+* {{a|Valencia}} {{IPA|ca|/vos/}}
+
+===Pronoun===
+{{ca-ppron|type=encl|encl_con=us|procl=us}}
+
+# [[you]] (plural, direct or indirect object)
+
+====Declension====
+{{ca-decl-ppron}}
+
+====Usage notes====
+* {{U:ca:pronouns|form=full}}
+*: {{uxi|ca|Heu de quedar-'''vos''' aquí.|You must stay here.}}
+
+===Further reading===
+* {{R:DCVB}}
+* {{R:GDLC}}
+* {{R:IEC2}}
+
+----
+
+==Danish==
+
+===Pronoun===
+{{head|da|pronoun}}
+
+# {{lb|da|dialectal}} {{pronunciation spelling of|da|os}}
+#* '''1926''', Adolph Stender, ''Skovtrold'', Lindhardt og Ringhof ({{ISBN|9788711935347}})
+#*: Næ, la&#39; '''vos''' bare inte skave '''vos'''! (...) men saa øver vi '''vos''' imens! Naar han ser '''vos''' gennem Vindvet, kommer han nok herud ...
+#* '''1973''', Bent Rying, Alice Kennebo, ''København og Københavns amt''
+#*: Han har sæl brunget desse ur te '''vos'''; ...
+#* '''1906''', ''Maglekilde fortæller: humoristiske fortællinger''
+#*: Jeg ka&#39; kons mindes een eneste Gang a&#39; han roste '''vos''', – de' var en Da&#39; da han  ha&#39;de trukket '''vos''' rigtig igjennem i Geveereksersis; — — der var inte en tør Trevl  paa '''vos''', saatten ha&#39;de vi maattet hænge i en tre, fire Timmer i et Slav.
+
+----
+
+==Dutch==
+[[File:Renardrouxcampagnol.jpg|thumb|Een ''vos'' met een prooi. — A ''fox'' with its prey.]]
+{{wp|lang=nl|Vossen}}
+{{wp|lang=nl|Vos (dier)}}
+{{wp|lang=nl|Vulpes}}
+
+===Pronunciation===
+* {{IPA|nl|/vɔs/}}
+* {{audio|nl|Nl-vos.ogg|Audio}}
+* {{hyphenation|nl|vos}}
+* {{rhymes|nl|ɔs}}
+
+===Etymology 1===
+From {{inh|nl|dum|vos}}, from {{inh|nl|odt|fus}}, {{m|odt|vus}}, from {{inh|nl|gem-pro|*fuhsaz}}.
+
+====Noun====
+{{nl-noun|m|-en|vosje|f=vossin}}
+
+# [[fox]], carnivore of the tribe [[Vulpini]]
+# [[red fox]] specifically, ''[[Vulpes vulpes]]''
+#: {{syn|nl|gewone vos|rode vos}}
+# fox [[fur]]
+# a [[crafty]], ingenious person
+#: {{ux|nl|Koen is een lepe '''vos''', die laat zich niet in de luren leggen.|Conrad is a sly '''fox''' who does not allow himself to be hoodwinked.}}
+# [[horse]] with red or red-brown fur
+
+=====Derived terms=====
+{{der3|nl|brandvos|een vos verliest wel zijn haren, maar niet zijn streken|eilandvos|gewone vos|grijze vos|grootoorvos|kitvos|kortoorvos|kruisvos
+|moervos
+|poolvos
+|rode vos
+|schoolvos
+|vosaap
+|vosbelg
+|vosbles
+|vosgans
+|voskleurig
+|voskonijn
+|vosrekel
+|vosruin
+|vosschaar
+|vosschimmel
+|vossen
+|vossenbes
+|vossengat
+|vossengeschreeuw
+|vossenhuid
+|vossenkuil
+|vossenjacht
+|vossenstaart
+|vossenval
+|vossenvel
+|woestijnvos
+|zilvervos
+}}
+
+=====Descendants=====
+* {{desc|af|vos}}
+* {{desc|dcr|vos}}
+
+===Etymology 2===
+{{nonlemma}}
+
+====Verb====
+{{head|nl|verb form}}
+
+# {{nl-verb form of|p=1|n=sg|t=pres|m=ind|vossen}}
+# {{nl-verb form of|m=imp|vossen}}
+
+{{topics|nl|Canids}}
+
+----
+
+==French==
+
+===Etymology===
+From {{inh|fr|fro|vos}}, probably from {{inh|fr|la|voster|vostros|your, plural accusative}}.
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{audio|fr|LL-Q150 (fra)-Pamputt-vos.wav|Audio}}
+* {{rhymes|fr|o}}
+* {{homophones|fr|veau|veaux}}
+
+===Determiner===
+{{head|fr|determiner|cat2=possessive determiners|g=p}}
+
+# {{plural of|fr|votre}}
+
+====Related terms====
+{{French possessive adjectives}}
+
+===Further reading===
+* {{R:TLFi}}
+
+----
+
+==Galician==
+
+===Pronoun===
+{{head|gl|pronoun form}}
+
+# {{inflection of|gl|vós||acc//dat|;|reflexive}}
+
+----
+
+==Interlingua==
+
+===Etymology===
+From {{der|ia|la|vōs||you, plural}}.
+
+===Pronoun===
+{{head|ia|pronoun}}
+
+# [[you]] (''plural'')
+
+----
+
+==Ladino==
+
+===Etymology===
+From {{inh|lad|osp|vosotros}}.
+
+===Pronunciation===
+* {{IPA|lad|/vos/}}
+
+===Pronoun===
+{{lad-pron}}
+# [[you]] {{qualifier|formal singular, nominative and accusative}}
+# {{inflection of|lad|vozotros||accusative}}
+# {{inflection of|lad|vozotras||accusative}}
+
+----
+
+==Latin==
+
+===Etymology===
+From {{inh|la|itc-pro|*wōs}}, from the oblique case forms of {{der|la|ine-pro|*yū́}}.
+
+===Pronunciation===
+* {{la-IPA|vōs|eccl=yes}}
+
+===Pronoun===
+{{head|la|pronoun|head=vōs}}
+
+# [[you]], [[ye]], you all; nominative plural of [[tu|tū]]
+# [[you]], [[ye]], you all; accusative plural of [[tu|tū]]
+
+====Usage notes====
+When used in the plural genitive, {{m|la|vestrī}} is used when it is the object of an action, especially when used with a gerund or gerundive. When used in such a construction, the gerund or gerundive takes on the [[masculine]] [[genitive]] [[singular]]. {{m|la|vestrum|Vestrum}} is used as a partitive genitive, used in constructions such as ''(one '''of you''')''.
+
+====Declension====
+{{la-decl-ppron}}
+
+====Derived terms====
+* {{l|la|vobiscum}}
+
+====Descendants====
+{{top2}}
+* {{desc|rup|voi}}, {{l|rup|voauã}}
+* {{desc|ca|vós}}, [[vosaltres]]
+* {{desc|dlm|vu}}, {{l|dlm|voi}}
+* {{desc|fur|vô}}, [[voaltris]]
+* {{desc|it|voi}}, [[voialtri]]
+* {{desc|nap|vuje}}
+* {{desc|oc|vos}}, [[vosautres]]
+* Old French: {{desctree|fro|vos|notext=1}}
+{{mid2}}
+* {{desc|roa-opt|vos}}
+** {{desc|gl|vós}}, [[vosoutros]]
+** {{desc|pt|vós}}
+* {{desc|ro|voi}}, {{l|ro|vouă}}
+* {{desc|rm|vus}}
+* {{desc|scn|vui}}, {{l|scn|vuàutri}}
+* {{desc|es|vos}}, [[vosotros]], {{l|es|os}}
+{{bottom}}
+
+====See also====
+{{Latin personal pronouns}}
+
+===References===
+* {{R:L&S}}
+* {{R:Elementary Lewis}}
+* {{R:du Cange}}
+* {{R:Gaffiot}}
+* {{R:M&A}}
+
+----
+
+==Lithuanian==
+
+===Etymology===
+{{rfe|lt}}
+
+===Pronunciation===
+* {{IPA|lt|[vos]}}
+
+===Adverb===
+{{lt-adv|-}}
+
+# [[hardly]]
+
+====Derived terms====
+* {{l|lt|vos vos}}
+* {{l|lt|vos tik}}
+
+----
+
+==Middle Dutch==
+
+===Etymology===
+From {{inh|dum|odt|fus}}, {{m|odt|vus}}, from {{inh|dum|gem-pro|*fuhsaz}}.
+
+===Noun===
+{{dum-noun|m}}
+
+# [[fox]], [[red fox]]
+
+====Inflection====
+{{rfinfl|dum|noun}}
+
+====Derived terms====
+* {{l|dum|vossinne}}
+
+====Descendants====
+* {{desctree|nl|vos}}
+* {{desc|li|vósj}}
+
+===Further reading===
+* {{R:VMNW|ID32742}}
+* {{R:MNW|68854}}
+
+{{topics|dum|Canids}}
+
+----
+
+==Occitan==
+
+===Pronunciation===
+* {{IPA|oc|/vus/}}
+
+===Etymology===
+From {{inh|oc|pro|vos}}, from {{inh|oc|la|vōs||you, plural}}.
+
+===Pronoun===
+{{head|oc|pronoun|cat2=personal pronouns}}
+
+# to [[you]] (second-person plural indirect object pronoun)
+# [[yourselves]] (second-person plural reflexive pronoun)
+
+----
+
+==Old French==
+
+===Alternative forms===
+* {{l|fro|vous}}
+* {{l|fro|vus}}
+
+===Etymology===
+From {{inh|fro|la|vōs||you, plural}}.
+
+===Pronoun===
+{{head|fro|pronoun|cat2=personal pronouns|cat3=subject pronouns}}
+
+# [[you]] (second-person plural or second-person singular polite subject pronoun)
+#* '''circa 1170''', {{w|Chrétien de Troyes}}, ''[[s:fr:Érec et Énide|Érec et Énide]]'':
+#*: Que '''vos''' puissiez cest blasme estaindre
+#*:: That you may be able to get rid of this blame
+# [[your]] (second-person plural or second-person singular polite possessive pronoun)
+# [[yourself]] (second-person plural or second-person singular polite reflexive pronoun)
+# [[you]] (second-person plural or second-person singular polite object pronoun)
+#* {{quote-book|fro|year=circa 1176|author=[[w:Chrétien de Troyes|Chrétien de Troyes]]|title=''Cligès''|passage=qant je '''vos''' voi de tel meniere|translation=when I see you in such a state}}
+
+====Descendants====
+* {{desc|frm|vous}}
+** {{desc|fr|vous}}
+* {{desc|wa|vos}}
+
+----
+
+==Old Occitan==
+
+===Etymology===
+From {{inh|pro|la|vōs||you, plural}}.
+
+===Pronoun===
+{{head|pro|pronoun}}
+
+# [[you#English|you]] (plural or polite form)
+
+====Descendants====
+* {{desc|ca|vós}}
+* {{desc|oc|vos}}
+
+----
+
+==Piedmontese==
+
+===Alternative forms===
+* {{alter|pms|vus}}
+
+===Etymology===
+From {{inh|pms|la|vōx}}.
+
+===Pronunciation===
+* {{IPA|pms|/vus/}}
+
+===Noun===
+{{head|pms|noun|g=f|plural|vos}}
+
+# [[voice]]
+
+----
+
+==Portuguese==
+
+===Etymology===
+From {{inh|pt|la|vōs}}.
+
+===Pronunciation===
+* {{a|Portugal}} {{IPA|pt|/vuʃ/}}
+* {{a|Brazil}} {{IPA|pt|/vus/}}
+* {{hyph|pt|vos}}
+
+===Pronoun===
+{{pt-pron}}
+
+# {{non-gloss definition|2<sup>nd</sup> person plural objective pronoun}}
+
+====See also====
+{{Portuguese personal pronouns}}
+
+----
+
+==Sardinian==
+
+===Alternative forms===
+* {{alter|sc|bos}}
+
+===Etymology===
+From {{inh|sc|la|vōs}}, from {{inh|sc|itc-pro|*wōs}}, from the oblique case forms of {{der|sc|ine-pro|*yū́||you}}.
+
+===Pronunciation===
+* {{IPA|sc|/vɔs/}}
+
+===Pronoun===
+{{head|sc|pronoun|possessive|vostru}}
+
+# {{l|en|you}} (plural), {{l|en|ye}}
+#: {{syn|sc|vois}}, {{l|sc|vosateros}}
+
+----
+
+==Slovene==
+
+===Etymology===
+From {{inh|sl|sla-pro|*ǫsъ}}.
+
+===Noun===
+{{sl-noun|vọ̑s|m-in}}
+
+# {{lb|sl|obsolete}} {{l|en|hair}}
+# {{lb|sl|obsolete}} {{l|en|moustache}}
+
+===Further reading===
+* {{R:Fran}}
+
+{{c|sl|Hair}}
+
+----
+
+==Spanish==
+
+===Etymology===
+From {{inh|es|la|vōs||you, plural}}, from {{inh|es|itc-ola|vōs}}, from {{inh|es|itc-pro|*wōs}}.
+
+===Pronunciation===
+{{es-IPA}}
+
+===Pronoun===
+{{head|es|pronoun}}
+
+# {{lb|es|archaic}} an elevated form of [[you]], either singular or plural
+# {{lb|es|parts of|_|Latin America|Chavacano-speaking areas in the Philippines}} a form of [[you]], singular
+#: {{syn|es|tú}}
+
+====Derived terms====
+* {{l|es|vosear}}
+* {{l|es|voseo}}
+
+===See also===
+{{es-personal pronouns}}
+
+===Further reading===
+* {{R:DRAE}}
+
+----
+
+==Walloon==
+
+===Etymology===
+From {{inh|wa|fro|vos}}, from {{inh|wa|la|vōs||you, plural}}, from {{inh|wa|itc-pro|*wōs}}.
+
+===Pronoun===
+{{head|wa|pronoun}}
+
+# [[you]] {{qualifier|singular}}
+# [[you]] {{qualifier|plural}}
+
+====Synonyms====
+* {{sense|plural}} {{l|wa|vozôtes}}

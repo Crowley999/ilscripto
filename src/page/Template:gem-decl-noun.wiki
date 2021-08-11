@@ -1,0 +1,3 @@
+{{#invoke:gem-decl-noun|show}}<!--
+
+--><noinclude>{{documentation}}</noinclude>

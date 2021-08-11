@@ -1,0 +1,3 @@
+{{deprecated code|active={{#if:{{{lang|}}}|yes|no}}|text=deprecated use of {{para|lang}} parameter|tooltip=This template call uses the deprecated 'lang' parameter. Use '1' instead.|{{{1}}}}}<!--
+
+--><noinclude>{{documentation}}</noinclude>

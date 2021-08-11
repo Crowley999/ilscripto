@@ -1,0 +1,331 @@
+{{also|爱}}
+{{character info}}
+==Translingual==
+{{stroke order|strokes=13}}
+
+===Han character===
+{{Han char|rn=61|rad=心|as=09|sn=13|four=20247|canj=BBPE|ids=⿳爫冖𢖻}}
+
+====Derived characters====
+* [[僾]]([[𫣊]]), [[噯]]([[嗳]]), [[嬡]]([[嫒]]), [[懓]]([[𭞄]]), [[曖]]([[暧]]), [[燰]]([[𬊺]]), [[璦]]([[瑷]]), [[皧]], [[瞹]], [[薆]]([[𫉁]]), [[鑀]], [[靉]]([[叆]]), [[鱫]], [[𣜬]]([[𪳗]]), [[𤻅]], [[𥖦]], [[𥣁]], [[𥴨]]([[𫂖]]), [[𦆔]], [[𦡝]]([[𫆫]]), [[𧓁]], [[𧞇]], [[𨙤]], [[𨣥]], [[𩡣]]([[𩡖]]), [[𪇈]], [[𪒱]], [[𭩊]], [[𮙀]]
+
+====Related characters====
+* {{l|mul|[[爱]]}} ''({{w|Simplified Chinese}})''
+
+====Descendants====
+* {{l|ja|𛀃}} {{q|[[hentaigana|Hentaigana]]}}
+
+====References====
+{{Han ref|kx=0395.130|dkj=10947|dj=0732.020|hdz=42323.010|uh=611B}}
+
+----
+
+==Chinese==
+{{was fwotd|zh|2020|April|8}}
+{{zh-forms|s=爱|alt=㤅,𢙴,𢛭,𢜤,𤔠,𤔤,𢟪,𢖻}}
+{{zh-wp|zh|yue|lzh|gan|hak:Oi|cdo:Ái|nan:Ài|wuu:爱}}
+
+===Glyph origin===
+{{Han etym}}
+
+Originally {{zh-l|*㤅}}, a {{Han compound|旡|心|ls=psc|c1=p|c2=s|t2=heart|nocap=1}}.
+
+As early as the Qin dynasty, a meaningless component {{zh-l|*夊|foot}} was added to the bottom of the character, as with some other characters depicting people. Compare {{zh-l|*憂}} (from {{zh-l|*㥑}}).
+
+Further corruption turned the original phonetic {{zh-l|*旡}} into {{lang|zh|⿱爫冖}}.
+
+===Etymology===
+Based on {{zh-ref|Baxter's (1992)}} {{cog|och|-}} reconstruction {{IPAfont|/*ʔɨts/}}, STEDT suggests that it is from {{inh|zh|sit-pro|*ŋ-(w)aːj||to copulate; to love; to be gentle}}. Compare {{cog|kar-pro|*ʔai||to love}}, whence {{cog|blk|tr=ʔái|t=to love}}, {{cog|ksw|အဲၣ်||to love}}; {{cog|bfs|e⁴⁴||love}}; {{cog|lus|hma-ngaih|hma-'''ngaih'''|to love, to like}}; {{cog|kac|nwai||to respect, to love}}, {{m|kac|ngwi||to be gentle}}; {{cog|my|ငွေ့|t=to be gentle, moderate}}. The Chinese word is related to a Tibeto-Burman allofam without initial ''*ŋ-''. STEDT states that an {{cog|och|-}} reconstruction of {{IPAfont|/*ʔɨjs/}} for {{lang|zh|愛}} is also possible because {{cog|och|-}} rhyming does not provide direct evidence of contacts with ''*-t''.
+
+However, {{zh-ref|Baxter and Sagart (2014)}} reconstructs {{IPAfont|/*[q]ˁə[p]-s/}}, which ends in ''*-p-s'' instead. The {{cog|och|-}} contrast between ''*-p-s'' and ''*-t-s'' was lost at a late stage of {{cog|och|-}}. The final ''*-p'' is not reflected in the {{cog|tbq}} comparandum provided by STEDT, making the likelihood that the Chinese form is related to the rest very low ({{zh-ref|Sagart, 2019}}). {{zh-ref|Behr (2016)}} suggests a derivation from a verbal root meaning "to draw in; to inhale; to suck in", relating it to {{och-l|吸|to inhale|tr=*qʰ(r)əp}}, {{och-l|欱|to sip|tr=*qʰˁ[ə]p}}, {{och-l|愾|to sigh with regret|tr=*qʰəp-s}}, {{och-l|僾|to pant|tr=*qˁəp-s}}, {{och-l|氣|vapour; breath|tr=*C.qʰəp-s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=ài
+|m-s=ngai4
+|dg=нэ3
+|c=oi3
+|c-t=oi1
+|g=ngai4
+|h=pfs=oi;gd=oi4
+|j=ghai3
+|mb=o̿
+|md=ái/ó̤i
+|md_note=ái - literary; ó̤i - vernacular
+|mn=ml,jj,tw:ài
+|mn-t=ain3
+|w=2e
+|x=ngai4
+|mc=y
+|oc=y
+|ma=y
+|cat=n,v,a,pn
+}}
+
+===Definitions===
+[[File:愛❤.jpg|thumb|愛]]
+{{zh-hanzi}}
+
+# to [[love]]
+#: {{zh-x|我 愛 你。|I '''love''' you.}}
+#: {{zh-x|你 愛 他 嗎？|Do you '''love''' him?}}
+#* {{zh-x|仁 者 愛 人，有禮 者 敬 人。愛 人 者 人 恆 愛 之，敬 人 者 人 恆 敬 之。|A benevolent person '''loves''' others. A person of propriety shows respect to others. Those who '''love''' others are constantly '''loved''' by them. Those who respect others are constantly respected by them.|ref=Mencius-L}}
+#* {{zh-x|吾 至 愛 汝，即 此 愛 汝 一 念，使 吾 勇於 就 死 也。|I '''love''' you deeply, and it is this single thought of '''loving''' you that enables me to take courage in the face of imminent death.|3=CL|ref=1911, [[w:Lin Juemin|Lin Juemin]], ''Farewell Letter to Yiying'' ({{lang|zh|《[[s:zh:與妻訣別書|與妻訣別書]]》}})}}
+# to [[treasure]]; to [[value]]
+#* {{zh-x|予{yú} 獨 愛 蓮 之 出.淤泥.而.不.染。|What I '''treasure''' about the lotus is the fact that it grows out of pond dregs yet is not caught in the filth.|CL|ref=1063, [[w:Zhou Dunyi|Zhou Dunyi]], {{lang|zh|《[[s:zh:愛蓮說|愛蓮說]]》}} (''On the Love for the Lotus'')}}
+# to [[like]]; to be [[fond]] of; to be [[keen on]]
+#: {{zh-x|他 愛 說話。|He '''likes''' to talk.}}
+#: {{zh-x|我 不 愛 吃 豬肉。|I don't '''like''' to eat pork.}}
+#* {{zh-x|願 大{dài}王 毋 愛 財物。|Might I suggest that Your Majesty be not '''keenly attached''' to the riches.|ref=Shiji}}
+# to [[begrudge]]; to be [[reluctant]]
+#* {{zh-x|^申-生 不敢 愛 其 死。|I, [[w:Prince Shensheng of Jin|Shensheng]], do not presume to '''grudge''' dying.|ref=Liji-L}}
+#* {{zh-x|獨 子 愛 其 死 乎？|Do you alone '''begrudge''' your death?|ref=Fayan-B}}
+# to be [[prone]]; to be [[easy]] to
+#: {{zh-x|愛 發脾氣|to be [[short-tempered]]}}
+#: {{zh-x|鐵 愛 生鏽。|Iron rusts '''easily'''.}}
+# [[love]]; [[affection]]
+#: {{zh-x|愛國|patriotism}}
+#: {{zh-x|遺愛人間|to leave '''love''' behind}}
+#* {{zh-x|吾 未 有 愛 而 吾 欲 愛。|I was not in '''love''' as yet, but I was in love with '''love'''.|CL|ref={{circa|400}} [[w:Augustine of Hippo|Augustine of Hippo]], ''[[s:The_Confessions_of_Saint_Augustine_(Outler)/Book_III#Chapter_I|The Confessions]]'', as quoted by [[w:Lu Xun|Lu Xun]] in {{lang|zh|《[[s:zh:摩羅詩力說|摩羅詩力說]]》}}, 1908}}
+# [[love]]; [[benevolence]]
+# the target of love; someone whom one loves
+#: {{zh-x|割愛|to sacrifice '''the target of love''' to someone else}}
+# {{n-g|Honorific for someone else's daughter; variant of {{zh-l|嬡}}.}}
+#: {{zh-x|令愛|your '''precious daughter'''}}
+# [[affectionate]]
+#: {{zh-x|愛情|love}}
+# [[beloved]]
+#: {{zh-x|愛妻|'''beloved''' wife}}
+# {{lb|zh|Cantonese|Hakka|Wu}} to [[want]] (an object) {{attention|zh|also Min Nan (Teochew?)}}
+#: {{zh-x|我 唔 愛 咁多。|I don't '''want''' that much.|C}}
+# {{lb|zh|Hakka|Min}} to [[want]] (to do)
+# {{lb|zh|Hakka|Min}} to [[need]] to; [[must]]
+#: {{zh-x|有{Ū} 一 點 愛 注意 %的。|There's one point you '''must''' bear in mind.|TW}}
+# {{lb|zh|archaic}} {{zh-alt-form|薆|to hide|ài}}
+#* {{zh-x|愛 而 不 見{xiàn}|She '''hides''' herself and does not appear.|CL|ref={{circa|7th century {{BC}}}} ''[[w:Shijing|Shijing]]'', {{lang|zh|《邶風‧靜女》}}}}
+# {{surname|zh}}
+
+====Usage notes====
+* When used for people, {{lang|zh|愛}}／{{lang|zh|爱}} usually refers to romantic love. When used like this, older Mandarin speakers often describe the use of this term as overly {{zh-l|肉麻|cheesy}}. For this reason, the word {{zh-l|喜歡|to like}} might be used instead. Using the word {{zh-l|喜歡}} literally means ''like'', but when used in a romantic context (especially boyfriend/girlfriend), it actually means love. However, younger Mandarin speakers seem to have been influenced somewhat by Western culture, and are now using the verb {{lang|zh|愛}}／{{lang|zh|爱}} much more often than was socially acceptable in the past.
+
+====Synonyms====
+* {{see derivation subpage|Love (Chinese)}}
+
+===Compounds===
+* {{see derivation subpage|Love (Chinese)}}
+
+===Descendants===
+{{CJKV||あい|애|ái}}
+''Others'':
+* {{desc|qfa-lic-pro|*ʔəːp||to love|bor=1|unc=1}}
+
+===Further reading===
+* {{thcwd|9456}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=心09}}
+
+====Readings====
+{{ja-readings
+|goon=あい, お
+|kanon=あい
+|kun=いつく-しむ, いと-し.い, いと-おしむ, かな-し.い, お-しむ, まな-, め-でる
+|nanori=あ, あい, あし, え, かな, なる, めぐ, めぐみ, よし, ちか
+}}
+
+====Compounds====
+* {{see derivation subpage|Kanji}}
+
+===Etymology 1===
+{{ja-kanjitab|あい|yomi=o}}
+
+From {{der|ja|ltc|-|sort=あい}} {{ltc-l|愛}}.
+
+Compare modern {{cog|cmn|-}} {{zh-l|愛|ài}}.
+
+====Pronunciation====
+{{ja-pron|あい|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|あい}}
+
+# [[love]]
+#: {{ja-usex|'''愛'''は強く。|'''あい''' は つよく。|The '''love''' is strong.}}
+#: {{ja-usex|'''愛'''は勝つ。|'''あい''' は かつ。|The '''love''' wins.}}
+# [[affection]]
+#: {{syn|ja|愛情|tr=aijō}}
+# [[tenderness]]
+# {{rfdef|ja|sort=あい}}
+#: {{syn|ja|愛想|tr=aiso}}
+# {{lb|ja|sort=あい|Buddhism}} {{rfdef|ja}}
+# {{lb|ja|sort=あい|Christianity}} [[agape#Noun|agape]]
+
+=====Synonyms=====
+* {{sense|love, generally more [[passionate]] or [[erotic]]}} {{ja-r|恋|こい}}, {{ja-r|恋愛|れんあい}}
+
+=====Derived terms=====
+* {{see derivation subpage|Love (Japanese)}}
+
+====Proper noun====
+{{ja-pos|proper|あい}}
+
+# {{given name|ja|female|A=a|sort=あい}}
+# {{surname|ja|A=a|nodot=1|sort=あい}}
+
+===Etymology 2===
+{{ja-kanjitab|まな|yomi=k|alt=真}}
+Originally a compound of {{compound|ja|sort=まな|真|tr1=ma|t1=[[true]], [[genuine]]|な|tr2=na}}, an {{inh|ja|ojp|-|sort=まな}} version of modern {{cog|ja|の|tr=no|pos=possessive particle}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The use of {{lang|ja|愛}} here is an example of {{ateji|sort=まな}}.
+
+====Pronunciation====
+{{ja-pron|まな|acc=0}}
+
+====Prefix====
+{{ja-pos|prefix|まな}}
+
+# ''before a [[common noun]], expresses a sense of [[admiration]] or [[value]]'': [[good]], [[genuine]]; compare English {{m|en|real deal|the real deal}}
+# ''before a noun describing a person, expresses [[praise]] or [[fondness]]'': [[dear]], [[beloved]]
+
+=====Derived terms=====
+* {{ja-r|愛%弟子|まな%でし}}
+* {{ja-r|愛%娘|まな%むすめ}}
+
+====Noun====
+{{ja-noun|まな}}
+
+# {{lb|ja|sort=まな|archaic|derived from prefix sense}} that which is [[dear]] or [[loved]]
+
+====Proper noun====
+{{ja-pos|proper|まな}}
+
+# {{given name|ja|female|A=a|sort=まな}}
+
+===Etymology 3===
+Used as [[ateji]] in various names. {{lang|ja|愛}} is a very common element in many, many names.
+
+====Proper noun====
+{{ja-pos|proper|あづみ|ああい|あいか|あいす|あき|あこ|あみか|あおい|ありさ|あや|あゆ|ちぎり|ちか|ちかし|えりな|はあと|ひかり|いと|いとし|いつみ|いずみ|かな|かなえ|かなさ|きずな|こころ|このむ|まどか|まなぶ|まなみ|めづる|めご|めぐ|めぐみ|めぐむ|めい|なる|なるこ|のぞみ|らぶ|るい|さら|さらん|つぐみ|つくみ|うい|よし|よしき|よしみ|}}
+
+# {{given name|ja|female|A=a|sort=ゆき}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Etymology===
+From {{der|ko|ltc|sort=애|-}} {{ltc-l|愛}}. 
+{{hanja-ety
+|dk={{okm-l|ᅙᆡᆼ〮|qóy|link=no}}
+|m={{okm-l|ᄋᆡ〯|ǒy}}
+|mh={{okm-l|[[ᄃᆞᆺ다|ᄃᆞᅀᆞᆯ〮]]|dòzól}}
+|ml=雜語#하33A
+}}
+===Pronunciation===
+{{ko-hanja-pron|애|l=y}}
+
+===Hanja===
+{{ko-hanja-search}}
+{{ko-hanja|사랑|애}}
+
+# {{hanja form of|애|[[love]]}}
+
+====Compounds====
+* {{see derivation subpage|Love (Korean)}}
+
+===References===
+* {{R:hanjadoc|3559}}
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{ryu-kanji}}
+
+====Readings====
+{{ryu-readings
+|kun=かな-さん
+}}
+
+----
+
+==Old Japanese==
+
+===Alternative forms===
+* {{alter|ojp|眞}}
+
+===Etymology===
+Originally a compound of {{com|ojp|sort=まな|眞|tr1=ma|t1=[[true]], [[genuine]]|な|tr2=na|pos2=apophonic form of possessive particle {{m|ojp|の|tr=no<sub>2</sub>}}}}.
+
+===Noun===
+{{head|ojp|noun|tr=mana|kana|まな|sort=まな}}
+
+# that which is [[dear]] or [[loved]]
+#* {{RQ:Manyoshu|14|3462}}
+#*: {{ux|ojp|[[足引きの|安志比奇乃]]夜末佐波妣登乃比登佐波爾'''麻奈'''登伊布児我安夜爾可奈思佐|tr=asi-pi<sub>1</sub>ki<sub>2</sub> no<sub>2</sub> yamasapabi<sub>1</sub>to<sub>2</sub> no<sub>2</sub> pi<sub>1</sub>to<sub>2</sub> sapa ni '''mana''' to<sub>2</sub> ipu ko<sub>1</sub> ga aya ni kanasisa}}
+
+====Derived terms====
+* {{m|ojp|愛子|tr=manago<sub>1</sub>}}
+* {{m|ojp|愛娘|tr=manamusume<sub>1</sub>}}
+
+====Descendants====
+* {{desc|ja|愛|tr=mana-}}
+
+[[Category:Old Japanese prefixes|まな]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心09
+|hanviet=ái-tdcndg;tdcntd;gdhn;bonet;genibrel, áy-bonet
+|phienthiet=
+|nom=ái-tdcndg;tdcntd;gdhn;bonet;genibrel;taberd, áy-tdcndg;tdcntd;gdhn;bonet;genibrel;taberd, ải-tdcndg
+}}
+
+# {{han tu form of|ái|[[love]]}}
+# {{Nom form of|áy|[[troubled]]; [[anxious]]}}
+
+====Compounds====
+{{der3|vi
+|{{vi-l|愛恩|ái ân|}}
+|{{vi-l|愛友|ái hữu|}}
+|{{vi-l|愛卿|ái khanh|}}
+|{{vi-l|愛力|ái lực|}}
+|{{vi-l|愛慕|ái mộ|}}
+|{{vi-l|愛乃|áy náy}}
+|{{vi-l|愛國|ái quốc|}}
+|{{vi-l|愛情|ái tình|}}
+|{{vi-l|恩愛|ân ái|}}
+|{{vi-l|博愛|bác ái|}}
+|{{vi-l|喜怒愛惡|hỉ nộ ái ố|}}
+|{{vi-l|會愛友|hội ái hữu|}}
+|{{vi-l|友愛|hữu ái|}}
+|{{vi-l|可愛|khả ái|}}
+|{{vi-l|兼愛|kiêm ái|}}
+|{{vi-l|敬愛|kính ái|}}
+|{{vi-l|令愛|lệnh ái|}}
+|{{vi-l|戀愛|luyến ái|}}
+|{{vi-l|仁愛|nhân ái|}}
+|{{vi-l|泛愛|phiếm ái|}}
+|{{vi-l|寵愛|sủng ái|}}
+|{{vi-l|親愛|thân ái|}}
+|{{vi-l|情愛|tình ái|}}
+|{{vi-l|自愛|tự ái|}}
+|{{vi-l|相親相愛|tương thân tương ái|}}
+|{{vi-l|憂愛|ưu ái|}}
+}}
+
+===References===
+<references/>

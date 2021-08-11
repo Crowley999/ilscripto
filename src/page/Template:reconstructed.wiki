@@ -1,0 +1,5 @@
+{| class="messagebox" style="margin-bottom: 0.5em; background: AntiqueWhite; border:solid Tan 1px;"
+|-
+| [[Image:Asterisk.svg|none|45px| ]]
+| This {{#switch:{{NAMESPACE}}|Reconstruction = {{reconstructed/sub}}}} entry contains '''[[Wiktionary:Reconstructed terms|reconstructed words and roots]]'''. As such, the term(s) in this entry are not directly [[w:attested language|attested]], but are hypothesized to have existed based on [[w:Comparative method|comparative]] evidence.
+|}<includeonly>{{DEFAULTSORT:{{SUBPAGENAME}}}}{{#invoke:reconstruction|main}}</includeonly><noinclude>{{documentation}}</noinclude>

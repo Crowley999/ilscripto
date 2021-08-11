@@ -1,0 +1,24 @@
+{{reconstructed}}
+==Proto-Germanic==
+
+===Etymology===
+From {{inh|gem-pro|ine-pro|*púḱsos||the tailed one}}. Cognate with {{cog|sa|पुच्छ|tr=púccha}}, {{cog|ae|𐬞𐬎𐬯𐬀}}.
+
+===Pronunciation===
+* {{IPA|gem-pro|/ˈɸux.sɑz/}}
+
+===Noun===
+{{gem-noun|m}}
+
+# [[fox]]
+
+====Inflection====
+{{gem-decl-noun}}
+
+====Related terms====
+* {{l|gem-pro|*fuhǭ|gloss=vixen}}
+
+====Descendants====
+* {{desctree|gmw-pro|*fuhs}}
+
+{{topics|gem-pro|Carnivores}}

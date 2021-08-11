@@ -1,0 +1,1 @@
+{{#invoke:etymology/templates|descendants_tree}}<noinclude>{{documentation}}</noinclude>

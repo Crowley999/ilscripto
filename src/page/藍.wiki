@@ -1,0 +1,281 @@
+{{also|籃|蓝}}
+{{character info}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=14|asj+=15|sn=18|snm++=17|four=44107|canj=TSIT,TSMT|ids=⿱艹監}}
+
+====Derived characters====
+* [[㘕]] [[灆]] [[𣠩]] [[𤓆]] [[𥍍]] [[礷]] [[𧕭]] [[𤼓]]
+
+====References====
+* {{Han ref|kx=1064.160|dkj=32258|dj=1528.350|hdz=53311.080|uh=85CD|ud=34253|bh=C2C5|bd=49861}}
+
+----
+
+==Chinese==
+{{zh-forms|s=蓝|alt=兰-second round simplified}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艹|監|c1=s|c2=p|t1=grass|ls=psc}}: The indigo plant
+
+===Etymology===
+From {{inh|zh|sit-pro|*g-ram||indigo}}. Cognate with {{cog|lep|tr=ryom}}, {{cog|mro|charam}}, {{cog|bo|རམས||indigo}}, which Laufer (1916) considers to be a Chinese loan. {{och-l|藍}} was also borrowed as {{cog|tai-pro|*g.raːmᴬ}} (STEDT) and possibly {{cog|cbn|tr=khràam}}, Surin {{cog|km|tr=kraːm}}, and {{cog|mkh-vie-pro|*ɟaːm||indigo}} (→ {{cog|vi|chàm}}). {{zh-ref|Schuessler (2007)}} considers this an areal word, possibly from {{w|Southeast Asia}}; confer {{cog|map-pro|*taRum||indigo plant and dye}} (> {{cog|ms|tarum}}) and {{cog|km|ត្រុំ}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lán
+|ma=y
+|m-s=
+|dg=лан1
+|c=laam4
+|c-t=
+|g=lan4
+|h=pfs=làm;gd=lam2
+|j=lan1
+|mb=lâng
+|md=làng
+|mn=nâ/lâm
+|mn_note=nâ - vernacular; lâm - literary
+|mn-t=lam5/nam5/na5
+|mn-t_note=lam5 - Chaozhou; nam5 - Shantou; na5 - surname
+|w=3le
+|x=lan2
+|mc=y
+|oc=y
+|cat=a,n,pn
+}}
+
+===Definitions===
+[[File:Indigofera_tinctoria_jd_plt_Paris.jpg|thumb|{{zh-l|藍}} (2)]]
+{{zh-hanzi}}
+
+# [[blue]]
+#: {{zh-x|藍色|blue color}}
+# [[indigo]] [[plant]]; ''[[Indigofera tinctoria]]''
+# {{lb|zh|politics}} [[relate]]d to the [[pro-]][[unification]] {{w|pan-Blue coalition}} of [[Taiwan]]
+# {{lb|zh|Hong Kong|politics}} [[supportive]] of the Hong Kong Police Force and the Hong Kong [[government]]
+#: {{zh-also|藍絲}}
+# {{surname|zh}} [[Lan]]
+#: {{zh-x|^藍 ^玉|{{w|Lan Yu (general)|Lan Yu}}}}
+
+===Descendants===
+{{CJKV||らん|남|lam}}
+''Others'':
+* {{desc|tai-pro|*gra:mᴬ||indigo|bor=1}}
+** {{desc|th|คราม}}
+** {{desc|lo|ຄາມ}}
+** {{desc|za|gyaemq||purple-red}}
+* {{desc|tai-pro|*kromᶜ||indigo|bor=1}}
+** {{desc|th|ฮ่อม}}
+** {{desc|za|romj}}, {{l|za|goromj}}
+* {{desc|hmx-pro|*ŋglam|*ŋglam ~ ŋgram|indigo|bor=1}}
+** {{desc|mww|nkaj||indigo}}
+* {{desc|km|ត្រុំ|bor=1}}
+
+===Compounds===
+{{zh-der|藍寶石|藍本|藍靛|藍礬|藍黑|藍晶晶|藍鯨|藍領|藍皮書|藍色|藍閃閃|藍天|藍田生玉|藍圖|藍盈盈|藍瑩瑩|藍藻|藍湛湛|二藍|亮藍|伽藍|寶藍|毛藍|湛藍|燒藍|甘藍|發藍|碧藍|蓼藍|蔚藍|薄藍|藍傘|藍單|藍橋|藍波|藍田|藍縷|藍翎|藍菊|藍衫|藍調|藍關|藍青|藏藍|迦藍|鈷藍|靛藍|絞股藍|芥藍|天藍色|僧伽藍|伽藍鳥|寶藍色|普魯士藍|碧藍如黛|景泰藍|水渰藍橋|藍晶|藍晶石|藍田猿人|篳路藍縷|蓽露藍蔞|芥藍菜|藍波主義|藍尼羅河|藍田出玉|藍十字會|藍鬍子|藍蝴蝶|藍姑草|青過於藍|衣衫藍褸|蓽路藍縷|衣冠藍縷|青出於藍|藍橋會|藍田種玉|藍田玉|胡藍之獄|藍點頦|藍普燈|藍領階級|藍德公司|藍田遺址|結球甘藍|藍綠藻|藍鼓藻|藍青官話|藍玉|海軍藍|藍籌股|藍籌|亞甲藍|藍皮綠骨}}
+
+{{zh-cat|Beginning|Blues}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=艸14}}
+
+# the {{vern|Japanese indigo}} or [[Chinese indigo]] [[plant]], {{taxlink|Persicaria tinctoria|species}}
+# the [[color]] [[indigo]]
+# {{n-g|kanji used to transliterate Buddhist terms borrowed from Sanskrit}}
+
+====Readings====
+{{ja-readings
+|goon=らん<らん<らむ
+|kanon=らん<らん<らむ
+|kun=あい-<あゐ
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|藍%衣%社|^らん%い%しゃ}}
+* {{ja-r|藍玉|らんぎょく}}: [[aquamarine]] {{qualifier|gem}}
+* {{ja-r|藍%紫%色|らん%し%しょく}}
+* {{ja-r|藍綬 褒章|^らんじゅ ^ほうしょう}}
+* {{ja-r|藍%晶石|らん%しょうせき|[[cyanite]]}}
+* {{ja-r|藍%色|らん%しょく}}: the color [[indigo]]: [[dark blue]]
+* {{ja-r|藍%閃石|らん%せんせき}}
+* {{ja-r|藍藻|ランソウ}}
+* {{ja-r|藍%鉄鉱|らん%てっこう}}
+* {{ja-r|藍田|^らんでん}}
+* {{ja-r|藍靛|らんてん}}
+* {{ja-r|藍%銅鉱|らん%どうこう}}
+* {{ja-r|藍%毘%尼%園|^らん%び%に%-おん}}
+* {{ja-r|藍碧|らんぺき}}
+* {{ja-r|芥藍|カイラン}}
+* {{ja-r|伽藍|がらん}}
+* {{ja-r|甘藍|カンラン}}
+* {{ja-r|洎夫%藍|サフ%ラン}}
+* {{ja-r|芥%藍%菜|ジエ%ラン%ツァイ}}
+* {{ja-r|出藍|しゅつらん}}
+* {{ja-r|青藍|せいらん}}
+* {{ja-r|僧%伽%藍%摩|そう%が%らん%ま}}
+* {{ja-r|堆藍|たいらん}}
+* {{ja-r|洞庭藍|トウテイラン}}
+* {{ja-r|銅藍|どうらん}}
+* {{ja-r|白藍|はくらん}}
+* {{ja-r|板藍根|バンランコン}}
+* {{ja-r|毘%藍%婆|^び%らん%ば}}
+* {{ja-r|洋藍|ようらん}}
+{{der-bottom}}
+
+===Etymology===
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|lang=ja|アイ (植物)}}
+{{wp|Persicaria tinctoria}}
+[[File:2016_1010_1119_dsc07615.jpg|thumb|250px|{{m|ja|藍|tr=ai}}: the '''{{vern|Japanese indigo}}''' or '''[[Chinese indigo]]''' plant, {{taxlink|Persicaria tinctoria|species}}.]]
+{{wp|lang=ja|藍色}}
+{{wp|Indigo}}
+[[File:Indigo_plant_extract_sample.jpg|thumb|250px|{{m|ja|藍|tr=ai}}: the [[color]] '''[[indigo]]'''.]]
+</div>
+{{ja-kanjitab|yomi=k|あい}}
+
+{{IPAchar|/awi/}} → *{{IPAchar|/aji/}} → {{IPAchar|/ai/}}
+
+From {{inh|ja|ojp|sort=あい|-}}.
+
+There are various theories regarding the ultimate derivation, all suggesting a relation to {{m|ja|青|tr=awo → ao||[[blue]]}}:
+* May be an alteration from {{m|ja|青色||tr=awoiro → aoiro}}:
+*: {{IPAfont|⟨awoiro<sub>2</sub>⟩}} → {{IPAchar|/awoirə/}} → {{IPAchar|/awɨrə/}} → {{IPAchar|/airo/}} → {{IPAchar|/ai/}}
+* May be a fusion of {{m|ja|青|tr=awo → ao}} and {{m|ja|い|tr=i|pos=emphatic nominative particle}}<ref>Thomas Pellard (2013).  [https://hal.archives-ouvertes.fr/hal-01289288/document Ryukyuan perspectives on the proto-Japonic vowel system].  Frellesvig, Bjarke; Sells, Peter. Japanese/Korean Linguistics 20, CSLI Publications, pp.81–96, 2013.</ref>
+*: *{{IPAchar|/awo i/}} → *{{IPAchar|/awɨ/}} → *{{IPAchar|/awi/}} → *{{IPAchar|/aji/}} → {{IPAchar|/ai/}}
+* May be derived from a compound of {{compound|ja|sort=あい|青|tr1=awo → ao|居|tr2=wi → i|t2=[[there is]]}}, expressing the sense that the indigo plant ''contains'' the color blue:
+*: {{IPAchar|/awowi/}} → *{{IPAchar|/awːɨ/}} → {{IPAchar|/awi/}} → *{{IPAchar|/aji/}} → {{IPAchar|/ai/}}
+
+Given that many Old Japanese terms have been derived from adding an emphatic nominative particle {{ja-r|い}}, and the spelling was historically ''awi'', the second derivation seems likely.
+
+===Pronunciation===
+{{ja-pron|yomi=k|あい|acc=1|acc_ref=DJR,NHK,SMK5}}
+
+===Noun===
+{{ja-noun|あい|hhira=あゐ|アイ|hkata=アヰ}}
+
+# the {{vern|Japanese indigo}} or [[Chinese indigo]] [[plant]], {{taxlink|Persicaria tinctoria|species}}
+#: {{synonyms|ja|藍蓼|tr=aitade|蓼藍|tr2=tade-ai}}
+#: {{hypernyms|ja|蓼|tr=tade}}
+# the [[color]] [[indigo]], from the [[dye]] processed from the [[stem]]s and [[leaf|leaves]] of various indigo plants
+#: {{synonyms|ja|藍色|tr=aiiro, ranshoku|インジゴ|tr2=injigo|インディゴ|tr3=indigo}}
+# {{short for|ja|藍蝋|tr=airō|nodot=1|sort=あい}}: [[indigo]] [[pigment]] made from boiled-down indigo [[dye]] [[liquid]]
+
+====Usage notes====
+{{U:ja:biology|アイ}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|藍色|あい.いろ}}
+* {{ja-r|藍%絵|あい%-え}}
+* {{ja-r|藍返し|あいがえし}}
+* {{ja-r|藍型|あいがた}}
+* {{ja-r|藍紙|あいがみ}}
+* {{ja-r|藍瓶|あいがめ|rom=-}}, {{ja-r|藍甕|あいがめ}}
+* {{ja-r|藍革|あいかわ}}
+* {{ja-r|藍隈|あいぐま}}
+* {{ja-r|藍%子|アイ%ゴ}}
+* {{ja-r|藍鮫|アイザメ}}
+* {{ja-r|藍下|あいした}}
+* {{ja-r|藍汁|あいしる}}
+* {{ja-r|藍住|^あいずみ}}
+* {{ja-r|藍墨|あいずみ}}
+* {{ja-r|藍%摺り|あい%ずり}}
+* {{ja-r|藍染|あいぞめ|rom=-}}, {{ja-r|藍%染め|あい%ぞめ}}
+* {{ja-r|藍%建て|あい%だて}}
+* {{ja-r|藍蓼|アイタデ}}
+* {{ja-r|藍茸|アイタケ}}
+* {{ja-r|藍玉|あいだま}} an [[indigo]] [[ball]]
+* {{ja-r|藍%韋|あい%-なめし}}
+* {{ja-r|藍%鼠|あい%ねずみ}}: [[bluish]] [[gray]]
+* {{ja-r|藍花|あいばな}}
+* {{ja-r|藍棒|あいぼう}}
+* {{ja-r|藍%微塵|あい%-みじん}}
+* {{ja-r|藍%水%泥|アイ%ミ%ドロ}}
+* {{ja-r|藍%海松%茶|あい%みる%ちゃ}}
+* {{ja-r|藍%屋|あい%や}}
+* {{ja-r|藍焼|あいやき|rom=-}}, {{ja-r|藍%焼き|あい%やき}}
+* {{ja-r|藍役|あいやく}}
+* {{ja-r|藍蝋|あいろう}}: [[indigo]] [[pigment]] made from boiled-down indigo [[dye]] [[liquid]]
+* {{ja-r|紫陽花|あじさい}}
+* {{ja-r|インド藍|^インド-あい}}
+* {{ja-r|薄藍|うすあい}}
+* {{ja-r|韓藍|から.あい}}
+* {{ja-r|木%藍|キ%アイ}}
+* {{ja-r|紅|くれない}}, {{ja-r|呉の藍|^くれ-の-あい}}
+* {{ja-r|濃%藍|こ%あい}}, {{ja-r|濃藍|こいあい}}
+* {{ja-r|紺藍|こん-あい}}
+* {{ja-r|地入れ 藍|じ.いれ あい}}
+* {{ja-r|白藍|しろあい}}
+* {{ja-r|人造%藍|じんぞう%-あい}}
+* {{ja-r|蓼藍|タデアイ}}
+* {{ja-r|漬藍|つけあい}}
+* {{ja-r|天然%藍|てんねん%-あい}}
+* {{ja-r|泥藍|どろあい}}
+* {{ja-r|二藍|ふた-あい}}
+* {{ja-r|ベロ藍|ベロ-あい}}
+* {{ja-r|襤褸%藍|ぼろ%-あい}}
+* {{ja-r|本藍|ほん-あい}}
+* {{ja-r|揉み藍|もみあい}}
+* {{ja-r|山藍|やま.あい}}, {{ja-r|山藍|やまい}}
+* {{ja-r|琉球%藍|^リュウキュウ%-アイ}}
+{{der-bottom}}
+
+====Proverbs====
+* {{ja-r|青は藍より出でて藍より青し|あお は あい より いでて あい より あおし}}
+
+===Proper noun===
+{{ja-pos|proper|あい|hhira=あゐ}}
+
+# {{given name|ja|A=a|sort=あい|female}}
+# {{surname|ja|A=a|nodot=1|sort=あい}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+===Further reading===
+* [http://www.nihonjiten.com/data/46136.html Entry at Nihonjiten] (in Japanese)
+
+{{topics|ja|Legumes|Purples|sort=あい}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[람]]>[[남]]|eumhun=|mr=ram>nam|y=lam>nam}}
+
+===Etymology 1===
+
+===Hanja===
+{{ko-hanja/new|쪽|람}}
+
+# {{rfdef|ko|sort=艸14}}
+
+===Etymology 2===
+
+===Hanja===
+{{ko-hanja/new|볼|감}}
+
+# {{rfdef|ko|sort=艸14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|reading=lam, chàm, rôm, rườm, trôm, xám|rs=艸14}}
+
+# {{rfdef|vi|sort=艸14}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=85cd&img=1 Nôm Foundation]

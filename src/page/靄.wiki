@@ -1,0 +1,130 @@
+{{also|霭}}
+{{character info}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=16|sn=24|four=10627|canj=MBYRV|ids=⿱⻗謁}}
+
+# [[cloudy]] [[sky]], [[haze]] [[mist]]
+# [[calm]], [[peaceful]]
+
+====References====
+* {{Han ref|kx=1380.180|dkj=42526|dj=1889.280|hdz=64083.030|uh=9744|ud=38724|bh=C647|bd=50759}}
+
+----
+
+==Chinese==
+{{zh-forms|s=霭}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=ǎi
+|c=oi2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[mist]], [[haze]]
+
+===Compounds===
+{{zh-der|煙靄|雲靄|靄氣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=雨16}}
+
+====Readings====
+{{ja-readings
+|goon=あい, あち
+|kanon=あい, あつ
+|kun=もや-
+}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ja-r|靄%靄|あい%あい|rom=-}}, {{ja-r|靄%々|あい%あい}}
+* {{ja-r|靄%気|あい%き}}
+* {{ja-r|靄%然|あい%ぜん}}
+* {{ja-r|靄%靆|あい%たい}}
+* {{ja-r|靄%迺|あい%だい|}}
+* {{ja-r|山%靄|さん%あい}}
+* {{ja-r|春%靄|しゅん%あい}}
+* {{ja-r|水%靄|すい%あい}}
+* {{ja-r|翠%靄|すい%あい}}
+* {{ja-r|晩%靄|ばん%あい}}
+* {{ja-r|暮%靄|ぼ%あい}}
+* {{ja-r|杳%靄|よう%あい}}
+{{der-bottom}}
+
+===Etymology 1===
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|Mist}}
+</div>
+{{ja-kanjitab|yomi=k|もや}}
+
+{{rfe|ja|sort=もや}}
+
+====Pronunciation====
+{{ja-pron|もや|y=k|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|もや}}
+
+# {{lb|ja|sort=もや|meteorology|also used|_|figuratively}} [[mist]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|もやもや}}
+* {{ja-r|靄る|もやる}}
+* {{ja-r|朝靄|あさもや}}
+* {{ja-r|雨%靄|あま%もや}}
+* {{ja-r|薄%靄|うす%もや}}
+* {{ja-r|夕%靄|ゆう%もや}}
+{{der-bottom}}
+
+=====See also=====
+* {{ja-r|霧|きり|[[fog]]}}
+* {{ja-r|霞|かすみ|[[mist]], [[haze]]}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|あい}}
+
+From {{der|ja|ltc|sort=あい|-}} {{ltc-l|靄|id=1}}.
+
+====Affix====
+{{ja-pos|affix|あい}}
+
+# [[mist]], [[haze]]
+# [[mistiness]], [[haziness]]
+
+====Proper noun====
+{{ja-pos|proper|あい}}
+
+# {{given name|ja|female|A=a|sort=あい}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=애|eumhun=|rv=ae|mr=ae|y=ay}}
+
+# {{rfdef|ko|sort=雨16}}

@@ -1,0 +1,88 @@
+{{also|Buks}}
+==Cimbrian==
+
+===Alternative forms===
+* {{alter|cim|vuks||Luserna|Tredici Comuni}}
+
+===Etymology===
+From {{inh|cim|gmh|vuhs}}, from {{inh|cim|goh|fuhs}}, from {{inh|cim|gem-pro|*fuhsaz||fox}}. Cognate with {{cog|de|Fuchs}}, {{cog|en|fox}}.
+
+===Noun===
+{{cim-noun|m|bükse}}
+
+# {{lb|cim|Sette Comuni}} [[fox]]
+#: {{uxi|cim|De '''bükse''' zeint baltze zèchlen.|'''Foxes''' are clever animals.}}
+
+===References===
+*{{R:Martalar1974}}
+*{{R:Patuzzi}}
+
+{{c|cim|Foxes}}
+
+----
+
+==Dutch==
+
+===Pronunciation===
+* {{IPA|nl|/bʏks/}}
+* {{audio|nl|Nl-buks.ogg|Audio}}
+* {{hyphenation|nl|buks}}
+* {{rhymes|nl|ʏks}}
+
+===Etymology 1===
+Borrowed from {{bor|nl|de|Büchse}}.
+
+====Noun====
+{{nl-noun|f|g2=m|-en|buksje}}
+
+# [[shotgun]]
+
+=====Derived terms=====
+* {{l|nl|jachtbuks}}
+* {{l|nl|luchtbuks}}
+* {{l|nl|windbuks}}
+
+===Etymology 2===
+Borrowed from {{bor|nl|de|Buchs}}, from {{der|nl|la|buxus}}.
+
+====Noun====
+{{nl-noun|m|-en|buksje}}
+
+# [[box]] (tree)
+
+=====Derived terms=====
+* {{l|nl|buksboom}}
+
+[[Category:nl:Trees]]
+
+----
+
+==Old Prussian==
+
+===Noun===
+{{head|prg|noun|g=m}}
+
+# [[beech]] (tree)
+
+[[Category:prg:Trees]]
+
+----
+
+==Swedish==
+
+===Noun===
+{{head|sv|noun form}}
+
+# {{sv-noun-form-indef-gen|buk}}
+
+===Anagrams===
+* {{anagrams|sv|a=bksu|kubs}}
+
+----
+
+==Volapük==
+
+===Noun===
+{{head|vo|noun plural form}}
+
+# {{plural of|vo|buk}}

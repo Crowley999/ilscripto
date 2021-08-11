@@ -1,0 +1,652 @@
+{{also|Fox}}
+
+==English==
+{{wikipedia}}
+
+{{multiple images
+|direction = vertical
+|image1 = Rød ræv (Vulpes vulpes).jpg
+|image2 = Räv_vid_Revhusen_i_Ystad_-_Juli_2012..jpg
+|image3 = Fox_study_6.jpg
+|caption3 = A red '''fox'''.
+}}
+
+===Etymology===
+From {{inh|en|enm|fox}}, from {{inh|en|ang|fox||fox}}, from {{inh|en|gmw-pro|*fuhs}}, from {{inh|en|gem-pro|*fuhsaz||fox}}, from {{inh|en|ine-pro|*púḱsos||the tailed one}}, possibly from {{m|ine-pro|*puḱ-||tail}}.
+
+Cognate with {{cog|sco|fox||fox}}, {{cog|fy|foks||fox}}, Fering-Öömrang {{cog|frr|foos}} and Sölring and Heligoland {{m|frr|fos}}, {{cog|nl|vos||fox}}, {{cog|nds|vos||fox}}, {{cog|de|Fuchs||fox}}, {{cog|is|fóa||fox}}, {{cog|txb|päkā||tail, chowrie}}, {{cog|ru|пух||down, fluff}}, {{cog|sa|पुच्छ|tr=púccha}} (whence {{cog|trw|پوش|tr=pūš||fox}}, {{cog|hi|पूंछ|t=tail}}).
+
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/fɒks/}}
+* {{a|GA}} {{IPA|en|/fɑks/}}
+* {{audio|en|En-us-fox.ogg|Audio (US)}}
+* {{rhymes|en|ɒks}}
+
+===Noun===
+{{en-noun|+|foxen|pl2qual=nonstandard, dialectal}}
+
+# A [[red fox]], small [[carnivore]] (''[[Vulpes vulpes]]''), related to dogs and wolves, with red or silver [[fur]] and a [[bushy]] [[tail]].
+#: {{ux|en|The quick brown '''fox''' jumps over the lazy dog.}}
+#* '''15<sup>th</sup> century''', ''{{w|The Fox (folk song)|The Fox}}'', {{nowrap|verse 1:}}
+#*: The '''fox''' went out on a chase one night, / he prayed to the Moon to give him light, / for he had many a mile to go that night / before he reached the town-o, town-o, town-o. / He had many a mile to go that night / before he reached the town-o.
+#* {{RQ:Jefferies Amateur Poacher|chapter=The First Gun|page=1|passage=They burned the old gun that used to stand in the dark corner up in the garret, close to the stuffed '''fox''' that always grinned so fiercely. Perhaps the reason why he seemed in such a ghastly rage was that he did not come by his death fairly. Otherwise his pelt would not have been so perfect. And why else was he put away up there out of sight?—and so magnificent a brush as he had too.}}
+# Any of numerous [[species]] of small [[wild]] [[canid]]s resembling the red fox. In the [[taxonomy]] they form the tribe [[Vulpini]] within the family [[Canidae]], consisting of nine [[genera]] (see the [[w:Fox|Wikipedia article on the fox]]).
+# The [[fur]] of a fox.
+# A [[fox terrier]].
+# The {{vern|gemmeous dragonet}}, a [[fish]], {{taxlink|Callionymus lyra|species|ver=160924}}, so called from its yellow color.
+# A [[cunning]] person.
+# {{lb|en|slang|metaphor}} A physically attractive man or woman.
+#* '''1993''', {{w|Laura Antoniou}}, ''{{w|The Marketplace series|The Marketplace}}'', p.90:
+#*: And Jerry was cute, you know, I liked him, but Frank was a total '''fox'''. And he was rougher than Jerry, you know, not so cultured.
+#* {{quote-book|en|year=2012|author=Adele Parks|title=Still Thinking of You|passage=It wasn't just that Jayne was a '''fox''' – although, fuck, was she ever a fox. That arse, those tits, those lips. They could have a really good time together.}}
+# {{lb|en|nautical}} A small strand of [[rope]] made by twisting several rope-yarns together. Used for [[seizing]]s, [[mat]]s, [[sennit]]s, and [[gasket]]s.
+# {{lb|en|mechanics}} A [[wedge]] driven into the split end of a [[bolt]] to tighten it.
+# A [[hidden]] [[radio]] [[transmitter]], finding which is the goal of [[radiosport]].
+#* '''2006''', H. Ward Silver, ''The ARRL Ham Radio License Manual''
+#*: Locating a hidden transmitter (the '''fox''') has been a popular ham activity for many years.
+# {{lb|en|cartomancy}} The fourteenth [[Lenormand]] card.
+# {{lb|en|obsolete}} A [[sword]]; so called from the stamp of a fox on the blade, or perhaps of a wolf taken for a fox.
+#* {{RQ:Shakespeare Henry 5|act=IV|scene=iv|passage=Thou diest on point of '''fox'''.}}
+
+====Synonyms====
+* {{sense|a mammal related to dogs and wolves}} {{l|en|tod}}
+* {{sense|attractive man or woman}} see also [[Thesaurus:beautiful woman]]
+
+====Hypernyms====
+* {{l|en|canid}}
+
+====Hyponyms====
+* {{l|en|vixen}} {{qual|feminine form}}
+
+====Derived terms====
+{{col4|en
+|Arctic fox
+|blue fox
+|Cape fox
+|dog fox
+|firefox
+|flying fox
+|foxaline
+|fox and geese
+|fox bat
+|foxberry
+|fox cub
+|fox dog
+|foxery
+|[[foxfire]], [[fox fire]], [[fox-fire]]
+|fox fur
+|foxglove
+|fox grape
+|foxhole
+|foxhound
+|fox hunt
+|fox-hunter
+|fox-hunting
+|foxie
+|foxish
+|Fox Islands
+|foxlike
+|foxling
+|foxly
+|fox mark
+|fox moth
+|fox plum
+|Fox River
+|fox shark
+|foxship
+|[[fox sleep]], [[fox's sleep]]
+|[[fox snake]], [[foxsnake]]
+|fox sparrow
+|fox squirrel
+|fox's socks
+|Fox Street
+|foxtail
+|fox terrier
+|fox-trot
+|foxtrot
+|foxy
+|[[gray fox]], [[grey fox]]
+|kit fox
+|outfox
+|polar fox
+|red fox
+|sand fox
+|silver fox
+|sly as a fox
+|snow fox
+|the quick brown fox jumps over the lazy dog
+|white fox
+}}
+
+====Descendants====
+* {{desc|bor=1|chy|vóhkéso}}
+* {{desc|bor=1|ja|フォックス|tr=fokkusu}}
+* {{desc|bor=1|mi|pōkiha}}
+
+====Translations====
+{{trans-top|''Vulpes''}}
+{{multitrans|data=
+* Abaza: {{tt|abq|бага}}
+* Abenaki: {{tt|abe|ôkwses}}, {{tt|abe|wôkwses}}
+* Adyghe: {{tt|ady|баджэ}}
+* Afrikaans: {{tt+|af|vos}}, {{tt+|af|jakkals}}
+* Ainu: {{tt|ain|チロヌッㇷ゚|tr=chironnup}}, {{tt|ain|シュマリ|tr=shumari}}, {{tt|ain|キモッペ|tr=kimoppe}}
+* Alabama: {{tt|akz|chola}}
+* Albanian: {{tt|sq|dhelpën|f}} {{tt+|sq|dhelpër|f}}, {{tt|sq|dhelpra}}
+* Algonquin: {{tt|alq|wonkis}}
+* Alutor: {{tt|alr|татул|tr=tatul}}
+* Amharic: {{tt|am|ቀበሮ}}
+* Arabic: {{tt+|ar|ثَعْلَب|m}}
+*: Egyptian Arabic: {{tt|arz|تعلب|m|tr=taʿlab}}
+*: Hijazi Arabic: {{tt|acw|ثعلب|m|tr=taʿlab, ṯaʿlab}}
+*: Sudanese Arabic: {{tt|apd|بعشوم|m|tr=baʿšūm}}
+*: Iraqi Arabic: {{tt|acm|حسيني|m|tr=ḥsēni}}
+*: San'ani Arabic: {{tt|ayn|ثعل|m|tr=ṯaʿal}}
+* Aramaic:
+*: Hebrew: {{tt|arc|תעלא|m|tr=taʿlā}}
+* Arapaho: {{tt|arp|nouː}}, {{tt|arp|beːχou}}
+* Armenian: {{tt+|hy|աղվես}}
+*: Old Armenian: {{tt|xcl|աղուէս}}
+* Aromanian: {{tt|rup|vulpi|f}}
+* Assamese: {{tt|as|শিয়াল}}
+* Asturian: {{tt|ast|raposu|m}}, {{tt|ast|vulpeya|f}}
+* Avar: {{tt|av|цер}}
+* Azerbaijani: {{tt+|az|tülkü}}
+* Baluchi: {{tt|bal|روباہ|tr=robáh}}
+* Bashkir: {{tt|ba|төлкө}}
+* Basque: {{tt+|eu|azeri}}
+* Bats: {{tt|bbl|ცოკალ}}
+* Belarusian: {{tt|be|ліса́|f}}, {{tt|be|ліс|m}}
+* Bengali: {{tt|bn|শিয়াল}}
+* Bhojpuri: {{t-needed|bho}}
+* Breton: {{tt+|br|louarn|m}}
+* Bulgarian: {{tt+|bg|лиси́ца|f}}
+* Burmese: {{tt+|my|မြေခွေး}}
+* Carrier: {{tt|crx|naŋʌz}}
+* Catalan: {{tt+|ca|guineu|f}}, {{tt+|ca|guilla|f}}, {{tt+|ca|rabosa|f}}
+* Chakma: {{t-needed|ccp}}
+* Chamicuro: {{tt|ccc|tus̈huli}}
+* Chechen: {{tt|ce|цхьогал}}
+* Cherokee: {{tt|chr|ᏧᎳ}}
+* Cheyenne: {{tt|chy|vóhkéso}}
+* Chickasaw: {{tt|cic|chula}}
+* Chinese:
+*: Cantonese: {{tt|yue|狐狸|tr=wu4 lei4-2}}
+*: Dungan: {{tt|dng|хўзы}}, {{tt|dng|ехўзы}}
+*: Hakka: {{tt|hak|狐狸|tr=fù-lì}}
+*: Mandarin: {{tt+|cmn|狐狸|tr=húlí}}
+*: Min Dong: {{tt|cdo|狐狸|tr=hù-lì}}
+*: Min Nan: {{tt+|nan|狐狸|tr=hô͘-lî}}
+*: Wu: {{tt|wuu|狐狸|tr=hhu li}}
+* Choctaw: {{tt|cho|chula}}
+* Chukchi: {{tt|ckt|ятъёԓ|tr=jatʺjoḷ}}, {{tt|ckt|чеԓгырэӄокаԓгын|tr=čeḷgyrėqokaḷgyn}} {{qualifier|red}}
+* Chuvash: {{tt|cv|тилӗ}}
+* Cimbrian: {{tt|cim|buks|m}} {{qualifier|Sette Comuni}}, {{tt|cim|vuks|m}} {{qualifier|Luserna|Tredici Comuni}}
+* Cornish: {{tt|kw|lowarn|m}}
+* Cree: {{tt|cr|ᒪᕁᐁᓰᐢ}}
+* Creek: {{tt|mus|culv}}
+* Crimean Tatar: {{tt|crh|tilki}}
+* Czech: {{tt+|cs|liška|f}}
+* Dalmatian: {{tt|dlm|bualp|m}}
+* Danish: {{tt+|da|ræv|c}}
+* Dargwa: {{tt|dar|гурда}}
+* Daur: {{tt|dta|xunugw}}
+* Dongxiang: {{tt|sce|funiegve}}
+* Dutch: {{tt+|nl|vos|m}}
+* Erzya: {{tt|myv|ривезь}}
+* Esperanto: {{tt+|eo|vulpo}}
+* Estonian: {{tt+|et|rebane}}
+* Ewe: {{tt|ee|abei|n}}
+* Faroese: {{tt|fo|revur|m}}
+* Finnish: {{tt+|fi|kettu}}
+* Fox: {{tt|sac|wâkoshêha}}
+* French: {{tt+|fr|renard|m}}, {{tt+|fr|goupil|m}} {{qualifier|archaic}}, {{tt+|fr|renard roux|m}}, {{tt+|fr|renard commun|m}}
+*: Middle French: {{tt|frm|renard|m}}
+*: Old French: {{tt|fro|gupil|m}}, {{tt|fro|goupil|m}}
+* Friulian: {{tt|fur|bolp|m}}, {{tt|fur|volp|m}}
+* Gagauz: {{tt|gag|tilki}}
+* Galician: {{tt+|gl|raposo|m}}, {{tt+|gl|golpe|m}}, {{tt|gl|renarte|m}}
+* Georgian: {{tt|ka|მელა}}, {{tt|ka|მელია}}
+* German: {{qualifier|♂♀}} {{tt+|de|Fuchs|m}}, {{qualifier|♂}} {{tt|de|Fuchsrüde|m}}, {{qualifier|♀}} {{tt+|de|Füchsin|f}}, {{qualifier|♀}} {{tt+|de|Fähe|f}}, {{qualifier|♂}} {{tt|de|Fuchsmännchen|n}}, {{qualifier|♀}} {{tt|de|Fuchsweibchen|n}}
+*: Alemannic German: {{tt|gsw|Fuchs|m}}
+*: Middle High German: {{tt|gmh|vuhs|m}} (also: {{tt|gmh|vuohs}})
+* Gothic: {{tt|got|𐍆𐌰𐌿𐌷𐍉|f}}
+* Greek: {{tt+|el|αλεπού|f}}
+*: Ancient: {{tt|grc|ἀλώπηξ|f}}, {{tt|grc|ἀλωπός|m}}
+* Greenlandic: {{tt+|kl|terianniaq}}
+* Guaraní: {{tt|gn|aguara}}
+* Hawaiian: {{tt|haw|ʻalopeka}}, {{tt|haw|ʻalopeke}}
+* Hebrew: {{tt+|he|שׁוּעָל|m|tr=shuál}}
+* Hiligaynon: {{tt|hil|sora}}
+* Hindi: {{tt+|hi|लोमड़ी|f}}
+* Hopi: {{tt|hop|leetayo}}
+* Hungarian: {{tt+|hu|róka}}
+* Icelandic: {{tt+|is|refur|m}}, {{tt+|is|tófa|f}}
+* Ido: {{tt+|io|foxo}}
+* Indonesian: {{tt+|id|rubah}}
+* Ingrian: {{tt|izh|repoi}}
+* Inuktitut: {{tt|iu|ᑎᕆᒐᓐᓂᐊᖅ}}
+* Irish: {{tt+|ga|sionnach|m}}, {{tt|ga|madra rua|m}}
+*: Old Irish: {{tt|sga|sinnach}}
+* Istriot: {{tt|ist|bulpo}}
+* Italian: {{tt+|it|volpe|f}}
+* Japanese: {{tt+|ja|狐|tr=[[きつね]], kitsune}}, {{tt+|ja|キツネ|tr=kitsune}}, {{qualifier|katakana}} {{tt|ja|フォックス|tr=fokkusu}}
+* Jarai: {{tt|jra|mơja}}
+* Kabardian: {{tt|kbd|бажэ}}
+* Kalmyk: {{tt|xal|арат}}, {{tt|xal|үнгн}}
+* Karachay-Balkar: {{tt|krc|тюлкю|tr=tülkü}}
+* Karelian: {{tt|krl|rebo}}, {{tt|krl|repo}}
+* Kashmiri: {{tt|ks|لوو|tr=lōv}}
+* Kashubian: {{tt|csb|lës|f}}
+* Kazakh: {{tt+|kk|түлкі}}
+* Khakas: {{tt|kjh|тӱлгӱ}}
+* Khmer: {{tt+|km|កញ្ជ្រោង}}
+* Khotanese: {{tt|kho|tr=rrūvāsa}}
+* Klamath-Modoc: {{tt|kla|w̓an}}
+* Koasati: {{tt|cku|cola}}
+* Komi-Permyak: {{tt|koi|руч}}
+* Korean: {{tt+|ko|여우}}
+* Kumyk: {{tt|kum|тюлкю|tr=tülkü}}
+* Kurdish:
+*: Central Kurdish: {{tt+|ckb|رێوی}}
+*: Northern Kurdish: {{tt+|kmr|rovî}}
+* Kyrgyz: {{tt+|ky|түлкү}}
+* Ladin: {{tt|lld|volp|m}}
+* Ladino: {{tt|lad|renar|m|f}}
+* Lakota: {{tt|lkt|tokalu}}, {{tt|lkt|šungila}}
+* Lao: {{tt|lo|ຈິກຈອກ}}
+* Latgalian: {{tt|ltg|lopsa|f}}
+* Latin: {{tt+|la|vulpes|f}}
+* Latvian: {{tt|lv|lapsa|f}}
+* Lezgi: {{tt|lez|сикӀ}}
+* Lithuanian: {{tt+|lt|lapė|f}}, {{tt+|lt|lapinas|m}}
+* Livonian: {{tt|liv|re'bbi}}
+* Low German: {{tt|nds|Foß|m}}, {{tt|nds|Voß|m}}, {{tt+|nds|Voss|m}}
+*: Middle Low German: {{tt|gml|vos}}
+* Luxembourgish: {{tt+|lb|Fochs|m}}, {{tt+|lb|Fuuss|m}}
+* Lü: {{tt|khb|ᦋᦲᧉᦈᦸᧅᧈ}}
+{{trans-mid}}
+* Macedonian: {{tt|mk|лисица|f}}
+* Magahi: {{t-needed|mag}}
+* Mahican: {{tt|mjy|waugoosus}}
+* Malagasy: {{tt+|mg|amboahaolo}}
+* Malay:
+*: Jawi: {{tt|ms|روبه}}, {{tt|ms|موسڠ}}
+*: Rumi: {{tt|ms|rubah}}, {{tt|ms|musang}}
+* Malayalam: {{tt+|ml|കുറുക്കൻ}}
+* Malecite-Passamaquoddy: {{tt|pqm|qaqsoss}}
+* Maltese: {{tt|mt|volpi|m}}
+* Manchu: {{tt|mnc|ᡩᠣᠪᡳ}}
+* Manx: {{tt|gv|shynnagh|m}}
+* Maori: {{tt|mi|pōkiha}}
+* Marathi: {{tt|mr|कोल्हा}}
+* Massachusett: {{tt|wam|wonksis}}, {{tt|wam|wonkqŭssis}}, {{tt|wam|wonksis}}, {{tt|wam|wonkqŭssis}}
+* Menominee: {{tt|mez|wa·koh}}
+* Mi'kmaq: {{tt|mic|wokwis}}
+* Middle Dutch: {{tt|dum|vos|m}}
+* Middle English: {{tt|enm|foxe}}
+* Mingo: {{tt|iro-min|unõˀkwatkwá}}
+* Mohawk: {{tt|moh|tsitsho}}
+* Mohegan-Pequot: {{tt|xpq|wôks}}
+* Moksha: {{tt|mdf|келазь}}
+* Mongghul: {{tt|xgn-mgl|funige}}
+* Mongolian: {{tt+|mn|үнэг}}
+* Montagnais: {{tt|moe|matsheshu}}
+* Montana Salish: {{tt|fla|χʷaχʷáʕ}}
+* Mru: {{tt|mro|𖩔𖩑𖩘}}
+* Mòcheno: {{tt|mhn|vucks|m}}
+* Nanticoke: {{tt|nnt|waaks}}
+* Navajo: {{tt|nv|mąʼii łitsooí}}
+* Nogai: {{tt|nog|туьлки}}
+* Norman: {{tt|nrf|r'nard|m}} {{qualifier|Jersey}}
+* North Frisian: {{tt|frr|Fos|m}} {{qualifier|Sylt}}
+* Northern Paiute: {{tt|pao|waŋ̇i’i}}
+* Norwegian: {{tt+|no|rev|m}}
+* O'odham: {{tt|ood|gaso}}
+* Occitan: {{tt+|oc|mandra|f}}, {{tt+|oc|rainal|m}}, {{tt+|oc|guèine|m}}
+* Ojibwe: {{tt|oj|ᐙᑯᔥ|tr=[[waagosh]]}}
+* Okinawan: {{tt|ryu|狐|tr=ちちに, chichini}}
+* Old Church Slavonic:
+*: Cyrillic: {{tt|cu|лисъ|m}}, {{tt|cu|лисица|f}}
+* Old East Slavic: {{tt|orv|лисъ|m}}, {{tt|orv|лисица|f}}
+* Old English: {{tt+|ang|fox|m}}
+* Old High German: {{tt|goh|fuhs}}, {{tt|goh|foha}}
+* Old Norse: {{tt|non|fóa|f}}
+* Old Prussian: {{tt|prg|lape}}
+* Old Turkic: {{tt|otk|tilkü}}
+* Ossetian:
+*: Digor: {{tt|os|робас}}
+*: Iron: {{tt|os|рувас}}
+* Pashto: {{tt|ps|ترودۍ|tr=tródǝ́y}}, {{tt|ps|تروری|tr=troráy}}, {{tt|ps|تروړۍ|tr=troṛǝy}}
+* Pawnee: {{tt|paw|kiwʌ́ku}}
+* Penobscot: {{tt|aaq|kwɑ'ŋk'ʷsəs}}
+* Persian: {{tt+|fa|روباه|tr=rubâh}}
+* Plautdietsch: {{tt|pdt|Foss|m}}
+* Polabian: {{tt|pox|laiskă|f}}
+* Polish: {{tt+|pl|lis|m}}, {{tt+|pl|lisica|f}}, {{tt+|pl|liszka|f}}
+* Portuguese: {{tt+|pt|raposa|f}}, {{tt+|pt|raposa-vermelha}}
+* Potawatomi: {{tt|pot|wekshi}}
+* Punjabi: {{tt|pa|ਲੂੰਬੜੀ|f}}
+* Purepecha: {{tt|pua|kúmi-wátsï}}
+* Quechua: {{tt+|qu|atuq}}
+* Rohingya: {{t-needed|rhg}}
+* Romagnol: {{tt|rgn|vùlpa|f}}
+* Romani: {{tt|rom|hilpa|f}}
+* Romanian: {{tt+|ro|vulpe|f}}
+* Romansch: {{tt|rm|vulp|f}}
+* Russian: {{tt+|ru|лиса́|f}}, {{tt+|ru|лиси́ца|f}}, {{tt+|ru|лис|m}}
+* Sami:
+*: Northern Sami: {{tt|se|rieban}}
+*: Inari Sami: {{tt|smn|riemnjis}}
+*: Skolt Sami: {{tt|sms|riʹmjj}}
+* Sanskrit: {{tt+|sa|लोपाश|m|tr=lopāśá}}
+* Sardinian: {{tt|sc|mrexani}}, {{tt|sc|fraitzu}}, {{tt|sc|liori}}, {{tt|sc|grupi}}
+* Saterland Frisian: {{tt|stq|Foaks|m}}
+* Scots: {{tt|sco|tod}}
+* Scottish Gaelic: {{tt|gd|sionnach|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{tt|sh|лѝсица|f}}, {{tt|sh|ли́сац|m}}
+*: Roman: {{tt+|sh|lìsica|f}}, {{tt+|sh|lísac|m}}
+* Seri: {{tt|sei|χæːs}}
+* Tashelhit: {{tt|shi|abaɣuɣ}}
+* Shor: {{tt|cjs|тӱлгӱ|tr=tülgü}}
+* Sicilian: {{tt+|scn|vurpi|f}}
+* Sinhalese: {{tt|si|හිවලා}}, {{tt+|si|නරියා}}
+* Slovak: {{tt+|sk|líška|f}}, {{tt|sk|lišiak|m}}
+* Slovene: {{tt+|sl|lisica|f}}, {{tt|sl|lisjak|m}}
+* Sorbian:
+*: Lower Sorbian: {{tt|dsb|liška|f}}
+*: Upper Sorbian: {{tt|hsb|liška|f}}
+* Southern Altai: {{tt|alt|тӱлкӱ}}
+* Spanish: {{tt+|es|zorro|m}}, {{tt+|es|zorra|f}}, {{tt+|es|raposo|m}}, {{tt|es|raposa|f}}, {{tt+|es|vulpeja|f}}
+* Sumerian: {{tt|sux|𒈜|tr=ka₅|ts=ka'a}}
+* Svan: {{tt|sva|მა̄ლ}}
+* Swahili: {{tt|sw|mbweha mwekundu}}, {{tt|sw|thalabu}}
+* Swedish: {{tt+|sv|räv|c}}
+* Sylheti: {{tt|syl|ꠢꠤꠀꠟ}}
+* Tabasaran: {{tt|tab|сул}}
+* Tachawit: {{tt+|shy|abaraɣ}}
+* Tagalog: {{tt|tl|soro}}
+* Tajik: {{tt+|tg|рӯбоҳ}}
+* Tamil: {{tt+|ta|நரி}}
+* Taos: {{tt|twf|tùxwána}}
+* Tatar: {{tt+|tt|төлке}}
+* Telugu: {{tt+|te|నక్క}}
+* Thai: {{tt+|th|จิ้งจอก}}
+* Tibetan: {{tt|bo|ཝ་མོ}}
+* Tigrinya: {{tt|ti|ወኻርያ}}
+* Tlingit: {{tt|tli|nɑġʌs’é}}
+* Torwali: {{tt|trw|pūš}}
+* Translingual: {{tt|mul|🦊}}
+* Turkish: {{tt+|tr|tilki}}
+* Turkmen: {{tt|tk|tilki}}
+* Tuvan: {{tt|tyv|дилги}}
+* Udi: {{tt|udi|шул}}
+* Udmurt: {{tt|udm|ӟичы}}
+* Ukrainian: {{tt|uk|лис|m}}, {{tt|uk|лиси́ця|f}}
+* Unami: {{tt|unm|òkwës}}
+* Urdu: {{tt|ur|لومڑی|f|tr=lomaṛī}}
+* Uyghur: {{tt+|ug|تۈلكە}}
+* Uzbek: {{tt+|uz|tulki}}
+* Venetian: {{tt|vec|volp}}, {{tt+|vec|bolpe}}, {{tt|vec|bolp}}
+* Veps: {{tt|vep|reboi}}
+* Vietnamese: {{tt+|vi|cáo}}
+* Vilamovian: {{tt|wym|füks|m}}
+* Volapük: {{tt+|vo|renar}}
+* Voro: {{tt|vor|repän'}}, {{qualifier|childish}} {{tt|vor|rebo}}
+* Votic: {{tt|vot|repo}}
+* Welsh: {{qualifier|Southern}} {{tt+|cy|cadno|m}}, {{qualifier|Northern}} {{tt+|cy|llwynog|m}}
+* West Frisian: {{tt|fy|foks|m}}
+* Wutunhua: {{tt|wuh|gha}}
+* Xhosa: {{tt|xh|impungutye|c9|c10}}
+* Yagnobi: {{tt|yai|руба}}
+* Yakut: {{tt|sah|саһыл}}
+* Yiddish: {{tt|yi|פֿוקס|m}}
+* Yucatec Maya: {{tt|yua|ohč}}
+* Yurok: {{tt|yur|wergers}}, {{tt|yur|wɹgɹs}}
+* Yámana: {{tt|yag|ĉilóea}}
+* Zazaki: {{tt|zza|lû}}
+{{trans-bottom}}
+
+{{trans-top|any of the species in the tribe ''Vulpini''}}
+* Afrikaans: {{tt+|af|vos}}
+* Arabic: {{t-needed|ar}}
+* Danish: {{tt+|da|ræv|c}}
+* Dutch: {{tt+|nl|vos|m}}
+* Faroese: {{tt|fo|revur|m}}
+* Finnish: {{tt+|fi|kettu}}
+* French: {{t-needed|fr}}
+* Hebrew: {{tt+|he|שועל|m|tr=shuál}}
+* Hungarian: {{tt+|hu|róka}}
+* Irish: {{tt+|ga|sionnach|m}}, {{tt|ga|madra rua|m}}
+* Kashmiri: {{tt|ks|لوو|tr=lōv}}
+* Latin: {{tt+|la|vulpēs|f}}
+* Mongolian: {{t-needed|mn}}
+{{trans-mid}}
+* Nivkh: {{tt|niv|кʼеӄ}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|rev|m}}
+*: Nynorsk: {{tt+|nn|rev|m}}
+* Portuguese: {{tt+|pt|raposa}}
+* Russian: {{tt+|ru|лиса́|f}}, {{tt+|ru|лиси́ца|f}}, {{tt+|ru|лис|m}}
+* Slovak: {{tt+|sk|líška|f}}
+* Spanish: {{t-needed|es}}
+* Swahili: {{tt+|sw|mbweha}}
+* Swedish: {{tt+|sv|räv|c}}
+* West Frisian: {{tt|fy|foks}}
+* Zulu: {{t-needed|zu}}
+{{trans-bottom}}
+
+{{trans-top|fox fur}}
+* Bulgarian: {{tt|bg|лисича кожа|f}}
+* Finnish: {{tt|fi|ketunnahka}}
+* French: {{tt+|fr|renard|m}}
+* German: {{tt|de|Fuchspelz|m}}
+* Hungarian: {{tt+|hu|rókabunda}}
+{{trans-mid}}
+* Mongolian: {{t-needed|mn}}
+* Russian: {{tt+|ru|лиса́|f}}, {{tt+|ru|лиси́ца|f}}, {{tt|ru|[[ли́сий]] [[мех]]|m}}
+* Volapük: {{tt|vo|renarapläd}}
+{{trans-bottom}}
+
+{{trans-see|fox terrier}}
+
+{{trans-top|cunning person}}
+* Afrikaans: {{tt+|af|skelm}}
+* Bulgarian: {{tt+|bg|хитрец|m}}
+* Czech: {{tt+|cs|lišák|m}}
+* Dutch: {{tt+|nl|vos|m}}, {{tt+|nl|schelm|m}}
+* Esperanto: {{tt|eo|ruzulo}}
+* Finnish: {{tt+|fi|kettu}}, {{tt+|fi|kelmi}}
+* French: {{tt+|fr|roublard|m}}, {{tt+|fr|retors|f}}
+* Galician: {{tt|gl|crouco|m}}, {{tt|gl|moina|m}}, {{tt|gl|zaimo|m}}, {{tt|gl|laino|m}}, {{tt+|gl|loubán|m}}
+* Georgian: {{tt|ka|მელა}}, {{tt|ka|მელია}}, {{tt|ka|ცბიერი}}, {{tt|ka|გაიძვერა}}
+* German: {{tt+|de|Fuchs|m}}
+* Greek: {{tt+|el|αλεπού|f}}
+* Italian: {{tt+|it|volpe|f}}
+* Macedonian: {{tt|mk|лисица|f}}
+* Persian: {{tt+|fa|فریبکار|tr=faribkâr}}, {{tt|fa|نیرنگباز|tr=neyrangbâz}}
+{{trans-mid}}
+* Portuguese: {{tt+|pt|matreiro|m}}, {{tt|pt|raposa velha}}
+* Russian: {{tt|ru|[[ло́вкий]] [[плут]]|m}}, {{tt+|ru|лиса́|f}}, {{tt+|ru|лис|m}}, {{tt+|ru|хитре́ц|m}}, {{tt+|ru|плут|m}}, {{tt+|ru|ше́льма|m|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{tt|sh|лѝсица|f}}
+*: Roman: {{tt+|sh|lìsica|f}}
+* Slovak: {{tt|sk|lišiak|m}}
+* Spanish: {{tt+|es|zorro|m}}
+* Swahili: {{tt+|sw|mbweha}}
+* Swedish: {{tt+|sv|räv}}
+* Telugu: {{tt+|te|జిత్తులమారి}}
+* Turkish: {{tt+|tr|tilki}}
+{{trans-bottom}}
+
+{{trans-top|attractive woman}}
+* Czech: {{tt+|cs|kočka|f}}
+* Danish: {{tt|da|steg|c}}
+* Faroese: {{tt|fo|sprund|n}}
+* Finnish: {{tt+|fi|kissa}}
+* French: {{tt+|fr|bombe|f}}
+{{trans-mid}}
+* Galician: {{tt|gl|morlana|f}}, {{tt|gl|garnela|f}}
+* Hungarian: {{tt+|hu|bombázó}}, {{tt|hu|cicababa}}, {{tt|hu|csinibaba}}
+* Persian: {{tt+|fa|دلکش|tr=delkaš}}, {{tt+|fa|نازنین|tr=nâzanin}}
+* Russian: {{tt+|ru|краса́вица|f}}, {{tt+|ru|ко́шечка|f}}, {{tt+|ru|ки́ска|f}}, {{tt+|ru|красо́тка|f}}, {{tt+|ru|мила́шка|f}}
+* Slovak: {{tt+|sk|kočka|f}}
+* Swahili: {{tt+|sw|mbweha}}
+}}<!-- close {{multitrans}} -->
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Ineseño: {{t-check|inz|knɨy}}
+{{trans-mid}}
+* Ute: {{t-check|ute|waŋ̇i’i}}
+{{trans-bottom}}
+
+====See also====
+* {{list:canids/en}}
+* {{l|en|Reynard}}
+* {{l|en|kitsune}}
+* {{l|en|cub}}
+
+====References====
+* {{projectlink|Collier's|Fox}}
+
+===Verb===
+{{en-verb}}
+
+# {{lb|en|transitive}} To [[trick]], [[fool]] or [[outwit]] (someone) by [[cunning]] or [[ingenuity]].
+# {{lb|en|transitive}} To [[confuse]] or [[baffle]] (someone).
+#: ''This crossword puzzle has completely '''foxed''' me.''
+# {{lb|en|intransitive}} To act [[slyly]] or [[craftily]].
+# {{lb|en|intransitive}} To [[discolour]] paper. Fox marks are spots on paper caused by [[humidity]]. (See {{m|en|foxing}}.)
+#: ''The pages of the book show distinct '''foxing'''.''
+# {{lb|en|transitive}} To make sour, as beer, by causing it to ferment.
+# {{lb|en|intransitive}} To turn [[sour]]; said of [[beer]], etc., when it sours in [[ferment]]ing.
+# {{lb|en|transitive}} To [[intoxicate]]; to stupefy with drink.
+#* {{RQ:Pepys Diary|II|29 September 1661}}
+#*: I drank {{...}} so much wine that I was almost '''foxed'''.
+# {{lb|en|transitive}} To repair (boots) with new front upper leather, or to piece the upper fronts of.
+
+====Derived terms====
+* {{l|en|outfox}}
+
+====Translations====
+{{trans-top|to trick}}
+{{multitrans|data=
+* Bulgarian: {{tt+|bg|измамвам}}
+* French: {{tt+|fr|se jouer de}}, {{tt+|fr|piéger}}
+* Italian: {{tt+|it|ingannare}}
+{{trans-mid}}
+* Russian: {{tt+|ru|обма́нывать}}
+* Slovak: {{tt|sk|prekabátiť}}
+* Swahili: {{tt+|sw|mbweha}}
+{{trans-bottom}}
+
+{{trans-top|to confuse}}
+* Bulgarian: {{tt+|bg|обърквам}}, {{tt+|bg|озадачавам}}
+* French: {{tt+|fr|troubler}}
+* Italian: {{t+|it|[[lasciare]] [[perplesso]]}}
+{{trans-mid}}
+* Russian: {{tt+|ru|обма́нывать}}
+* Swahili: {{tt+|sw|mbweha}}
+{{trans-bottom}}
+
+{{trans-top|to act slyly}}
+* Bulgarian: {{tt+|bg|хитрувам}}
+* French: {{tt+|fr|ruser}}
+{{trans-mid}}
+* Russian: {{tt+|ru|хитри́ть}}
+* Swahili: {{tt+|sw|mbweha}}
+{{trans-bottom}}
+
+{{trans-top|To make sour, as beer, by causing it to ferment}}
+* Bulgarian: {{tt+|bg|вкисвам}}
+{{trans-mid}}
+* French: {{tt+|fr|aigrir}}
+}}<!-- close {{multitrans}} -->
+{{trans-bottom}}
+
+{{C|en|Appearance|Foxes|Hides|People}}
+
+===Anagrams===
+* {{anagrams|en|a=fox|Oxf.}}
+
+----
+
+==Middle English==
+
+===Alternative forms===
+* {{alter|enm|vox|wox}}
+
+===Etymology===
+From {{inh|enm|ang|fox}}, from {{inh|enm|gmw-pro|*fuhs}}, from {{inh|enm|gem-pro|*fuhsaz}}.
+
+===Pronunciation===
+* {{IPA|enm|/fɔks/}}
+* {{rhymes|enm|ɔks}}
+
+===Noun===
+{{enm-noun|pl=foxes|pl2=fox}}
+
+# A fox or its fur.
+# A lier or schemer.
+
+====Descendants====
+* {{desc|en|fox}}
+* {{desc|sco|fox}}
+* {{desc|yol|voxe}}
+
+====References==== 
+* {{R:MED Online|entry=fox|pos=n|id=MED17500}}
+{{C|enm|Canids}}
+
+----
+
+==Old English==
+
+===Etymology===
+From {{inh|ang|gmw-pro|*fuhs}}, from {{inh|ang|gem-pro|*fuhsaz}}. Cognate with {{cog|ofs|*foks}}, {{cog|osx|fohs}}, {{cog|odt|fus}}, {{cog|goh|fuhs}}.
+
+===Pronunciation===
+* {{ang-IPA|fox}}
+
+===Noun===
+{{ang-noun|m|foxas}}
+
+# {{l|en|fox}}
+
+====Declension====
+{{ang-decl-noun-a-m|fox}}
+
+====Derived terms====
+* {{l|ang|foxhol}}
+
+====Descendants====
+* {{desctree|enm|fox}}
+
+----
+
+==Old French==
+
+===Alternative forms===
+* {{alter|fro|fols|fous}}
+
+===Adjective===
+{{head|fro|adjective form}}
+
+# {{infl of|fro|fol||nom|and|oblique|m|s}}
+
+----
+
+==Romanian==
+
+===Etymology===
+From {{bor|ro|fr|fox}}.
+
+===Noun===
+{{ro-noun|m|focși}}
+
+# [[fox terrier]]
+
+====Declension====
+{{ro-noun-m|pl=focși}}

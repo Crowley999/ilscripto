@@ -1,0 +1,122 @@
+{{character info}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=06|sn=9|four=44414|canj=VGG|ids=⿰女圭}}
+
+====References====
+* {{Han ref|kx=0261.290|dkj=06262|dj=0528.020|hdz=21042.060|uh=5A03|ud=23043|bh=ABBD|bd=43965}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|圭|c1=s|c2=p|ls=psc}}.
+
+===Etymology 1===
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|m=wá,er=y
+|m-s=wa2
+|dg=ва1
+|c=waa1
+|c-t=va1
+|g=ua4/ua1
+|h=pfs=vâ;gd=va1
+|j=va1
+|mb=uá
+|md=uă
+|mn=oa
+|mn-t=ua1
+|w=1ua
+|x=ua2
+|mc=y
+|oc=y
+|cat=a,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[beautiful]]
+# {{†}} beautiful [[girl]]
+# [[girl]]; [[lady]]; [[female]]
+# [[child]]; [[kid]]; [[infant]]
+# [[child]] {{gl|[[son]] or [[daughter]]}}
+# {{lb|zh|regional}} [[son]]
+# {{lb|zh|regional}} [[young]] [[animal]]
+# [[doll]]
+#: {{zh-x|洋娃娃{wa}|doll}}
+
+=====Synonyms=====
+{{zh-dial|小孩}}
+{{zh-dial|兒女}}
+{{zh-dial|兒子}}
+
+====Compounds====
+{{zh-der|吉娃娃|夏娃|女娃|娃兒|娃娃|娃娃生|娃娃裝|娃娃車|娃娃魚|娃子|嬌娃|宮娃|小娃娃|拴娃娃|李娃傳|泥娃娃|洋娃娃|館娃宮|娃娃臉|懷娃娃|仙娃|僮娃|吳娃|吳娃越豔|大頭娃娃|奶娃|姣娃|娃娃氣|娃草|娵娃|官娃|小娃|市娃|村娃|樹娃子|碎娃|細娃|虔娃|豬娃|豬娃子|賊娃子|金娃娃|閨娃|館娃|魚娃|雞娃|生娃}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=guì,wá
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{surname|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女06}}
+
+# beautiful (''used only for names'')
+
+====Readings====
+* {{ja-readings
+|goon=え<ゑ
+|kanon=あい, わ
+|kun=うつく-し.い
+}}
+
+===Etymology===
+{{ja-kanjitab|あい|yomi=kanon}}
+Sino-Japanese.
+
+The {{m|ja|漢音|tr=kan'on}} reading, so likely a later borrowing.
+
+===Affix===
+{{ja-pos|affix|あい}}
+
+# [[beauty]], [[beautiful]] girl {{qualifier|generally only used in names}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=왜}}
+
+# [[baby]]
+# [[doll]]
+# pretty girl
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|reading=oa|rs=女06}}
+
+# {{rfdef|vi|sort=女06}}

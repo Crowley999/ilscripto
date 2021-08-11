@@ -1,0 +1,9 @@
+{{#invoke:links/templates|l_term_t<noinclude>|demo=term</noinclude>}}<!--
+
+-->{{#ifeq:{{PAGENAME}}|RecentChanges||<!--
+    -->{{#ifeq:{{{1|}}}|und|[[Category:Undetermined language links]]}}<!--
+-->}}<!--
+
+-->{{redlink category|{{{1|}}}|{{{2|}}}|template=l}}<!--
+
+--><noinclude>{{documentation}}</noinclude>
