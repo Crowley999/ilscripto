@@ -1,5 +1,5 @@
 # Getting started
-Run the following code to push code and pages together:
+Run the following code to put code and pages together:
 ```bash
 git clone --branch master https://github.com/Crowley999/ilscripto ilscripto
 git clone --branch sup https://github.com/Crowley999/ilscripto ilscripto-sup
@@ -9,6 +9,7 @@ cd ilscripto/src
 ln -s Module module # this is not needed
 lua # run lua
 ```
+Some examples involving `getContent` are shown below.
 ## [装13](https://en.wiktionary.org/wiki/装13)
 ```lua
 require("mw")
