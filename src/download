@@ -1,0 +1,30 @@
+#!/bin/bash
+usage() { echo "Usage: $0 [-l <langcode>] title..." 1>&2; exit 1; }
+lang=en
+for arg in "$@"; do
+  shift
+  case "$arg" in
+    "--help") set -- "$@" "-h" ;;
+    "--lang") set -- "$@" "-l" ;;
+    *)        set -- "$@" "$arg"
+  esac
+done
+while getopts ":l:" opt
+do
+    case $opt in
+        l)
+            lang=$OPTARG
+            ;;
+        ?)
+            usage
+            ;;
+    esac
+done
+shift $(($OPTIND - 1))
+for title in "$@"; do
+    title=${title// /_}
+    saveto="page/${title}"
+    if [[ $title == "Module:"* ]]; then saveto="${title/Module:/Module/}.lua"; fi  # Module/ works
+    echo $title
+    curl -o "${saveto}" --create-dirs -f -s -S -G --data-urlencode "title=${title}" --data-urlencode "action=raw" "https://${lang}.wiktionary.org/w/index.php"
+done

@@ -1,0 +1,13 @@
+*.luac
+*.txt
+
+/myscript
+/src/myscript
+
+/src/*.lua
+!/src/mw.lua
+!/src/libraryUtil.lua
+
+/src/page
+/src/module
+/src/Module
