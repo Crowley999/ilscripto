@@ -1,5 +1,7 @@
 *.luac
 *.txt
+*.txt~
+*.lua~
 
 /myscript
 /src/myscript

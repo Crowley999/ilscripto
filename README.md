@@ -1,4 +1,4 @@
-# ilscripto
+# ilscripto 0.0.1
 [![License: GPL v2+](https://img.shields.io/badge/License-GPLv2-blue.svg)](COPYING)
 
 Running your wikimedia modules locally with **pure Lua**. This is done by [src/php/](src/php/).

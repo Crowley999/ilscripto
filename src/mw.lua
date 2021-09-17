@@ -5,6 +5,14 @@ package.searchers[#package.searchers + 1] = function(mod)
     return cnt > 0 and package.searchers[2](mod) or nil
 end
 
+package.searchers[#package.searchers + 1] = function(mod)
+    mod, cnt = mod:gsub(' ', '_'):gsub('Module:', 'Module.') -- '_' is recognized by scribunto, so we use '_' as default
+    if cnt > 0 and true then
+        mod = mod:sub(1, 7) .. mw.ustring.upper(mod:sub(8, 8)) .. mod:sub(9)
+        return package.searchers[2](mod)
+    end
+end
+
 function table.maxn( table ) -- [[mw:Extension:Scribunto/Lua_reference_manual#table.maxn]], for mw.message
     local maxn, k = 0, nil
     repeat

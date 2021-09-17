@@ -1,19 +1,24 @@
 #!/bin/bash
-usage() { echo "Usage: $0 [-l <langcode>] title..." 1>&2; exit 1; }
+usage() { echo "Usage: $0 [-l <langcode>] [-p <project>] title..." 1>&2; exit 1; }
 lang=en
+project=wiktionary
 for arg in "$@"; do
   shift
   case "$arg" in
     "--help") set -- "$@" "-h" ;;
     "--lang") set -- "$@" "-l" ;;
+    "--project") set -- "$@" "-p" ;;
     *)        set -- "$@" "$arg"
   esac
 done
-while getopts ":l:" opt
+while getopts ":l:p:" opt
 do
     case $opt in
         l)
             lang=$OPTARG
+            ;;
+        p)
+            project=$OPTARG
             ;;
         ?)
             usage
@@ -26,5 +31,5 @@ for title in "$@"; do
     saveto="page/${title}.wiki"
     if [[ $title == "Module:"* ]]; then saveto="${title/Module:/Module/}.lua"; fi  # Module/ works
     echo $title
-    curl -o "${saveto}" --create-dirs -f -s -S -G --data-urlencode "title=${title}" --data-urlencode "action=raw" "https://${lang}.wiktionary.org/w/index.php"
+    curl -o "${saveto}" --create-dirs -f -s -S -G --data-urlencode "title=${title}" --data-urlencode "action=raw" "https://${lang}.${project}.org/w/index.php"
 done
